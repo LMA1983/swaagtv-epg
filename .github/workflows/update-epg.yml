@@ -1,1 +1,23 @@
-
+name: Update EPG
+on:
+  schedule:
+    - cron: "15 9 * * *"   # daily, 09:15 UTC
+  workflow_dispatch: {}      # lets you run it manually
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python update_epg.py
+      - name: Commit if changed
+        run: |
+          git config user.name "epg-bot"
+          git config user.email "epg-bot@users.noreply.github.com"
+          git add swaagtv.xml
+          git diff --cached --quiet || (git commit -m "Update EPG" && git push)
