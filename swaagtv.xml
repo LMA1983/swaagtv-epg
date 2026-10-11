@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="custom">
+  <channel id="swaagtv">
+    <display-name>SWAAGTV</display-name>
+  </channel>
+  <programme start="20261011050000 -0500" stop="20261011070000 -0500" channel="swaagtv">
+    <title>Steps of Faith (2014)</title>
+  </programme>
+  <programme start="20261011070000 -0500" stop="20261011073000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261011073000 -0500" stop="20261011080000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261011080000 -0500" stop="20261011083000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261011083000 -0500" stop="20261011090000 -0500" channel="swaagtv">
+    <title>Tomorrow's World Living Church of God</title>
+  </programme>
+  <programme start="20261011090000 -0500" stop="20261011093000 -0500" channel="swaagtv">
+    <title>Black American Experience</title>
+    <sub-title>Black Men Who Shaped American History - Part 1</sub-title>
+  </programme>
+  <programme start="20261011093000 -0500" stop="20261011100000 -0500" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+  </programme>
+  <programme start="20261011100000 -0500" stop="20261011101500 -0500" channel="swaagtv">
+    <title>Real Health</title>
+  </programme>
+  <programme start="20261011101500 -0500" stop="20261011103000 -0500" channel="swaagtv">
+    <title>Real Health</title>
+  </programme>
+  <programme start="20261011103000 -0500" stop="20261011110000 -0500" channel="swaagtv">
+    <title>Mind Matters</title>
+    <sub-title>Therapy Spa</sub-title>
+  </programme>
+  <programme start="20261011110000 -0500" stop="20261011113000 -0500" channel="swaagtv">
+    <title>Black Tax</title>
+    <sub-title>First Day</sub-title>
+  </programme>
+  <programme start="20261011113000 -0500" stop="20261011120000 -0500" channel="swaagtv">
+    <title>Music Revolution</title>
+    <sub-title>Wale; T-Pain; Don Trip</sub-title>
+  </programme>
+  <programme start="20261011120000 -0500" stop="20261011140000 -0500" channel="swaagtv">
+    <title>Bad to the Jones (2011)</title>
+  </programme>
+  <programme start="20261011140000 -0500" stop="20261011163000 -0500" channel="swaagtv">
+    <title>Tanwa Savage (2021)</title>
+  </programme>
+  <programme start="20261011163000 -0500" stop="20261011180000 -0500" channel="swaagtv">
+    <title>Angels Unaware (2022)</title>
+  </programme>
+  <programme start="20261011180000 -0500" stop="20261011190000 -0500" channel="swaagtv">
+    <title>The Smart Money Woman</title>
+    <sub-title>Episode 3</sub-title>
+  </programme>
+  <programme start="20261011190000 -0500" stop="20261011201500 -0500" channel="swaagtv">
+    <title>Black Tax</title>
+    <sub-title>First Day</sub-title>
+  </programme>
+  <programme start="20261011201500 -0500" stop="20261011220000 -0500" channel="swaagtv">
+    <title>Unconditional (2012)</title>
+  </programme>
+  <programme start="20261011220000 -0500" stop="20261012000000 -0500" channel="swaagtv">
+    <title>Bad to the Jones (2011)</title>
+  </programme>
+  <programme start="20261012000000 -0500" stop="20261012003000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261012003000 -0500" stop="20261012010000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261012010000 -0500" stop="20261012013000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261012013000 -0500" stop="20261012024500 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261012024500 -0500" stop="20261012040000 -0500" channel="swaagtv">
+    <title>No Regrets (2016)</title>
+  </programme>
+  <programme start="20261012040000 -0500" stop="20261012043000 -0500" channel="swaagtv">
+    <title>Hush</title>
+  </programme>
+  <programme start="20261012043000 -0500" stop="20261012050000 -0500" channel="swaagtv">
+    <title>The Olive</title>
+    <sub-title>Private Messages</sub-title>
+  </programme>
+  <programme start="20261012050000 -0500" stop="20261012070000 -0500" channel="swaagtv">
+    <title>The Church Office (2010)</title>
+  </programme>
+  <programme start="20261012070000 -0500" stop="20261012073000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261012073000 -0500" stop="20261012080000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261012080000 -0500" stop="20261012093000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261012093000 -0500" stop="20261012110000 -0500" channel="swaagtv">
+    <title>No Regrets (2016)</title>
+  </programme>
+  <programme start="20261012110000 -0500" stop="20261012113000 -0500" channel="swaagtv">
+    <title>Music Revolution</title>
+    <sub-title>Wale; T-Pain; Don Trip</sub-title>
+  </programme>
+  <programme start="20261012113000 -0500" stop="20261012123000 -0500" channel="swaagtv">
+    <title>Kasi Car Culture</title>
+    <sub-title>Africa's Stance Scene</sub-title>
+  </programme>
+  <programme start="20261012123000 -0500" stop="20261012143000 -0500" channel="swaagtv">
+    <title>When a Woman's Fed Up (2014)</title>
+  </programme>
+  <programme start="20261012143000 -0500" stop="20261012161500 -0500" channel="swaagtv">
+    <title>When it Comes Around (2018)</title>
+  </programme>
+  <programme start="20261012161500 -0500" stop="20261012180000 -0500" channel="swaagtv">
+    <title>The Church Office (2010)</title>
+  </programme>
+  <programme start="20261012180000 -0500" stop="20261012181500 -0500" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+  </programme>
+  <programme start="20261012181500 -0500" stop="20261012183000 -0500" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+  </programme>
+  <programme start="20261012183000 -0500" stop="20261012190000 -0500" channel="swaagtv">
+    <title>Visa on Arrival</title>
+    <sub-title>Be Humble</sub-title>
+  </programme>
+  <programme start="20261012190000 -0500" stop="20261012200000 -0500" channel="swaagtv">
+    <title>The Smart Money Woman</title>
+    <sub-title>Episode 4</sub-title>
+  </programme>
+  <programme start="20261012200000 -0500" stop="20261012220000 -0500" channel="swaagtv">
+    <title>Red Pill (2021)</title>
+  </programme>
+  <programme start="20261012220000 -0500" stop="20261013000000 -0500" channel="swaagtv">
+    <title>Gigi's Wake (2022)</title>
+  </programme>
+  <programme start="20261013000000 -0500" stop="20261013003000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261013003000 -0500" stop="20261013010000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261013010000 -0500" stop="20261013013000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261013013000 -0500" stop="20261013024500 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261013024500 -0500" stop="20261013040000 -0500" channel="swaagtv">
+    <title>When a Woman's Fed Up (2014)</title>
+  </programme>
+  <programme start="20261013040000 -0500" stop="20261013043000 -0500" channel="swaagtv">
+    <title>Kasi Car Culture</title>
+    <sub-title>Africa's Stance Scene</sub-title>
+  </programme>
+  <programme start="20261013043000 -0500" stop="20261013050000 -0500" channel="swaagtv">
+    <title>DreamCars</title>
+    <sub-title>British Limousines</sub-title>
+  </programme>
+  <programme start="20261013050000 -0500" stop="20261013070000 -0500" channel="swaagtv">
+    <title>When it Comes Around (2018)</title>
+  </programme>
+  <programme start="20261013070000 -0500" stop="20261013073000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261013073000 -0500" stop="20261013080000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261013080000 -0500" stop="20261013083000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261013083000 -0500" stop="20261013090000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261013090000 -0500" stop="20261013110000 -0500" channel="swaagtv">
+    <title>Gigi's Wake (2022)</title>
+  </programme>
+  <programme start="20261013110000 -0500" stop="20261013120000 -0500" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+  </programme>
+  <programme start="20261013120000 -0500" stop="20261013140000 -0500" channel="swaagtv">
+    <title>The Gods (2017)</title>
+  </programme>
+  <programme start="20261013140000 -0500" stop="20261013160000 -0500" channel="swaagtv">
+    <title>No Regrets (2016)</title>
+  </programme>
+  <programme start="20261013160000 -0500" stop="20261013180000 -0500" channel="swaagtv">
+    <title>Red Pill (2021)</title>
+  </programme>
+  <programme start="20261013180000 -0500" stop="20261013183000 -0500" channel="swaagtv">
+    <title>Real Health</title>
+  </programme>
+  <programme start="20261013183000 -0500" stop="20261013190000 -0500" channel="swaagtv">
+    <title>Mind Matters</title>
+    <sub-title>Loss</sub-title>
+  </programme>
+  <programme start="20261013190000 -0500" stop="20261013193000 -0500" channel="swaagtv">
+    <title>Black American Experience</title>
+    <sub-title>Black Men Who Shaped American History - Part 2</sub-title>
+  </programme>
+  <programme start="20261013193000 -0500" stop="20261013200000 -0500" channel="swaagtv">
+    <title>The Olive</title>
+    <sub-title>Private Messages</sub-title>
+  </programme>
+  <programme start="20261013200000 -0500" stop="20261013223000 -0500" channel="swaagtv">
+    <title>Turning Point (2024)</title>
+  </programme>
+  <programme start="20261013223000 -0500" stop="20261013224500 -0500" channel="swaagtv">
+    <title>Jacob's Cross</title>
+  </programme>
+  <programme start="20261013224500 -0500" stop="20261013233000 -0500" channel="swaagtv">
+    <title>Jacob's Cross</title>
+  </programme>
+  <programme start="20261013233000 -0500" stop="20261014000000 -0500" channel="swaagtv">
+    <title>Kasi Car Culture</title>
+    <sub-title>Africa's Stance Scene</sub-title>
+  </programme>
+  <programme start="20261014000000 -0500" stop="20261014003000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261014003000 -0500" stop="20261014010000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261014010000 -0500" stop="20261014013000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261014013000 -0500" stop="20261014020000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+  </programme>
+  <programme start="20261014020000 -0500" stop="20261014030000 -0500" channel="swaagtv">
+    <title>Jacob's Cross</title>
+  </programme>
+  <programme start="20261014030000 -0500" stop="20261014050000 -0500" channel="swaagtv">
+    <title>Gigi's Wake (2022)</title>
+  </programme>
+</tv>
