@@ -6,86 +6,6 @@
   <channel id="nost">
     <display-name>NOST - The Nostalgia Network</display-name>
   </channel>
-  <programme start="20261016050000 -0500" stop="20261016073000 -0500" channel="swaagtv">
-    <title>When a Woman's Fed Up (2014)</title>
-    <desc>Tarlyn, a career-driven woman, learns her man has been unfaithful, and she develops a devious plan to teach him a lesson.</desc>
-  </programme>
-  <programme start="20261016073000 -0500" stop="20261016080000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261016080000 -0500" stop="20261016083000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261016083000 -0500" stop="20261016090000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261016090000 -0500" stop="20261016110000 -0500" channel="swaagtv">
-    <title>When it Comes Around (2018)</title>
-    <desc>A young, successful sports executive falls in love with a new agent at his office. The beautiful woman manipulates him and uses him as a pawn for her advancement.</desc>
-  </programme>
-  <programme start="20261016110000 -0500" stop="20261016113000 -0500" channel="swaagtv">
-    <title>Black Tax</title>
-    <desc>One Meeting Away Thuli helps Menzi pitch an idea at a party; Martha fires the maid, sparking Sihle's feminist instincts.</desc>
-  </programme>
-  <programme start="20261016113000 -0500" stop="20261016120000 -0500" channel="swaagtv">
-    <title>Finest Homes</title>
-    <desc>A look at a luxury apartment development that stands proud on the architectural stage, and serves as a key urban space, right in the heart of Sandton.</desc>
-  </programme>
-  <programme start="20261016120000 -0500" stop="20261016140000 -0500" channel="swaagtv">
-    <title>Red Pill (2021)</title>
-    <desc>In the run-up to the 2020 elections, some progressives head deep into a red state to canvas homes for votes but find terror instead.</desc>
-  </programme>
-  <programme start="20261016140000 -0500" stop="20261016163000 -0500" channel="swaagtv">
-    <title>The Church Office (2010)</title>
-    <desc>A neurotic church employee desires the position of church office general, but must overcome the antics of her knowledgeable yet sarcastic co-worker, while enduring the chaos of her crazy church office family!</desc>
-  </programme>
-  <programme start="20261016163000 -0500" stop="20261016180000 -0500" channel="swaagtv">
-    <title>A Caribbean Dream (2017)</title>
-    <desc>Puck the butler and the staff of a tropical home turn into mischievous fairies and tamper with the wedding plans of three couples.</desc>
-  </programme>
-  <programme start="20261016180000 -0500" stop="20261016183000 -0500" channel="swaagtv">
-    <title>What's Really Goin' On</title>
-    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
-  </programme>
-  <programme start="20261016183000 -0500" stop="20261016190000 -0500" channel="swaagtv">
-    <title>Music Revolution</title>
-    <desc>Wale; T-Pain; Don Trip Wale; T-Pain; Don Trip.</desc>
-  </programme>
-  <programme start="20261016190000 -0500" stop="20261016201500 -0500" channel="swaagtv">
-    <title>Jacob's Cross</title>
-    <desc>Lerato tells Jacob that she wants to keep the baby; Jacob feels pressure from all sides as Thembi asks him to attend a memorial.</desc>
-  </programme>
-  <programme start="20261016201500 -0500" stop="20261016221500 -0500" channel="swaagtv">
-    <title>No Regrets (2016)</title>
-    <desc>A flight attendant finally agrees to marry her college sweetheart after 12 years of proposals. But after meeting a handsome divorcee during a layover in Los Angeles, she finds herself in a compromising position that she never thought she'd be in.</desc>
-  </programme>
-  <programme start="20261016221500 -0500" stop="20261017000000 -0500" channel="swaagtv">
-    <title>When it Comes Around (2018)</title>
-    <desc>A young, successful sports executive falls in love with a new agent at his office. The beautiful woman manipulates him and uses him as a pawn for her advancement.</desc>
-  </programme>
-  <programme start="20261017000000 -0500" stop="20261017003000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261017003000 -0500" stop="20261017010000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261017010000 -0500" stop="20261017013000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261017013000 -0500" stop="20261017023000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261017023000 -0500" stop="20261017043000 -0500" channel="swaagtv">
-    <title>The Gods (2017)</title>
-    <desc>Mickey, a street hustler, starts working for the Fasano family to get closer to Sofia, the mob boss' daughter. After winning her heart and secretly getting married, a chain of fateful events change their lives forever when the secret is exposed.</desc>
-  </programme>
   <programme start="20261017043000 -0500" stop="20261017053000 -0500" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
@@ -1376,9 +1296,101 @@
     <title>Music Revolution</title>
     <desc>Wale; T-Pain; Don Trip Wale; T-Pain; Don Trip.</desc>
   </programme>
-  <programme start="20261030043000 -0500" stop="20261030050000 -0500" channel="swaagtv">
+  <programme start="20261030043000 -0500" stop="20261030053000 -0500" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>Black Men Who Shaped American History -- Part 2</desc>
+  </programme>
+  <programme start="20261030053000 -0500" stop="20261030070000 -0500" channel="swaagtv">
+    <title>A Caribbean Dream (2017)</title>
+    <desc>Puck the butler and the staff of a tropical home turn into mischievous fairies and tamper with the wedding plans of three couples.</desc>
+  </programme>
+  <programme start="20261030070000 -0500" stop="20261030073000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261030073000 -0500" stop="20261030080000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261030080000 -0500" stop="20261030083000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261030083000 -0500" stop="20261030094500 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261030094500 -0500" stop="20261030111500 -0500" channel="swaagtv">
+    <title>Red Pill (2021)</title>
+    <desc>In the run-up to the 2020 elections, some progressives head deep into a red state to canvas homes for votes but find terror instead.</desc>
+  </programme>
+  <programme start="20261030111500 -0500" stop="20261030113000 -0500" channel="swaagtv">
+    <title>Black Tax</title>
+    <desc>One Meeting Away Thuli helps Menzi pitch an idea at a party; Martha fires the maid, sparking Sihle's feminist instincts.</desc>
+  </programme>
+  <programme start="20261030113000 -0500" stop="20261030120000 -0500" channel="swaagtv">
+    <title>Finest Homes</title>
+    <desc>A look at a luxury apartment development that stands proud on the architectural stage, and serves as a key urban space, right in the heart of Sandton.</desc>
+  </programme>
+  <programme start="20261030120000 -0500" stop="20261030140000 -0500" channel="swaagtv">
+    <title>Lockdown: 2025 (2021)</title>
+    <desc>When martial law is declared, a family seeks shelter in the safety of its own home during a nationwide lockdown for a highly contagious virus.</desc>
+  </programme>
+  <programme start="20261030140000 -0500" stop="20261030160000 -0500" channel="swaagtv">
+    <title>The Return (2023) (2023)</title>
+    <desc>In a world where the dead can be brought back to life, Chad is torn between vengeance and forgiveness when his parents' killer is freed from prison.</desc>
+  </programme>
+  <programme start="20261030160000 -0500" stop="20261030180000 -0500" channel="swaagtv">
+    <title>Angels Unaware (2022)</title>
+    <desc>God sends the archangel, Eden, to Earth where she is purposely placed with people who are about to make a life decision that could negatively impact them and others around them.</desc>
+  </programme>
+  <programme start="20261030180000 -0500" stop="20261030183000 -0500" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
+  </programme>
+  <programme start="20261030183000 -0500" stop="20261030190000 -0500" channel="swaagtv">
+    <title>Music Revolution</title>
+    <desc>Wale; T-Pain; Don Trip Wale; T-Pain; Don Trip.</desc>
+  </programme>
+  <programme start="20261030190000 -0500" stop="20261030191500 -0500" channel="swaagtv">
+    <title>Jacob's Cross</title>
+    <desc>One man's quest to establish a business empire in the cut-throat world of the African oil industry.</desc>
+  </programme>
+  <programme start="20261030191500 -0500" stop="20261030200000 -0500" channel="swaagtv">
+    <title>Jacob's Cross</title>
+    <desc>Lerato tells Jacob that she wants to keep the baby; Jacob feels pressure from all sides as Thembi asks him to attend a memorial.</desc>
+  </programme>
+  <programme start="20261030200000 -0500" stop="20261030220000 -0500" channel="swaagtv">
+    <title>If I Tell You I Have to Kill You (2015)</title>
+    <desc>Dr. Black, a college professor, becomes the prime suspect in a series of murders when his students die one by one. In his search for the truth, the answers will put his beliefs to the test.</desc>
+  </programme>
+  <programme start="20261030220000 -0500" stop="20261031000000 -0500" channel="swaagtv">
+    <title>Red Pill (2021)</title>
+    <desc>In the run-up to the 2020 elections, some progressives head deep into a red state to canvas homes for votes but find terror instead.</desc>
+  </programme>
+  <programme start="20261031000000 -0500" stop="20261031003000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261031003000 -0500" stop="20261031010000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261031010000 -0500" stop="20261031013000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261031013000 -0500" stop="20261031020000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261031020000 -0500" stop="20261031043000 -0500" channel="swaagtv">
+    <title>In the Closet (2013)</title>
+    <desc>Two brothers, leaders of a foundation calling for slave reparations, find their souls threatened by demonic forces.</desc>
+  </programme>
+  <programme start="20261031043000 -0500" stop="20261031050000 -0500" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
   <programme start="20261017105300 -0500" stop="20261017130800 -0500" channel="nost">
     <title>National Velvet</title>
