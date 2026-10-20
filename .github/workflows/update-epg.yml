@@ -5,6 +5,7 @@ on:
   workflow_dispatch: {}      # lets you run it manually
 permissions:
   contents: write
+  issues: write              # lets the NY 48 check open an issue if the station changes its schedule
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,9 +16,20 @@ jobs:
           python-version: "3.12"
       - run: pip install requests beautifulsoup4
       - run: python update_epg.py
+      - name: Add NY 48 to the guide
+        id: ny48
+        run: python generate_ny48.py --merge swaagtv.xml
       - name: Commit if changed
         run: |
           git config user.name "epg-bot"
           git config user.email "epg-bot@users.noreply.github.com"
-          git add swaagtv.xml
+          git add swaagtv.xml schedule.hash
           git diff --cached --quiet || (git commit -m "Update EPG" && git push)
+      - name: Flag a changed NY 48 schedule
+        if: steps.ny48.outputs.schedule_changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "NY 48 schedule page changed" \
+            --body "The schedule at https://www.wonnewyork.net/channel-48-programming-schedeule changed. Update the weekly schedule in generate_ny48.py."
