@@ -10,371 +10,276 @@
     <display-name>NY 48 (WWON-TV)</display-name>
     <display-name>WWON-TV</display-name>
   </channel>
-  <programme start="20261027050000 -0500" stop="20261027060000 -0500" channel="swaagtv">
-    <title>Red Pill (2021)</title>
-    <desc>In the run-up to the 2020 elections, some progressives head deep into a red state to canvas homes for votes but find terror instead.</desc>
-  </programme>
-  <programme start="20261027060000 -0500" stop="20261027063000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261027063000 -0500" stop="20261027070000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261027070000 -0500" stop="20261027073000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261027073000 -0500" stop="20261027081500 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261027081500 -0500" stop="20261027100000 -0500" channel="swaagtv">
+  <programme start="20261028030000 -0500" stop="20261028053000 -0500" channel="swaagtv">
     <title>Bad to the Jones (2011)</title>
     <desc>Two brothers search for their missing sister during a zombie outbreak.</desc>
   </programme>
-  <programme start="20261027100000 -0500" stop="20261027103000 -0500" channel="swaagtv">
-    <title>What's Really Goin' On</title>
-    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
-  </programme>
-  <programme start="20261027103000 -0500" stop="20261027133000 -0500" channel="swaagtv">
-    <title>In the Closet (2013)</title>
-    <desc>Two brothers, leaders of a foundation calling for slave reparations, find their souls threatened by demonic forces.</desc>
-  </programme>
-  <programme start="20261027133000 -0500" stop="20261027151500 -0500" channel="swaagtv">
+  <programme start="20261028053000 -0500" stop="20261028070000 -0500" channel="swaagtv">
     <title>If I Tell You I Have to Kill You (2015)</title>
     <desc>Dr. Black, a college professor, becomes the prime suspect in a series of murders when his students die one by one. In his search for the truth, the answers will put his beliefs to the test.</desc>
-  </programme>
-  <programme start="20261027151500 -0500" stop="20261027170000 -0500" channel="swaagtv">
-    <title>Lockdown: 2025 (2021)</title>
-    <desc>When martial law is declared, a family seeks shelter in the safety of its own home during a nationwide lockdown for a highly contagious virus.</desc>
-  </programme>
-  <programme start="20261027170000 -0500" stop="20261027173000 -0500" channel="swaagtv">
-    <title>Real Health</title>
-  </programme>
-  <programme start="20261027173000 -0500" stop="20261027180000 -0500" channel="swaagtv">
-    <title>Mind Matters</title>
-    <desc>Loss</desc>
-  </programme>
-  <programme start="20261027180000 -0500" stop="20261027183000 -0500" channel="swaagtv">
-    <title>Black American Experience</title>
-    <desc>Black Men Who Shaped American History -- Part 2</desc>
-  </programme>
-  <programme start="20261027183000 -0500" stop="20261027190000 -0500" channel="swaagtv">
-    <title>The Olive</title>
-    <desc>Private Messages Grieving widower Anayo is left to raise his three children after his wife passes away; he soon discovers that his wife led a double life, filled with secrets.</desc>
-  </programme>
-  <programme start="20261027190000 -0500" stop="20261027213000 -0500" channel="swaagtv">
-    <title>5D Love</title>
-    <desc>Amira, an undergrad studying psychology, begins seeing spirits, reading minds, and predicting the future after experiencing random symptoms.</desc>
-  </programme>
-  <programme start="20261027213000 -0500" stop="20261027223000 -0500" channel="swaagtv">
-    <title>Jacob's Cross</title>
-    <desc>Lerato tells Jacob that she wants to keep the baby; Jacob feels pressure from all sides as Thembi asks him to attend a memorial.</desc>
-  </programme>
-  <programme start="20261027223000 -0500" stop="20261027230000 -0500" channel="swaagtv">
-    <title>Kasi Car Culture</title>
-    <desc>Africa's Stance Scene Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
-  </programme>
-  <programme start="20261027230000 -0500" stop="20261027233000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261027233000 -0500" stop="20261028000000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261028000000 -0500" stop="20261028003000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261028003000 -0500" stop="20261028010000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261028010000 -0500" stop="20261028020000 -0500" channel="swaagtv">
-    <title>Jacob's Cross</title>
-    <desc>Lerato tells Jacob that she wants to keep the baby; Jacob feels pressure from all sides as Thembi asks him to attend a memorial.</desc>
-  </programme>
-  <programme start="20261028020000 -0500" stop="20261028043000 -0500" channel="swaagtv">
-    <title>Bad to the Jones (2011)</title>
-    <desc>Two brothers search for their missing sister during a zombie outbreak.</desc>
-  </programme>
-  <programme start="20261028043000 -0500" stop="20261028060000 -0500" channel="swaagtv">
-    <title>If I Tell You I Have to Kill You (2015)</title>
-    <desc>Dr. Black, a college professor, becomes the prime suspect in a series of murders when his students die one by one. In his search for the truth, the answers will put his beliefs to the test.</desc>
-  </programme>
-  <programme start="20261028060000 -0500" stop="20261028063000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261028063000 -0500" stop="20261028070000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261028070000 -0500" stop="20261028073000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261028073000 -0500" stop="20261028084500 -0500" channel="swaagtv">
+  <programme start="20261028073000 -0500" stop="20261028080000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261028084500 -0500" stop="20261028100000 -0500" channel="swaagtv">
+  <programme start="20261028080000 -0500" stop="20261028083000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261028083000 -0500" stop="20261028094500 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261028094500 -0500" stop="20261028110000 -0500" channel="swaagtv">
     <title>Lockdown: 2025 (2021)</title>
     <desc>When martial law is declared, a family seeks shelter in the safety of its own home during a nationwide lockdown for a highly contagious virus.</desc>
   </programme>
-  <programme start="20261028100000 -0500" stop="20261028113000 -0500" channel="swaagtv">
+  <programme start="20261028110000 -0500" stop="20261028123000 -0500" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>Black Men Who Shaped American History -- Part 2</desc>
   </programme>
-  <programme start="20261028113000 -0500" stop="20261028123000 -0500" channel="swaagtv">
+  <programme start="20261028123000 -0500" stop="20261028133000 -0500" channel="swaagtv">
     <title>The Return (2023) (2023)</title>
     <desc>In a world where the dead can be brought back to life, Chad is torn between vengeance and forgiveness when his parents' killer is freed from prison.</desc>
   </programme>
-  <programme start="20261028123000 -0500" stop="20261028143000 -0500" channel="swaagtv">
+  <programme start="20261028133000 -0500" stop="20261028153000 -0500" channel="swaagtv">
     <title>A Caribbean Dream (2017)</title>
     <desc>Puck the butler and the staff of a tropical home turn into mischievous fairies and tamper with the wedding plans of three couples.</desc>
   </programme>
-  <programme start="20261028143000 -0500" stop="20261028170000 -0500" channel="swaagtv">
+  <programme start="20261028153000 -0500" stop="20261028180000 -0500" channel="swaagtv">
     <title>In the Closet (2013)</title>
     <desc>Two brothers, leaders of a foundation calling for slave reparations, find their souls threatened by demonic forces.</desc>
   </programme>
-  <programme start="20261028170000 -0500" stop="20261028171500 -0500" channel="swaagtv">
+  <programme start="20261028180000 -0500" stop="20261028181500 -0500" channel="swaagtv">
     <title>DreamCars</title>
     <desc>Prominent and innovative car models from the leading manufactures of different countries worldwide are featured and showcased.</desc>
   </programme>
-  <programme start="20261028171500 -0500" stop="20261028173000 -0500" channel="swaagtv">
+  <programme start="20261028181500 -0500" stop="20261028183000 -0500" channel="swaagtv">
     <title>DreamCars</title>
     <desc>British Limousines Exuding sophistication and grandeur like no other, a select range of English limousines dominates the world of luxury vehicles.</desc>
   </programme>
-  <programme start="20261028173000 -0500" stop="20261028174500 -0500" channel="swaagtv">
+  <programme start="20261028183000 -0500" stop="20261028184500 -0500" channel="swaagtv">
     <title>What's Really Goin' On</title>
   </programme>
-  <programme start="20261028174500 -0500" stop="20261028180000 -0500" channel="swaagtv">
+  <programme start="20261028184500 -0500" stop="20261028190000 -0500" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261028180000 -0500" stop="20261028183000 -0500" channel="swaagtv">
+  <programme start="20261028190000 -0500" stop="20261028193000 -0500" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Africa's Stance Scene Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261028183000 -0500" stop="20261028190000 -0500" channel="swaagtv">
+  <programme start="20261028193000 -0500" stop="20261028200000 -0500" channel="swaagtv">
     <title>Black Tax</title>
     <desc>One Meeting Away Thuli helps Menzi pitch an idea at a party; Martha fires the maid, sparking Sihle's feminist instincts.</desc>
   </programme>
-  <programme start="20261028190000 -0500" stop="20261028210000 -0500" channel="swaagtv">
+  <programme start="20261028200000 -0500" stop="20261028220000 -0500" channel="swaagtv">
     <title>Angels Unaware (2022)</title>
     <desc>God sends the archangel, Eden, to Earth where she is purposely placed with people who are about to make a life decision that could negatively impact them and others around them.</desc>
   </programme>
-  <programme start="20261028210000 -0500" stop="20261028230000 -0500" channel="swaagtv">
+  <programme start="20261028220000 -0500" stop="20261029000000 -0500" channel="swaagtv">
     <title>A Caribbean Dream (2017)</title>
     <desc>Puck the butler and the staff of a tropical home turn into mischievous fairies and tamper with the wedding plans of three couples.</desc>
-  </programme>
-  <programme start="20261028230000 -0500" stop="20261028233000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261028233000 -0500" stop="20261029000000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261029000000 -0500" stop="20261029003000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261029003000 -0500" stop="20261029014500 -0500" channel="swaagtv">
+  <programme start="20261029003000 -0500" stop="20261029010000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261029014500 -0500" stop="20261029033000 -0500" channel="swaagtv">
+  <programme start="20261029010000 -0500" stop="20261029013000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261029013000 -0500" stop="20261029024500 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261029024500 -0500" stop="20261029043000 -0500" channel="swaagtv">
     <title>5D Love</title>
     <desc>Amira, an undergrad studying psychology, begins seeing spirits, reading minds, and predicting the future after experiencing random symptoms.</desc>
   </programme>
-  <programme start="20261029033000 -0500" stop="20261029040000 -0500" channel="swaagtv">
+  <programme start="20261029043000 -0500" stop="20261029050000 -0500" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261029040000 -0500" stop="20261029060000 -0500" channel="swaagtv">
+  <programme start="20261029050000 -0500" stop="20261029070000 -0500" channel="swaagtv">
     <title>Angels Unaware (2022)</title>
     <desc>God sends the archangel, Eden, to Earth where she is purposely placed with people who are about to make a life decision that could negatively impact them and others around them.</desc>
-  </programme>
-  <programme start="20261029060000 -0500" stop="20261029063000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261029063000 -0500" stop="20261029070000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261029070000 -0500" stop="20261029073000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261029073000 -0500" stop="20261029084500 -0500" channel="swaagtv">
+  <programme start="20261029073000 -0500" stop="20261029080000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261029084500 -0500" stop="20261029100000 -0500" channel="swaagtv">
+  <programme start="20261029080000 -0500" stop="20261029083000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261029083000 -0500" stop="20261029094500 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261029094500 -0500" stop="20261029110000 -0500" channel="swaagtv">
     <title>The Return (2023) (2023)</title>
     <desc>In a world where the dead can be brought back to life, Chad is torn between vengeance and forgiveness when his parents' killer is freed from prison.</desc>
   </programme>
-  <programme start="20261029100000 -0500" stop="20261029111500 -0500" channel="swaagtv">
+  <programme start="20261029110000 -0500" stop="20261029121500 -0500" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261029111500 -0500" stop="20261029133000 -0500" channel="swaagtv">
+  <programme start="20261029121500 -0500" stop="20261029143000 -0500" channel="swaagtv">
     <title>5D Love</title>
     <desc>Amira, an undergrad studying psychology, begins seeing spirits, reading minds, and predicting the future after experiencing random symptoms.</desc>
   </programme>
-  <programme start="20261029133000 -0500" stop="20261029160000 -0500" channel="swaagtv">
+  <programme start="20261029143000 -0500" stop="20261029170000 -0500" channel="swaagtv">
     <title>Lockdown: 2025 (2021)</title>
     <desc>When martial law is declared, a family seeks shelter in the safety of its own home during a nationwide lockdown for a highly contagious virus.</desc>
   </programme>
-  <programme start="20261029160000 -0500" stop="20261029170000 -0500" channel="swaagtv">
+  <programme start="20261029170000 -0500" stop="20261029180000 -0500" channel="swaagtv">
     <title>If I Tell You I Have to Kill You (2015)</title>
     <desc>Dr. Black, a college professor, becomes the prime suspect in a series of murders when his students die one by one. In his search for the truth, the answers will put his beliefs to the test.</desc>
   </programme>
-  <programme start="20261029170000 -0500" stop="20261029173000 -0500" channel="swaagtv">
+  <programme start="20261029180000 -0500" stop="20261029183000 -0500" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>A look at a luxury apartment development that stands proud on the architectural stage, and serves as a key urban space, right in the heart of Sandton.</desc>
   </programme>
-  <programme start="20261029173000 -0500" stop="20261029174500 -0500" channel="swaagtv">
+  <programme start="20261029183000 -0500" stop="20261029184500 -0500" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>Segregation Part 2</desc>
   </programme>
-  <programme start="20261029174500 -0500" stop="20261029180000 -0500" channel="swaagtv">
+  <programme start="20261029184500 -0500" stop="20261029190000 -0500" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>Black Men Who Shaped American History -- Part 2</desc>
   </programme>
-  <programme start="20261029180000 -0500" stop="20261029183000 -0500" channel="swaagtv">
+  <programme start="20261029190000 -0500" stop="20261029193000 -0500" channel="swaagtv">
     <title>Hush</title>
     <desc>A tale of fashion, politics and ambition, involving the lives of members of high society in the city of Lagos; intrigue swirls around the relationship of Bem, a big-time designer, and Arinola, a rising politician.</desc>
   </programme>
-  <programme start="20261029183000 -0500" stop="20261029184500 -0500" channel="swaagtv">
+  <programme start="20261029193000 -0500" stop="20261029194500 -0500" channel="swaagtv">
     <title>The Wild</title>
     <desc>Set in the landscape of a five-star game lodge, this soap opera focuses on three families with financial and rooted connections to the land. Add the intrigue of rival family interests in the competitive safari industry and a classic drama unfolds.</desc>
   </programme>
-  <programme start="20261029184500 -0500" stop="20261029190000 -0500" channel="swaagtv">
+  <programme start="20261029194500 -0500" stop="20261029200000 -0500" channel="swaagtv">
     <title>The Wild</title>
     <desc>The initial spark between Tiro and Lelo grows into an increasing fascination with each other; Itumeleng over-reacts and gets into a fight with Tiro; Bernie's marula berry cake is presented to Kgosi Rratladi.</desc>
   </programme>
-  <programme start="20261029190000 -0500" stop="20261029213000 -0500" channel="swaagtv">
+  <programme start="20261029200000 -0500" stop="20261029223000 -0500" channel="swaagtv">
     <title>In the Closet (2013)</title>
     <desc>Two brothers, leaders of a foundation calling for slave reparations, find their souls threatened by demonic forces.</desc>
   </programme>
-  <programme start="20261029213000 -0500" stop="20261029223000 -0500" channel="swaagtv">
+  <programme start="20261029223000 -0500" stop="20261029233000 -0500" channel="swaagtv">
     <title>The Smart Money Woman</title>
     <desc>Episode 4 After her presentation, Zuri spends some time getting to know Tsola; the women navigate problems in their relationships and money matters.</desc>
   </programme>
-  <programme start="20261029223000 -0500" stop="20261029230000 -0500" channel="swaagtv">
+  <programme start="20261029233000 -0500" stop="20261030000000 -0500" channel="swaagtv">
     <title>DreamCars</title>
     <desc>British Limousines Exuding sophistication and grandeur like no other, a select range of English limousines dominates the world of luxury vehicles.</desc>
-  </programme>
-  <programme start="20261029230000 -0500" stop="20261029233000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261029233000 -0500" stop="20261030000000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261030000000 -0500" stop="20261030003000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261030003000 -0500" stop="20261030014500 -0500" channel="swaagtv">
+  <programme start="20261030003000 -0500" stop="20261030010000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261030014500 -0500" stop="20261030030000 -0500" channel="swaagtv">
+  <programme start="20261030010000 -0500" stop="20261030013000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261030013000 -0500" stop="20261030024500 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261030024500 -0500" stop="20261030040000 -0500" channel="swaagtv">
     <title>Lockdown: 2025 (2021)</title>
     <desc>When martial law is declared, a family seeks shelter in the safety of its own home during a nationwide lockdown for a highly contagious virus.</desc>
   </programme>
-  <programme start="20261030030000 -0500" stop="20261030033000 -0500" channel="swaagtv">
+  <programme start="20261030040000 -0500" stop="20261030043000 -0500" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Wale; T-Pain; Don Trip Wale; T-Pain; Don Trip.</desc>
   </programme>
-  <programme start="20261030033000 -0500" stop="20261030043000 -0500" channel="swaagtv">
+  <programme start="20261030043000 -0500" stop="20261030053000 -0500" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>Black Men Who Shaped American History -- Part 2</desc>
   </programme>
-  <programme start="20261030043000 -0500" stop="20261030060000 -0500" channel="swaagtv">
+  <programme start="20261030053000 -0500" stop="20261030070000 -0500" channel="swaagtv">
     <title>A Caribbean Dream (2017)</title>
     <desc>Puck the butler and the staff of a tropical home turn into mischievous fairies and tamper with the wedding plans of three couples.</desc>
-  </programme>
-  <programme start="20261030060000 -0500" stop="20261030063000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261030063000 -0500" stop="20261030070000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261030070000 -0500" stop="20261030073000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261030073000 -0500" stop="20261030084500 -0500" channel="swaagtv">
+  <programme start="20261030073000 -0500" stop="20261030080000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261030084500 -0500" stop="20261030101500 -0500" channel="swaagtv">
+  <programme start="20261030080000 -0500" stop="20261030083000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261030083000 -0500" stop="20261030094500 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261030094500 -0500" stop="20261030111500 -0500" channel="swaagtv">
     <title>Red Pill (2021)</title>
     <desc>In the run-up to the 2020 elections, some progressives head deep into a red state to canvas homes for votes but find terror instead.</desc>
   </programme>
-  <programme start="20261030101500 -0500" stop="20261030103000 -0500" channel="swaagtv">
+  <programme start="20261030111500 -0500" stop="20261030113000 -0500" channel="swaagtv">
     <title>Black Tax</title>
     <desc>One Meeting Away Thuli helps Menzi pitch an idea at a party; Martha fires the maid, sparking Sihle's feminist instincts.</desc>
   </programme>
-  <programme start="20261030103000 -0500" stop="20261030110000 -0500" channel="swaagtv">
+  <programme start="20261030113000 -0500" stop="20261030120000 -0500" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>A look at a luxury apartment development that stands proud on the architectural stage, and serves as a key urban space, right in the heart of Sandton.</desc>
   </programme>
-  <programme start="20261030110000 -0500" stop="20261030130000 -0500" channel="swaagtv">
+  <programme start="20261030120000 -0500" stop="20261030140000 -0500" channel="swaagtv">
     <title>Lockdown: 2025 (2021)</title>
     <desc>When martial law is declared, a family seeks shelter in the safety of its own home during a nationwide lockdown for a highly contagious virus.</desc>
   </programme>
-  <programme start="20261030130000 -0500" stop="20261030150000 -0500" channel="swaagtv">
+  <programme start="20261030140000 -0500" stop="20261030160000 -0500" channel="swaagtv">
     <title>The Return (2023) (2023)</title>
     <desc>In a world where the dead can be brought back to life, Chad is torn between vengeance and forgiveness when his parents' killer is freed from prison.</desc>
   </programme>
-  <programme start="20261030150000 -0500" stop="20261030170000 -0500" channel="swaagtv">
+  <programme start="20261030160000 -0500" stop="20261030180000 -0500" channel="swaagtv">
     <title>Angels Unaware (2022)</title>
     <desc>God sends the archangel, Eden, to Earth where she is purposely placed with people who are about to make a life decision that could negatively impact them and others around them.</desc>
   </programme>
-  <programme start="20261030170000 -0500" stop="20261030173000 -0500" channel="swaagtv">
+  <programme start="20261030180000 -0500" stop="20261030183000 -0500" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261030173000 -0500" stop="20261030180000 -0500" channel="swaagtv">
+  <programme start="20261030183000 -0500" stop="20261030190000 -0500" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Wale; T-Pain; Don Trip Wale; T-Pain; Don Trip.</desc>
   </programme>
-  <programme start="20261030180000 -0500" stop="20261030181500 -0500" channel="swaagtv">
+  <programme start="20261030190000 -0500" stop="20261030191500 -0500" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>One man's quest to establish a business empire in the cut-throat world of the African oil industry.</desc>
   </programme>
-  <programme start="20261030181500 -0500" stop="20261030190000 -0500" channel="swaagtv">
+  <programme start="20261030191500 -0500" stop="20261030200000 -0500" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>Lerato tells Jacob that she wants to keep the baby; Jacob feels pressure from all sides as Thembi asks him to attend a memorial.</desc>
   </programme>
-  <programme start="20261030190000 -0500" stop="20261030210000 -0500" channel="swaagtv">
+  <programme start="20261030200000 -0500" stop="20261030220000 -0500" channel="swaagtv">
     <title>If I Tell You I Have to Kill You (2015)</title>
     <desc>Dr. Black, a college professor, becomes the prime suspect in a series of murders when his students die one by one. In his search for the truth, the answers will put his beliefs to the test.</desc>
   </programme>
-  <programme start="20261030210000 -0500" stop="20261030230000 -0500" channel="swaagtv">
+  <programme start="20261030220000 -0500" stop="20261031000000 -0500" channel="swaagtv">
     <title>Red Pill (2021)</title>
     <desc>In the run-up to the 2020 elections, some progressives head deep into a red state to canvas homes for votes but find terror instead.</desc>
-  </programme>
-  <programme start="20261030230000 -0500" stop="20261030233000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261030233000 -0500" stop="20261031000000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261031000000 -0500" stop="20261031003000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
@@ -384,319 +289,220 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261031010000 -0500" stop="20261031033000 -0500" channel="swaagtv">
+  <programme start="20261031010000 -0500" stop="20261031013000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261031013000 -0500" stop="20261031020000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261031020000 -0500" stop="20261031043000 -0500" channel="swaagtv">
     <title>In the Closet (2013)</title>
     <desc>Two brothers, leaders of a foundation calling for slave reparations, find their souls threatened by demonic forces.</desc>
   </programme>
-  <programme start="20261031033000 -0500" stop="20261031043000 -0500" channel="swaagtv">
+  <programme start="20261031043000 -0500" stop="20261031053000 -0500" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261031043000 -0500" stop="20261031060000 -0500" channel="swaagtv">
+  <programme start="20261031053000 -0500" stop="20261031070000 -0500" channel="swaagtv">
     <title>The Return (2023) (2023)</title>
     <desc>In a world where the dead can be brought back to life, Chad is torn between vengeance and forgiveness when his parents' killer is freed from prison.</desc>
-  </programme>
-  <programme start="20261031060000 -0500" stop="20261031063000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261031063000 -0500" stop="20261031070000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261031070000 -0500" stop="20261031073000 -0500" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
   <programme start="20261031073000 -0500" stop="20261031080000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261031080000 -0500" stop="20261031083000 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261031083000 -0500" stop="20261031090000 -0500" channel="swaagtv">
     <title>Wonderama</title>
     <desc>Games, celebrities, music, prizes and an interactive studio audience make for a fun family show.</desc>
   </programme>
-  <programme start="20261031080000 -0500" stop="20261031083000 -0500" channel="swaagtv">
+  <programme start="20261031090000 -0500" stop="20261031093000 -0500" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Africa's Stance Scene Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261031083000 -0500" stop="20261031090000 -0500" channel="swaagtv">
+  <programme start="20261031093000 -0500" stop="20261031100000 -0500" channel="swaagtv">
     <title>DreamCars</title>
     <desc>British Limousines Exuding sophistication and grandeur like no other, a select range of English limousines dominates the world of luxury vehicles.</desc>
   </programme>
-  <programme start="20261031090000 -0500" stop="20261031093000 -0500" channel="swaagtv">
+  <programme start="20261031100000 -0500" stop="20261031103000 -0500" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>A look at a luxury apartment development that stands proud on the architectural stage, and serves as a key urban space, right in the heart of Sandton.</desc>
   </programme>
-  <programme start="20261031093000 -0500" stop="20261031094500 -0500" channel="swaagtv">
+  <programme start="20261031103000 -0500" stop="20261031104500 -0500" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>Segregation Part 2</desc>
   </programme>
-  <programme start="20261031094500 -0500" stop="20261031100000 -0500" channel="swaagtv">
+  <programme start="20261031104500 -0500" stop="20261031110000 -0500" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>Black Men Who Shaped American History -- Part 2</desc>
   </programme>
-  <programme start="20261031100000 -0500" stop="20261031103000 -0500" channel="swaagtv">
+  <programme start="20261031110000 -0500" stop="20261031113000 -0500" channel="swaagtv">
     <title>Visa on Arrival</title>
     <desc>Be Humble Four immigration officers with contrasting personalities decide the fates of visa applicants; religious fanatic Charity, bribe-taking Okoro, narcissist Francis and no-nonsense Hope.</desc>
   </programme>
-  <programme start="20261031103000 -0500" stop="20261031110000 -0500" channel="swaagtv">
+  <programme start="20261031113000 -0500" stop="20261031120000 -0500" channel="swaagtv">
     <title>Hush</title>
     <desc>A tale of fashion, politics and ambition, involving the lives of members of high society in the city of Lagos; intrigue swirls around the relationship of Bem, a big-time designer, and Arinola, a rising politician.</desc>
   </programme>
-  <programme start="20261031110000 -0500" stop="20261031133000 -0500" channel="swaagtv">
+  <programme start="20261031120000 -0500" stop="20261031143000 -0500" channel="swaagtv">
     <title>Bad to the Jones (2011)</title>
     <desc>Two brothers search for their missing sister during a zombie outbreak.</desc>
   </programme>
-  <programme start="20261031133000 -0500" stop="20261031153000 -0500" channel="swaagtv">
+  <programme start="20261031143000 -0500" stop="20261031163000 -0500" channel="swaagtv">
     <title>A Caribbean Dream (2017)</title>
     <desc>Puck the butler and the staff of a tropical home turn into mischievous fairies and tamper with the wedding plans of three couples.</desc>
   </programme>
-  <programme start="20261031153000 -0500" stop="20261031170000 -0500" channel="swaagtv">
+  <programme start="20261031163000 -0500" stop="20261031180000 -0500" channel="swaagtv">
     <title>Red Pill (2021)</title>
     <desc>In the run-up to the 2020 elections, some progressives head deep into a red state to canvas homes for votes but find terror instead.</desc>
   </programme>
-  <programme start="20261031170000 -0500" stop="20261031171500 -0500" channel="swaagtv">
+  <programme start="20261031180000 -0500" stop="20261031181500 -0500" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>One man's quest to establish a business empire in the cut-throat world of the African oil industry.</desc>
   </programme>
-  <programme start="20261031171500 -0500" stop="20261031180000 -0500" channel="swaagtv">
+  <programme start="20261031181500 -0500" stop="20261031190000 -0500" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>Lerato tells Jacob that she wants to keep the baby; Jacob feels pressure from all sides as Thembi asks him to attend a memorial.</desc>
   </programme>
-  <programme start="20261031180000 -0500" stop="20261031183000 -0500" channel="swaagtv">
+  <programme start="20261031190000 -0500" stop="20261031193000 -0500" channel="swaagtv">
     <title>The Wild</title>
     <desc>The initial spark between Tiro and Lelo grows into an increasing fascination with each other; Itumeleng over-reacts and gets into a fight with Tiro; Bernie's marula berry cake is presented to Kgosi Rratladi.</desc>
   </programme>
-  <programme start="20261031183000 -0500" stop="20261031210000 -0500" channel="swaagtv">
+  <programme start="20261031193000 -0500" stop="20261031220000 -0500" channel="swaagtv">
     <title>5D Love</title>
     <desc>Amira, an undergrad studying psychology, begins seeing spirits, reading minds, and predicting the future after experiencing random symptoms.</desc>
   </programme>
-  <programme start="20261031210000 -0500" stop="20261031230000 -0500" channel="swaagtv">
+  <programme start="20261031220000 -0500" stop="20261101000000 -0500" channel="swaagtv">
     <title>Lockdown: 2025 (2021)</title>
     <desc>When martial law is declared, a family seeks shelter in the safety of its own home during a nationwide lockdown for a highly contagious virus.</desc>
   </programme>
-  <programme start="20261031230000 -0500" stop="20261031233000 -0500" channel="swaagtv">
+  <programme start="20261101000000 -0500" stop="20261101003000 -0500" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Africa's Stance Scene Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261031233000 -0500" stop="20261031234500 -0500" channel="swaagtv">
-    <title>DreamCars</title>
-    <desc>Prominent and innovative car models from the leading manufactures of different countries worldwide are featured and showcased.</desc>
+  <programme start="20261101003000 -0500" stop="20261101004500 -0500" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261031234500 -0500" stop="20261101000000 -0500" channel="swaagtv">
+  <programme start="20261101004500 -0500" stop="20261101021500 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>British Limousines Exuding sophistication and grandeur like no other, a select range of English limousines dominates the world of luxury vehicles.</desc>
   </programme>
-  <programme start="20261101000000 -0500" stop="20261101003000 -0500" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261101003000 -0500" stop="20261101011500 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261101011500 -0600" stop="20261101030000 -0600" channel="swaagtv">
+  <programme start="20261101021500 -0600" stop="20261101040000 -0600" channel="swaagtv">
     <title>The Return (2023) (2023)</title>
     <desc>In a world where the dead can be brought back to life, Chad is torn between vengeance and forgiveness when his parents' killer is freed from prison.</desc>
   </programme>
-  <programme start="20261101030000 -0600" stop="20261101033000 -0600" channel="swaagtv">
+  <programme start="20261101040000 -0600" stop="20261101043000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261101033000 -0600" stop="20261101050000 -0600" channel="swaagtv">
+  <programme start="20261101043000 -0600" stop="20261101060000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Wale; T-Pain; Don Trip Wale; T-Pain; Don Trip.</desc>
   </programme>
-  <programme start="20261101050000 -0600" stop="20261101060000 -0600" channel="swaagtv">
+  <programme start="20261101060000 -0600" stop="20261101070000 -0600" channel="swaagtv">
     <title>Bad to the Jones (2011)</title>
     <desc>Two brothers search for their missing sister during a zombie outbreak.</desc>
-  </programme>
-  <programme start="20261101060000 -0600" stop="20261101063000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261101063000 -0600" stop="20261101070000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261101070000 -0600" stop="20261101073000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
   <programme start="20261101073000 -0600" stop="20261101080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261101080000 -0600" stop="20261101083000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261101083000 -0600" stop="20261101090000 -0600" channel="swaagtv">
     <title>Tomorrow's World Living Church of God</title>
   </programme>
-  <programme start="20261101080000 -0600" stop="20261101081500 -0600" channel="swaagtv">
+  <programme start="20261101090000 -0600" stop="20261101091500 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>Segregation Part 2</desc>
   </programme>
-  <programme start="20261101081500 -0600" stop="20261101083000 -0600" channel="swaagtv">
+  <programme start="20261101091500 -0600" stop="20261101093000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>Black Men Who Shaped American History -- Part 2</desc>
   </programme>
-  <programme start="20261101083000 -0600" stop="20261101084500 -0600" channel="swaagtv">
+  <programme start="20261101093000 -0600" stop="20261101094500 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
   </programme>
-  <programme start="20261101084500 -0600" stop="20261101090000 -0600" channel="swaagtv">
+  <programme start="20261101094500 -0600" stop="20261101100000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261101090000 -0600" stop="20261101091500 -0600" channel="swaagtv">
+  <programme start="20261101100000 -0600" stop="20261101101500 -0600" channel="swaagtv">
     <title>Real Health</title>
   </programme>
-  <programme start="20261101091500 -0600" stop="20261101093000 -0600" channel="swaagtv">
+  <programme start="20261101101500 -0600" stop="20261101103000 -0600" channel="swaagtv">
     <title>Real Health</title>
   </programme>
-  <programme start="20261101093000 -0600" stop="20261101094500 -0600" channel="swaagtv">
+  <programme start="20261101103000 -0600" stop="20261101104500 -0600" channel="swaagtv">
     <title>Mind Matters</title>
   </programme>
-  <programme start="20261101094500 -0600" stop="20261101100000 -0600" channel="swaagtv">
+  <programme start="20261101104500 -0600" stop="20261101110000 -0600" channel="swaagtv">
     <title>Mind Matters</title>
     <desc>Loss</desc>
   </programme>
-  <programme start="20261101100000 -0600" stop="20261101103000 -0600" channel="swaagtv">
+  <programme start="20261101110000 -0600" stop="20261101113000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>One Meeting Away Thuli helps Menzi pitch an idea at a party; Martha fires the maid, sparking Sihle's feminist instincts.</desc>
   </programme>
-  <programme start="20261101103000 -0600" stop="20261101110000 -0600" channel="swaagtv">
+  <programme start="20261101113000 -0600" stop="20261101120000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Wale; T-Pain; Don Trip Wale; T-Pain; Don Trip.</desc>
   </programme>
-  <programme start="20261101110000 -0600" stop="20261101130000 -0600" channel="swaagtv">
+  <programme start="20261101120000 -0600" stop="20261101140000 -0600" channel="swaagtv">
     <title>Angels Unaware (2022)</title>
     <desc>God sends the archangel, Eden, to Earth where she is purposely placed with people who are about to make a life decision that could negatively impact them and others around them.</desc>
   </programme>
-  <programme start="20261101130000 -0600" stop="20261101160000 -0600" channel="swaagtv">
+  <programme start="20261101140000 -0600" stop="20261101170000 -0600" channel="swaagtv">
     <title>If I Tell You I Have to Kill You (2015)</title>
     <desc>Dr. Black, a college professor, becomes the prime suspect in a series of murders when his students die one by one. In his search for the truth, the answers will put his beliefs to the test.</desc>
   </programme>
-  <programme start="20261101160000 -0600" stop="20261101170000 -0600" channel="swaagtv">
+  <programme start="20261101170000 -0600" stop="20261101180000 -0600" channel="swaagtv">
     <title>Lockdown: 2025 (2021)</title>
     <desc>When martial law is declared, a family seeks shelter in the safety of its own home during a nationwide lockdown for a highly contagious virus.</desc>
   </programme>
-  <programme start="20261101170000 -0600" stop="20261101180000 -0600" channel="swaagtv">
+  <programme start="20261101180000 -0600" stop="20261101190000 -0600" channel="swaagtv">
     <title>The Smart Money Woman</title>
     <desc>Episode 4 After her presentation, Zuri spends some time getting to know Tsola; the women navigate problems in their relationships and money matters.</desc>
   </programme>
-  <programme start="20261101180000 -0600" stop="20261101183000 -0600" channel="swaagtv">
+  <programme start="20261101190000 -0600" stop="20261101193000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>One Meeting Away Thuli helps Menzi pitch an idea at a party; Martha fires the maid, sparking Sihle's feminist instincts.</desc>
   </programme>
-  <programme start="20261101183000 -0600" stop="20261101210000 -0600" channel="swaagtv">
+  <programme start="20261101193000 -0600" stop="20261101220000 -0600" channel="swaagtv">
     <title>In the Closet (2013)</title>
     <desc>Two brothers, leaders of a foundation calling for slave reparations, find their souls threatened by demonic forces.</desc>
   </programme>
-  <programme start="20261101210000 -0600" stop="20261102050000 -0600" channel="swaagtv">
+  <programme start="20261101220000 -0600" stop="20261102220000 -0600" channel="swaagtv">
     <title>Angels Unaware (2022)</title>
     <desc>God sends the archangel, Eden, to Earth where she is purposely placed with people who are about to make a life decision that could negatively impact them and others around them.</desc>
   </programme>
-  <programme start="20261102050000 -0600" stop="20261102060000 -0600" channel="swaagtv">
+  <programme start="20261102220000 -0600" stop="20261103050000 -0600" channel="swaagtv">
+    <title>Angels Unaware (2022)</title>
+    <desc>God sends the archangel, Eden, to Earth where she is purposely placed with people who are about to make a life decision that could negatively impact them and others around them.</desc>
+  </programme>
+  <programme start="20261103050000 -0600" stop="20261103060000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261102060000 -0600" stop="20261102063000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261102063000 -0600" stop="20261102070000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261102070000 -0600" stop="20261102071500 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261102071500 -0600" stop="20261102080000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261102080000 -0600" stop="20261102100000 -0600" channel="swaagtv">
+  <programme start="20261103060000 -0600" stop="20261103070000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261102100000 -0600" stop="20261102103000 -0600" channel="swaagtv">
-    <title>Music Revolution</title>
-    <desc>Music artists share trade secrets and intimate moments from their professional careers.</desc>
-  </programme>
-  <programme start="20261102103000 -0600" stop="20261102110000 -0600" channel="swaagtv">
-    <title>Kasi Car Culture</title>
-    <desc>Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
-  </programme>
-  <programme start="20261102110000 -0600" stop="20261102133000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261102133000 -0600" stop="20261102153000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261102153000 -0600" stop="20261102170000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261102170000 -0600" stop="20261102171500 -0600" channel="swaagtv">
-    <title>What's Really Goin' On</title>
-  </programme>
-  <programme start="20261102171500 -0600" stop="20261102173000 -0600" channel="swaagtv">
-    <title>What's Really Goin' On</title>
-    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
-  </programme>
-  <programme start="20261102173000 -0600" stop="20261102180000 -0600" channel="swaagtv">
-    <title>Visa on Arrival</title>
-    <desc>Four immigration officers with contrasting personalities decide the fates of visa applicants; religious fanatic Charity, bribe-taking Okoro, narcissist Francis and no-nonsense Hope.</desc>
-  </programme>
-  <programme start="20261102180000 -0600" stop="20261102193000 -0600" channel="swaagtv">
-    <title>The Smart Money Woman</title>
-    <desc>Five glamorous women strive for success as they juggle careers, love and friendships.</desc>
-  </programme>
-  <programme start="20261102193000 -0600" stop="20261102210000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261102210000 -0600" stop="20261102230000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261102230000 -0600" stop="20261102233000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261102233000 -0600" stop="20261103000000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261103000000 -0600" stop="20261103003000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261103003000 -0600" stop="20261103013000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261103013000 -0600" stop="20261103030000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261103030000 -0600" stop="20261103033000 -0600" channel="swaagtv">
-    <title>Kasi Car Culture</title>
-    <desc>Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
-  </programme>
-  <programme start="20261103033000 -0600" stop="20261103034500 -0600" channel="swaagtv">
-    <title>DreamCars</title>
-    <desc>Prominent and innovative car models from the leading manufactures of different countries worldwide are featured and showcased.</desc>
-  </programme>
-  <programme start="20261103034500 -0600" stop="20261103040000 -0600" channel="swaagtv">
-    <title>DreamCars</title>
-    <desc>Prominent and innovative car models from the leading manufactures of different countries worldwide are featured and showcased.</desc>
-  </programme>
-  <programme start="20261103040000 -0600" stop="20261103060000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261103060000 -0600" stop="20261103063000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261103063000 -0600" stop="20261103070000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261103070000 -0600" stop="20261103073000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -706,60 +512,88 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261103080000 -0600" stop="20261103100000 -0600" channel="swaagtv">
-    <title>A Heart That Forgives (2016)</title>
-    <desc>Two foster brothers choose separate paths in life.</desc>
+  <programme start="20261103080000 -0600" stop="20261103081500 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261103100000 -0600" stop="20261103103000 -0600" channel="swaagtv">
-    <title>What's Really Goin' On</title>
-    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
+  <programme start="20261103081500 -0600" stop="20261103083000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261103103000 -0600" stop="20261103130000 -0600" channel="swaagtv">
-    <title>Love by Chance (2017)</title>
-    <desc>Two South African actors meet in Hollywood while trying to break into the business. Between auditions, rejections and financial hardships, they start to find love.</desc>
+  <programme start="20261103083000 -0600" stop="20261103090000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261103130000 -0600" stop="20261103150000 -0600" channel="swaagtv">
+  <programme start="20261103090000 -0600" stop="20261103110000 -0600" channel="swaagtv">
+    <title>Movie</title>
+    <desc>() Movie to be announced.</desc>
+  </programme>
+  <programme start="20261103110000 -0600" stop="20261103113000 -0600" channel="swaagtv">
+    <title>Music Revolution</title>
+    <desc>Music artists share trade secrets and intimate moments from their professional careers.</desc>
+  </programme>
+  <programme start="20261103113000 -0600" stop="20261103120000 -0600" channel="swaagtv">
+    <title>Kasi Car Culture</title>
+    <desc>Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
+  </programme>
+  <programme start="20261103120000 -0600" stop="20261103140000 -0600" channel="swaagtv">
+    <title>Movie</title>
+    <desc>() Movie to be announced.</desc>
+  </programme>
+  <programme start="20261103140000 -0600" stop="20261103143000 -0600" channel="swaagtv">
     <title>72 Hours (2015)</title>
     <desc>Von reforms his womanizing ways and lives a good life with his wife, but a heart attack could be the end of him -- unless he can right all of his romantic wrongs and make things up to his exes.</desc>
   </programme>
-  <programme start="20261103150000 -0600" stop="20261103170000 -0600" channel="swaagtv">
+  <programme start="20261103143000 -0600" stop="20261103160000 -0600" channel="swaagtv">
+    <title>Movie</title>
+    <desc>() Movie to be announced.</desc>
+  </programme>
+  <programme start="20261103160000 -0600" stop="20261103163000 -0600" channel="swaagtv">
     <title>The Next Dance (2014)</title>
     <desc>Selena and Tristian grow up together and follow different career paths. Selena lives to dance, and Tristian works for his father's accounting firm. When a dance competition with a $100,000 prize is announced, the two team up to beat Selena's rival.</desc>
   </programme>
-  <programme start="20261103170000 -0600" stop="20261103173000 -0600" channel="swaagtv">
-    <title>Real Health</title>
+  <programme start="20261103163000 -0600" stop="20261103180000 -0600" channel="swaagtv">
+    <title>Movie</title>
+    <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261103173000 -0600" stop="20261103180000 -0600" channel="swaagtv">
-    <title>Mind Matters</title>
-    <desc>Herbalist</desc>
+  <programme start="20261103180000 -0600" stop="20261103181500 -0600" channel="swaagtv">
+    <title>What's Really Goin' On</title>
   </programme>
-  <programme start="20261103180000 -0600" stop="20261103183000 -0600" channel="swaagtv">
-    <title>Black American Experience</title>
-    <desc>Black Men Who Shaped American History - Part 3</desc>
+  <programme start="20261103181500 -0600" stop="20261103183000 -0600" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
   <programme start="20261103183000 -0600" stop="20261103190000 -0600" channel="swaagtv">
+    <title>Visa on Arrival</title>
+    <desc>Four immigration officers with contrasting personalities decide the fates of visa applicants; religious fanatic Charity, bribe-taking Okoro, narcissist Francis and no-nonsense Hope.</desc>
+  </programme>
+  <programme start="20261103190000 -0600" stop="20261103193000 -0600" channel="swaagtv">
+    <title>The Smart Money Woman</title>
+    <desc>Five glamorous women strive for success as they juggle careers, love and friendships.</desc>
+  </programme>
+  <programme start="20261103193000 -0600" stop="20261103200000 -0600" channel="swaagtv">
     <title>The Olive</title>
     <desc>Way Forward Anayo returns to Ehi's restaurant and finds another secret she kept from him; Tutu's contact finds the mystery man behind the suspicious messages.</desc>
   </programme>
-  <programme start="20261103190000 -0600" stop="20261103213000 -0600" channel="swaagtv">
+  <programme start="20261103200000 -0600" stop="20261103203000 -0600" channel="swaagtv">
     <title>When Three Become One</title>
     <desc>The husband of a woman diagnosed with a fatal bone disease must decide whether to submit to his wife's lover's demands in order to save the life of the woman he loves. He must agree to end his marriage with her; otherwise, she dies.</desc>
   </programme>
-  <programme start="20261103213000 -0600" stop="20261103223000 -0600" channel="swaagtv">
+  <programme start="20261103203000 -0600" stop="20261103220000 -0600" channel="swaagtv">
+    <title>Movie</title>
+    <desc>() Movie to be announced.</desc>
+  </programme>
+  <programme start="20261103220000 -0600" stop="20261103223000 -0600" channel="swaagtv">
+    <title>Movie</title>
+    <desc>() Movie to be announced.</desc>
+  </programme>
+  <programme start="20261103223000 -0600" stop="20261103233000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>The Inheritance One man's quest to build the next great South African oil empire.</desc>
   </programme>
-  <programme start="20261103223000 -0600" stop="20261103230000 -0600" channel="swaagtv">
+  <programme start="20261103233000 -0600" stop="20261104000000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Wheels And Smoke Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
-  </programme>
-  <programme start="20261103230000 -0600" stop="20261103233000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261103233000 -0600" stop="20261104000000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261104000000 -0600" stop="20261104003000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -769,84 +603,100 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261104010000 -0600" stop="20261104020000 -0600" channel="swaagtv">
+  <programme start="20261104010000 -0600" stop="20261104013000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261104013000 -0600" stop="20261104020000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261104020000 -0600" stop="20261104023000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>The Inheritance One man's quest to build the next great South African oil empire.</desc>
   </programme>
-  <programme start="20261104020000 -0600" stop="20261104040000 -0600" channel="swaagtv">
+  <programme start="20261104023000 -0600" stop="20261104030000 -0600" channel="swaagtv">
+    <title>Movie</title>
+    <desc>() Movie to be announced.</desc>
+  </programme>
+  <programme start="20261104030000 -0600" stop="20261104040000 -0600" channel="swaagtv">
     <title>A Heart That Forgives (2016)</title>
     <desc>Two foster brothers choose separate paths in life.</desc>
   </programme>
-  <programme start="20261104040000 -0600" stop="20261104060000 -0600" channel="swaagtv">
+  <programme start="20261104040000 -0600" stop="20261104043000 -0600" channel="swaagtv">
+    <title>Kasi Car Culture</title>
+    <desc>Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
+  </programme>
+  <programme start="20261104043000 -0600" stop="20261104044500 -0600" channel="swaagtv">
+    <title>DreamCars</title>
+    <desc>Prominent and innovative car models from the leading manufactures of different countries worldwide are featured and showcased.</desc>
+  </programme>
+  <programme start="20261104044500 -0600" stop="20261104050000 -0600" channel="swaagtv">
+    <title>DreamCars</title>
+    <desc>Prominent and innovative car models from the leading manufactures of different countries worldwide are featured and showcased.</desc>
+  </programme>
+  <programme start="20261104050000 -0600" stop="20261104070000 -0600" channel="swaagtv">
     <title>72 Hours (2015)</title>
     <desc>Von reforms his womanizing ways and lives a good life with his wife, but a heart attack could be the end of him -- unless he can right all of his romantic wrongs and make things up to his exes.</desc>
-  </programme>
-  <programme start="20261104060000 -0600" stop="20261104063000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261104063000 -0600" stop="20261104070000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261104070000 -0600" stop="20261104073000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261104073000 -0600" stop="20261104081500 -0600" channel="swaagtv">
+  <programme start="20261104073000 -0600" stop="20261104080000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261104081500 -0600" stop="20261104100000 -0600" channel="swaagtv">
+  <programme start="20261104080000 -0600" stop="20261104083000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261104083000 -0600" stop="20261104091500 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261104091500 -0600" stop="20261104110000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261104100000 -0600" stop="20261104103000 -0600" channel="swaagtv">
+  <programme start="20261104110000 -0600" stop="20261104113000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
   </programme>
-  <programme start="20261104103000 -0600" stop="20261104134500 -0600" channel="swaagtv">
+  <programme start="20261104113000 -0600" stop="20261104144500 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261104134500 -0600" stop="20261104144500 -0600" channel="swaagtv">
+  <programme start="20261104144500 -0600" stop="20261104154500 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261104144500 -0600" stop="20261104170000 -0600" channel="swaagtv">
+  <programme start="20261104154500 -0600" stop="20261104180000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261104170000 -0600" stop="20261104173000 -0600" channel="swaagtv">
+  <programme start="20261104180000 -0600" stop="20261104183000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>Prominent and innovative car models from the leading manufactures of different countries worldwide are featured and showcased.</desc>
   </programme>
-  <programme start="20261104173000 -0600" stop="20261104180000 -0600" channel="swaagtv">
+  <programme start="20261104183000 -0600" stop="20261104190000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261104180000 -0600" stop="20261104183000 -0600" channel="swaagtv">
+  <programme start="20261104190000 -0600" stop="20261104193000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261104183000 -0600" stop="20261104190000 -0600" channel="swaagtv">
+  <programme start="20261104193000 -0600" stop="20261104200000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>Thuli, a 35-year-old real estate agent, juggles her job, single-parenting and family support.</desc>
   </programme>
-  <programme start="20261104190000 -0600" stop="20261104210000 -0600" channel="swaagtv">
+  <programme start="20261104200000 -0600" stop="20261104220000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261104210000 -0600" stop="20261104230000 -0600" channel="swaagtv">
+  <programme start="20261104220000 -0600" stop="20261105000000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261104230000 -0600" stop="20261104233000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261104233000 -0600" stop="20261105000000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261105000000 -0600" stop="20261105003000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -856,182 +706,182 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261105010000 -0600" stop="20261105033000 -0600" channel="swaagtv">
+  <programme start="20261105010000 -0600" stop="20261105013000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261105013000 -0600" stop="20261105020000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261105020000 -0600" stop="20261105043000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261105033000 -0600" stop="20261105050000 -0600" channel="swaagtv">
+  <programme start="20261105043000 -0600" stop="20261105060000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261105050000 -0600" stop="20261105060000 -0600" channel="swaagtv">
+  <programme start="20261105060000 -0600" stop="20261105070000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261105060000 -0600" stop="20261105063000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261105063000 -0600" stop="20261105070000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261105070000 -0600" stop="20261105073000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261105073000 -0600" stop="20261105084500 -0600" channel="swaagtv">
+  <programme start="20261105073000 -0600" stop="20261105080000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261105084500 -0600" stop="20261105100000 -0600" channel="swaagtv">
+  <programme start="20261105080000 -0600" stop="20261105083000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261105083000 -0600" stop="20261105094500 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261105094500 -0600" stop="20261105110000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261105100000 -0600" stop="20261105101500 -0600" channel="swaagtv">
+  <programme start="20261105110000 -0600" stop="20261105111500 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
   </programme>
-  <programme start="20261105101500 -0600" stop="20261105113000 -0600" channel="swaagtv">
+  <programme start="20261105111500 -0600" stop="20261105123000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261105113000 -0600" stop="20261105130000 -0600" channel="swaagtv">
+  <programme start="20261105123000 -0600" stop="20261105140000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261105130000 -0600" stop="20261105154500 -0600" channel="swaagtv">
+  <programme start="20261105140000 -0600" stop="20261105164500 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261105154500 -0600" stop="20261105170000 -0600" channel="swaagtv">
+  <programme start="20261105164500 -0600" stop="20261105180000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261105170000 -0600" stop="20261105173000 -0600" channel="swaagtv">
+  <programme start="20261105180000 -0600" stop="20261105183000 -0600" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>Juliet Newell showcases both the architecture and interior designs of homes in South Africa.</desc>
   </programme>
-  <programme start="20261105173000 -0600" stop="20261105180000 -0600" channel="swaagtv">
+  <programme start="20261105183000 -0600" stop="20261105190000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
   </programme>
-  <programme start="20261105180000 -0600" stop="20261105183000 -0600" channel="swaagtv">
+  <programme start="20261105190000 -0600" stop="20261105193000 -0600" channel="swaagtv">
     <title>Hush</title>
     <desc>A tale of fashion, politics and ambition, involving the lives of members of high society in the city of Lagos; intrigue swirls around the relationship of Bem, a big-time designer, and Arinola, a rising politician.</desc>
   </programme>
-  <programme start="20261105183000 -0600" stop="20261105190000 -0600" channel="swaagtv">
+  <programme start="20261105193000 -0600" stop="20261105200000 -0600" channel="swaagtv">
     <title>The Wild</title>
     <desc>Set in the landscape of a five-star game lodge, this soap opera focuses on three families with financial and rooted connections to the land. Add the intrigue of rival family interests in the competitive safari industry and a classic drama unfolds.</desc>
   </programme>
-  <programme start="20261105190000 -0600" stop="20261105213000 -0600" channel="swaagtv">
+  <programme start="20261105200000 -0600" stop="20261105223000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261105213000 -0600" stop="20261105223000 -0600" channel="swaagtv">
+  <programme start="20261105223000 -0600" stop="20261105233000 -0600" channel="swaagtv">
     <title>The Smart Money Woman</title>
     <desc>Five glamorous women strive for success as they juggle careers, love and friendships.</desc>
   </programme>
-  <programme start="20261105223000 -0600" stop="20261105230000 -0600" channel="swaagtv">
+  <programme start="20261105233000 -0600" stop="20261106000000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>Prominent and innovative car models from the leading manufactures of different countries worldwide are featured and showcased.</desc>
-  </programme>
-  <programme start="20261105230000 -0600" stop="20261105233000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261105233000 -0600" stop="20261106000000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261106000000 -0600" stop="20261106003000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261106003000 -0600" stop="20261106011500 -0600" channel="swaagtv">
+  <programme start="20261106003000 -0600" stop="20261106010000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261106011500 -0600" stop="20261106030000 -0600" channel="swaagtv">
+  <programme start="20261106010000 -0600" stop="20261106013000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261106013000 -0600" stop="20261106021500 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261106021500 -0600" stop="20261106040000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261106030000 -0600" stop="20261106033000 -0600" channel="swaagtv">
+  <programme start="20261106040000 -0600" stop="20261106043000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Music artists share trade secrets and intimate moments from their professional careers.</desc>
   </programme>
-  <programme start="20261106033000 -0600" stop="20261106040000 -0600" channel="swaagtv">
+  <programme start="20261106043000 -0600" stop="20261106050000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
   </programme>
-  <programme start="20261106040000 -0600" stop="20261106063000 -0600" channel="swaagtv">
+  <programme start="20261106050000 -0600" stop="20261106073000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261106063000 -0600" stop="20261106070000 -0600" channel="swaagtv">
+  <programme start="20261106073000 -0600" stop="20261106080000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261106070000 -0600" stop="20261106073000 -0600" channel="swaagtv">
+  <programme start="20261106080000 -0600" stop="20261106083000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261106073000 -0600" stop="20261106084500 -0600" channel="swaagtv">
+  <programme start="20261106083000 -0600" stop="20261106094500 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261106084500 -0600" stop="20261106100000 -0600" channel="swaagtv">
+  <programme start="20261106094500 -0600" stop="20261106110000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261106100000 -0600" stop="20261106103000 -0600" channel="swaagtv">
+  <programme start="20261106110000 -0600" stop="20261106113000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>Thuli, a 35-year-old real estate agent, juggles her job, single-parenting and family support.</desc>
   </programme>
-  <programme start="20261106103000 -0600" stop="20261106111500 -0600" channel="swaagtv">
+  <programme start="20261106113000 -0600" stop="20261106121500 -0600" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>Juliet Newell showcases both the architecture and interior designs of homes in South Africa.</desc>
   </programme>
-  <programme start="20261106111500 -0600" stop="20261106131500 -0600" channel="swaagtv">
+  <programme start="20261106121500 -0600" stop="20261106141500 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261106131500 -0600" stop="20261106150000 -0600" channel="swaagtv">
+  <programme start="20261106141500 -0600" stop="20261106160000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261106150000 -0600" stop="20261106170000 -0600" channel="swaagtv">
+  <programme start="20261106160000 -0600" stop="20261106180000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261106170000 -0600" stop="20261106173000 -0600" channel="swaagtv">
+  <programme start="20261106180000 -0600" stop="20261106183000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261106173000 -0600" stop="20261106174500 -0600" channel="swaagtv">
+  <programme start="20261106183000 -0600" stop="20261106184500 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Music artists share trade secrets and intimate moments from their professional careers.</desc>
   </programme>
-  <programme start="20261106174500 -0600" stop="20261106180000 -0600" channel="swaagtv">
+  <programme start="20261106184500 -0600" stop="20261106190000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Music artists share trade secrets and intimate moments from their professional careers.</desc>
   </programme>
-  <programme start="20261106180000 -0600" stop="20261106190000 -0600" channel="swaagtv">
+  <programme start="20261106190000 -0600" stop="20261106200000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>One man's quest to establish a business empire in the cut-throat world of the African oil industry.</desc>
   </programme>
-  <programme start="20261106190000 -0600" stop="20261106213000 -0600" channel="swaagtv">
+  <programme start="20261106200000 -0600" stop="20261106223000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261106213000 -0600" stop="20261106230000 -0600" channel="swaagtv">
+  <programme start="20261106223000 -0600" stop="20261107000000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261106230000 -0600" stop="20261106233000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261106233000 -0600" stop="20261107000000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261107000000 -0600" stop="20261107003000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -1041,346 +891,345 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261107010000 -0600" stop="20261107033000 -0600" channel="swaagtv">
+  <programme start="20261107010000 -0600" stop="20261107013000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261107013000 -0600" stop="20261107020000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261107020000 -0600" stop="20261107043000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261107033000 -0600" stop="20261107034500 -0600" channel="swaagtv">
+  <programme start="20261107043000 -0600" stop="20261107044500 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
   </programme>
-  <programme start="20261107034500 -0600" stop="20261107050000 -0600" channel="swaagtv">
+  <programme start="20261107044500 -0600" stop="20261107060000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261107050000 -0600" stop="20261107060000 -0600" channel="swaagtv">
+  <programme start="20261107060000 -0600" stop="20261107070000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261107060000 -0600" stop="20261107063000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261107063000 -0600" stop="20261107070000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261107070000 -0600" stop="20261107073000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
   <programme start="20261107073000 -0600" stop="20261107080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261107080000 -0600" stop="20261107083000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261107083000 -0600" stop="20261107090000 -0600" channel="swaagtv">
     <title>Wonderama</title>
     <desc>Games, celebrities, music, prizes and an interactive studio audience make for a fun family show.</desc>
   </programme>
-  <programme start="20261107080000 -0600" stop="20261107081500 -0600" channel="swaagtv">
+  <programme start="20261107090000 -0600" stop="20261107091500 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261107081500 -0600" stop="20261107083000 -0600" channel="swaagtv">
+  <programme start="20261107091500 -0600" stop="20261107093000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261107083000 -0600" stop="20261107090000 -0600" channel="swaagtv">
+  <programme start="20261107093000 -0600" stop="20261107100000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>Prominent and innovative car models from the leading manufactures of different countries worldwide are featured and showcased.</desc>
   </programme>
-  <programme start="20261107090000 -0600" stop="20261107093000 -0600" channel="swaagtv">
+  <programme start="20261107100000 -0600" stop="20261107103000 -0600" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>Juliet Newell showcases both the architecture and interior designs of homes in South Africa.</desc>
   </programme>
-  <programme start="20261107093000 -0600" stop="20261107100000 -0600" channel="swaagtv">
+  <programme start="20261107103000 -0600" stop="20261107110000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
   </programme>
-  <programme start="20261107100000 -0600" stop="20261107101500 -0600" channel="swaagtv">
+  <programme start="20261107110000 -0600" stop="20261107111500 -0600" channel="swaagtv">
     <title>Visa on Arrival</title>
     <desc>Four immigration officers with contrasting personalities decide the fates of visa applicants; religious fanatic Charity, bribe-taking Okoro, narcissist Francis and no-nonsense Hope.</desc>
   </programme>
-  <programme start="20261107101500 -0600" stop="20261107103000 -0600" channel="swaagtv">
+  <programme start="20261107111500 -0600" stop="20261107113000 -0600" channel="swaagtv">
     <title>Visa on Arrival</title>
     <desc>Four immigration officers with contrasting personalities decide the fates of visa applicants; religious fanatic Charity, bribe-taking Okoro, narcissist Francis and no-nonsense Hope.</desc>
   </programme>
-  <programme start="20261107103000 -0600" stop="20261107110000 -0600" channel="swaagtv">
+  <programme start="20261107113000 -0600" stop="20261107120000 -0600" channel="swaagtv">
     <title>Hush</title>
     <desc>A tale of fashion, politics and ambition, involving the lives of members of high society in the city of Lagos; intrigue swirls around the relationship of Bem, a big-time designer, and Arinola, a rising politician.</desc>
   </programme>
-  <programme start="20261107110000 -0600" stop="20261107133000 -0600" channel="swaagtv">
+  <programme start="20261107120000 -0600" stop="20261107143000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261107133000 -0600" stop="20261107150000 -0600" channel="swaagtv">
+  <programme start="20261107143000 -0600" stop="20261107160000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261107150000 -0600" stop="20261107170000 -0600" channel="swaagtv">
+  <programme start="20261107160000 -0600" stop="20261107180000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261107170000 -0600" stop="20261107180000 -0600" channel="swaagtv">
+  <programme start="20261107180000 -0600" stop="20261107190000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>One man's quest to establish a business empire in the cut-throat world of the African oil industry.</desc>
   </programme>
-  <programme start="20261107180000 -0600" stop="20261107193000 -0600" channel="swaagtv">
+  <programme start="20261107190000 -0600" stop="20261107203000 -0600" channel="swaagtv">
     <title>The Wild</title>
     <desc>Set in the landscape of a five-star game lodge, this soap opera focuses on three families with financial and rooted connections to the land. Add the intrigue of rival family interests in the competitive safari industry and a classic drama unfolds.</desc>
   </programme>
-  <programme start="20261107193000 -0600" stop="20261107210000 -0600" channel="swaagtv">
+  <programme start="20261107203000 -0600" stop="20261107220000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261107210000 -0600" stop="20261107230000 -0600" channel="swaagtv">
+  <programme start="20261107220000 -0600" stop="20261108000000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261107230000 -0600" stop="20261107233000 -0600" channel="swaagtv">
+  <programme start="20261108000000 -0600" stop="20261108003000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261107233000 -0600" stop="20261108000000 -0600" channel="swaagtv">
+  <programme start="20261108003000 -0600" stop="20261108010000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>Prominent and innovative car models from the leading manufactures of different countries worldwide are featured and showcased.</desc>
   </programme>
-  <programme start="20261108000000 -0600" stop="20261108003000 -0600" channel="swaagtv">
+  <programme start="20261108010000 -0600" stop="20261108013000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261108003000 -0600" stop="20261108010000 -0600" channel="swaagtv">
+  <programme start="20261108013000 -0600" stop="20261108020000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261108010000 -0600" stop="20261108030000 -0600" channel="swaagtv">
+  <programme start="20261108020000 -0600" stop="20261108040000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261108030000 -0600" stop="20261108031500 -0600" channel="swaagtv">
+  <programme start="20261108040000 -0600" stop="20261108041500 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
   </programme>
-  <programme start="20261108031500 -0600" stop="20261108033000 -0600" channel="swaagtv">
+  <programme start="20261108041500 -0600" stop="20261108043000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261108033000 -0600" stop="20261108034500 -0600" channel="swaagtv">
+  <programme start="20261108043000 -0600" stop="20261108044500 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Music artists share trade secrets and intimate moments from their professional careers.</desc>
   </programme>
-  <programme start="20261108034500 -0600" stop="20261108043000 -0600" channel="swaagtv">
+  <programme start="20261108044500 -0600" stop="20261108053000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Music artists share trade secrets and intimate moments from their professional careers.</desc>
   </programme>
-  <programme start="20261108043000 -0600" stop="20261108050000 -0600" channel="swaagtv">
+  <programme start="20261108053000 -0600" stop="20261108060000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261108050000 -0600" stop="20261108060000 -0600" channel="swaagtv">
+  <programme start="20261108060000 -0600" stop="20261108070000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261108060000 -0600" stop="20261108063000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261108063000 -0600" stop="20261108070000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261108070000 -0600" stop="20261108073000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
   <programme start="20261108073000 -0600" stop="20261108080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261108080000 -0600" stop="20261108083000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261108083000 -0600" stop="20261108090000 -0600" channel="swaagtv">
     <title>Tomorrow's World Living Church of God</title>
   </programme>
-  <programme start="20261108080000 -0600" stop="20261108081500 -0600" channel="swaagtv">
+  <programme start="20261108090000 -0600" stop="20261108091500 -0600" channel="swaagtv">
     <title>Black American Experience</title>
   </programme>
-  <programme start="20261108081500 -0600" stop="20261108083000 -0600" channel="swaagtv">
+  <programme start="20261108091500 -0600" stop="20261108093000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
   </programme>
-  <programme start="20261108083000 -0600" stop="20261108084500 -0600" channel="swaagtv">
+  <programme start="20261108093000 -0600" stop="20261108094500 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
   </programme>
-  <programme start="20261108084500 -0600" stop="20261108090000 -0600" channel="swaagtv">
+  <programme start="20261108094500 -0600" stop="20261108100000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261108090000 -0600" stop="20261108091500 -0600" channel="swaagtv">
+  <programme start="20261108100000 -0600" stop="20261108101500 -0600" channel="swaagtv">
     <title>Real Health</title>
   </programme>
-  <programme start="20261108091500 -0600" stop="20261108093000 -0600" channel="swaagtv">
+  <programme start="20261108101500 -0600" stop="20261108103000 -0600" channel="swaagtv">
     <title>Real Health</title>
   </programme>
-  <programme start="20261108093000 -0600" stop="20261108094500 -0600" channel="swaagtv">
+  <programme start="20261108103000 -0600" stop="20261108104500 -0600" channel="swaagtv">
     <title>Mind Matters</title>
   </programme>
-  <programme start="20261108094500 -0600" stop="20261108100000 -0600" channel="swaagtv">
+  <programme start="20261108104500 -0600" stop="20261108110000 -0600" channel="swaagtv">
     <title>Mind Matters</title>
   </programme>
-  <programme start="20261108100000 -0600" stop="20261108103000 -0600" channel="swaagtv">
+  <programme start="20261108110000 -0600" stop="20261108113000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>Thuli, a 35-year-old real estate agent, juggles her job, single-parenting and family support.</desc>
   </programme>
-  <programme start="20261108103000 -0600" stop="20261108110000 -0600" channel="swaagtv">
+  <programme start="20261108113000 -0600" stop="20261108120000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Music artists share trade secrets and intimate moments from their professional careers.</desc>
   </programme>
-  <programme start="20261108110000 -0600" stop="20261108130000 -0600" channel="swaagtv">
+  <programme start="20261108120000 -0600" stop="20261108140000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261108130000 -0600" stop="20261108160000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
-  </programme>
-  <programme start="20261108160000 -0600" stop="20261108170000 -0600" channel="swaagtv">
+  <programme start="20261108140000 -0600" stop="20261108170000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
   <programme start="20261108170000 -0600" stop="20261108180000 -0600" channel="swaagtv">
+    <title>Movie</title>
+    <desc>() Movie to be announced.</desc>
+  </programme>
+  <programme start="20261108180000 -0600" stop="20261108190000 -0600" channel="swaagtv">
     <title>The Smart Money Woman</title>
     <desc>Five glamorous women strive for success as they juggle careers, love and friendships.</desc>
   </programme>
-  <programme start="20261108180000 -0600" stop="20261108183000 -0600" channel="swaagtv">
+  <programme start="20261108190000 -0600" stop="20261108193000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>Thuli, a 35-year-old real estate agent, juggles her job, single-parenting and family support.</desc>
   </programme>
-  <programme start="20261108183000 -0600" stop="20261108210000 -0600" channel="swaagtv">
+  <programme start="20261108193000 -0600" stop="20261108220000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261108210000 -0600" stop="20261109050000 -0600" channel="swaagtv">
+  <programme start="20261108220000 -0600" stop="20261109220000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261109050000 -0600" stop="20261109060000 -0600" channel="swaagtv">
+  <programme start="20261109220000 -0600" stop="20261110050000 -0600" channel="swaagtv">
     <title>Movie</title>
     <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261109060000 -0600" stop="20261109063000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261109063000 -0600" stop="20261109070000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261109070000 -0600" stop="20261109073000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261109073000 -0600" stop="20261109080000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261109080000 -0600" stop="20261109100000 -0600" channel="swaagtv">
-    <title>The L.A. Riot Spectacular (2005)</title>
-    <desc>Los Angeles erupts into violence after police beat Rodney King (T.K. Carter).</desc>
-  </programme>
-  <programme start="20261109100000 -0600" stop="20261109103000 -0600" channel="swaagtv">
-    <title>Music Revolution</title>
-    <desc>Elle Varner; Snoop Dogg Elle Varner; Snoop Dogg.</desc>
-  </programme>
-  <programme start="20261109103000 -0600" stop="20261109110000 -0600" channel="swaagtv">
-    <title>Kasi Car Culture</title>
-    <desc>Dream Truck Surprise Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
-  </programme>
-  <programme start="20261109110000 -0600" stop="20261109130000 -0600" channel="swaagtv">
-    <title>No Regrets (2016)</title>
-    <desc>A flight attendant finally agrees to marry her college sweetheart after 12 years of proposals. But after meeting a handsome divorcee during a layover in Los Angeles, she finds herself in a compromising position that she never thought she'd be in.</desc>
-  </programme>
-  <programme start="20261109130000 -0600" stop="20261109150000 -0600" channel="swaagtv">
+  <programme start="20261110050000 -0600" stop="20261110060000 -0600" channel="swaagtv">
     <title>Pastor Shirley (2013)</title>
     <desc>Everyone Jason has ever loved flees the community after a series of robberies and arrests. He wants to turn his father's church into a place of hope and turns to Pastor Shirley for help and inspiration.</desc>
   </programme>
-  <programme start="20261109150000 -0600" stop="20261109170000 -0600" channel="swaagtv">
-    <title>Sweet Face (2018)</title>
-    <desc>A couple stays strong despite all the hurdles life throws at them.</desc>
+  <programme start="20261110060000 -0600" stop="20261110070000 -0600" channel="swaagtv">
+    <title>Movie</title>
+    <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261109170000 -0600" stop="20261109173000 -0600" channel="swaagtv">
-    <title>What's Really Goin' On</title>
-    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
-  </programme>
-  <programme start="20261109173000 -0600" stop="20261109180000 -0600" channel="swaagtv">
-    <title>Visa on Arrival</title>
-    <desc>Girls Trip Four immigration officers with contrasting personalities decide the fates of visa applicants; religious fanatic Charity, bribe-taking Okoro, narcissist Francis and no-nonsense Hope.</desc>
-  </programme>
-  <programme start="20261109180000 -0600" stop="20261109190000 -0600" channel="swaagtv">
-    <title>The Smart Money Woman</title>
-    <desc>Episode 2 After learning how to manage her expenses, Zuri sticks to a strict budget; Adesuwa clashes with her mother-in-law.</desc>
-  </programme>
-  <programme start="20261109190000 -0600" stop="20261109210000 -0600" channel="swaagtv">
-    <title>Christmas Angel (2024)</title>
-    <desc>The Johnsons, once lively and close-knit, struggle to move forward during the holidays in the wake of one of their family member's death.</desc>
-  </programme>
-  <programme start="20261109210000 -0600" stop="20261109230000 -0600" channel="swaagtv">
-    <title>Switchin' the Script (2012)</title>
-    <desc>During a weekend corporate retreat, Lonnie's best friends convince her to take control when dealing with men. Lonnie's new attitude impresses every man she meets, especially her boss's good-looking son, David.</desc>
-  </programme>
-  <programme start="20261109230000 -0600" stop="20261109233000 -0600" channel="swaagtv">
+  <programme start="20261110070000 -0600" stop="20261110073000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261109233000 -0600" stop="20261110000000 -0600" channel="swaagtv">
+  <programme start="20261110073000 -0600" stop="20261110080000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261110000000 -0600" stop="20261110003000 -0600" channel="swaagtv">
+  <programme start="20261110080000 -0600" stop="20261110083000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261110003000 -0600" stop="20261110010000 -0600" channel="swaagtv">
+  <programme start="20261110083000 -0600" stop="20261110090000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261110010000 -0600" stop="20261110050000 -0600" channel="swaagtv">
+  <programme start="20261110090000 -0600" stop="20261110110000 -0600" channel="swaagtv">
+    <title>The L.A. Riot Spectacular (2005)</title>
+    <desc>Los Angeles erupts into violence after police beat Rodney King (T.K. Carter).</desc>
+  </programme>
+  <programme start="20261110110000 -0600" stop="20261110113000 -0600" channel="swaagtv">
+    <title>Music Revolution</title>
+    <desc>Elle Varner; Snoop Dogg Elle Varner; Snoop Dogg.</desc>
+  </programme>
+  <programme start="20261110113000 -0600" stop="20261110120000 -0600" channel="swaagtv">
+    <title>Kasi Car Culture</title>
+    <desc>Dream Truck Surprise Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
+  </programme>
+  <programme start="20261110120000 -0600" stop="20261110123000 -0600" channel="swaagtv">
     <title>No Regrets (2016)</title>
     <desc>A flight attendant finally agrees to marry her college sweetheart after 12 years of proposals. But after meeting a handsome divorcee during a layover in Los Angeles, she finds herself in a compromising position that she never thought she'd be in.</desc>
   </programme>
-  <programme start="20261027000000 -0500" stop="20261027014500 -0500" channel="nost">
-    <title>Beat the Devil</title>
-    <desc>(1953, TV-PG) Humphrey Bogart, Jennifer Jones and Gina Lollobrigida. On their way to Africa are a group of rogues who hope to get rich there, and a seemingly innocent British couple. They meet and things happen...</desc>
+  <programme start="20261110123000 -0600" stop="20261110140000 -0600" channel="swaagtv">
+    <title>Movie</title>
+    <desc>() Movie to be announced.</desc>
   </programme>
-  <programme start="20261027014500 -0500" stop="20261027034000 -0500" channel="nost">
-    <title>Gunfight in the Red Sands</title>
-    <desc>(1963, NR) Starring Richard Harrison, Giacomo Rossi Stuart and Mikaela. An avenging stranger guns down a gang of ruthless bandits in revenge for the murder of his family.</desc>
+  <programme start="20261110140000 -0600" stop="20261110160000 -0600" channel="swaagtv">
+    <title>Pastor Shirley (2013)</title>
+    <desc>Everyone Jason has ever loved flees the community after a series of robberies and arrests. He wants to turn his father's church into a place of hope and turns to Pastor Shirley for help and inspiration.</desc>
   </programme>
-  <programme start="20261027034000 -0500" stop="20261027053000 -0500" channel="nost">
-    <title>The Brothers O'Toole</title>
-    <desc>(1973, G, ★★★☆☆) Two fast-talking con-artist brothers arrive in a struggling Western town, where mistaken identities, a notorious outlaw and a looming gold rush lead to comic trouble. John Astin and Steve Carlson star in this lighthearted frontier comedy filled with colorful characters and old-fashioned hijinks.</desc>
+  <programme start="20261110160000 -0600" stop="20261110180000 -0600" channel="swaagtv">
+    <title>Sweet Face (2018)</title>
+    <desc>A couple stays strong despite all the hurdles life throws at them.</desc>
   </programme>
-  <programme start="20261027053000 -0500" stop="20261027085500 -0500" channel="nost">
-    <title>Fire Over England</title>
-    <desc>(1937, NR, ★★★★☆) During the reign of Queen Elizabeth I, a young Englishman journeys to Spain as a spy and uncovers plans for the Spanish Armada’s attack on England. Laurence Olivier and Vivien Leigh star in this sweeping historical adventure filled with romance, intrigue and naval spectacle.</desc>
+  <programme start="20261110180000 -0600" stop="20261110183000 -0600" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261027085500 -0500" stop="20261027104000 -0500" channel="nost">
-    <title>The Pied Piper of Hamelin</title>
-    <desc>(1957, NR) Starring Van Johnson, Claude Rains and Lori Nelson. Overwhelmed by rats, a medieval town hires a magical piper who can rid the town of the pest in exchange for gold but the crooked mayor has no intention of honoring the deal.</desc>
+  <programme start="20261110183000 -0600" stop="20261110190000 -0600" channel="swaagtv">
+    <title>Visa on Arrival</title>
+    <desc>Girls Trip Four immigration officers with contrasting personalities decide the fates of visa applicants; religious fanatic Charity, bribe-taking Okoro, narcissist Francis and no-nonsense Hope.</desc>
   </programme>
-  <programme start="20261027104000 -0500" stop="20261027120000 -0500" channel="nost">
-    <title>Ladies of the Chorus</title>
-    <desc>(1948, NR) Starring Adele Jergens, Marilyn Monroe and Rand Brooks. A chorus girl falls in love with a wealthy young man, but their relationship is jeopardized by her mother's fears about the reaction of his family.</desc>
+  <programme start="20261110190000 -0600" stop="20261110191500 -0600" channel="swaagtv">
+    <title>The Smart Money Woman</title>
+    <desc>Episode 2 After learning how to manage her expenses, Zuri sticks to a strict budget; Adesuwa clashes with her mother-in-law.</desc>
   </programme>
-  <programme start="20261027120000 -0500" stop="20261027140000 -0500" channel="nost">
-    <title>20 Million Miles to Earth</title>
-    <desc>(1957, NR, ★★★☆☆) A spacecraft returning from Venus brings back a mysterious creature that rapidly grows into a towering threat on the streets of Rome. William Hopper and Joan Taylor star in this classic science-fiction adventure featuring effects by Ray Harryhausen.</desc>
+  <programme start="20261110191500 -0600" stop="20261110193000 -0600" channel="swaagtv">
+    <title>Black American Experience</title>
   </programme>
-  <programme start="20261027140000 -0500" stop="20261027154500 -0500" channel="nost">
-    <title>Pancho Villa</title>
-    <desc>(1972, PG, ★★★☆☆) A flamboyant mercenary becomes caught up in the Mexican Revolution, joining forces with Pancho Villa amid battles, betrayal and political intrigue. Telly Savalas, Clint Walker, Chuck Connors, Anne Francis.</desc>
+  <programme start="20261110193000 -0600" stop="20261110200000 -0600" channel="swaagtv">
+    <title>The Olive</title>
+    <desc>Grieving widower Anayo is left to raise his three children after his wife passes away; he soon discovers that his wife led a double life, filled with secrets.</desc>
   </programme>
-  <programme start="20261027154500 -0500" stop="20261027180000 -0500" channel="nost">
-    <title>Logan's Run</title>
-    <desc>(1976, PG, ★★★★☆) In a futuristic society where life ends at 30, a government enforcer begins to question the system when he’s ordered to hunt down those who refuse to die. Michael York and Jenny Agutter star in this visually striking sci-fi adventure exploring freedom, control, and the cost of eternal youth.</desc>
+  <programme start="20261110200000 -0600" stop="20261110220000 -0600" channel="swaagtv">
+    <title>Christmas Angel (2024)</title>
+    <desc>The Johnsons, once lively and close-knit, struggle to move forward during the holidays in the wake of one of their family member's death.</desc>
   </programme>
-  <programme start="20261027180000 -0500" stop="20261027200000 -0500" channel="nost">
-    <title>Cyrano de Bergerac</title>
-    <desc>(1950, TV-PG) Starring José Ferrer. The charismatic swordsman-poet helps another woo the woman he loves in this straightforward version of the play.</desc>
+  <programme start="20261110220000 -0600" stop="20261110223000 -0600" channel="swaagtv">
+    <title>Switchin' the Script (2012)</title>
+    <desc>During a weekend corporate retreat, Lonnie's best friends convince her to take control when dealing with men. Lonnie's new attitude impresses every man she meets, especially her boss's good-looking son, David.</desc>
   </programme>
-  <programme start="20261027200000 -0500" stop="20261027222000 -0500" channel="nost">
-    <title>Ocean's Eleven</title>
-    <desc>(1960, Not Rated, ★★★★☆) Danny Ocean reunites a group of World War II veterans to rob five Las Vegas casinos in a single night. Frank Sinatra, Dean Martin and Sammy Davis Jr. lead the all-star Rat Pack cast in this stylish caper.</desc>
+  <programme start="20261110223000 -0600" stop="20261110233000 -0600" channel="swaagtv">
+    <title>Jacob's Cross</title>
+    <desc>One man's quest to establish a business empire in the cut-throat world of the African oil industry.</desc>
   </programme>
-  <programme start="20261027222000 -0500" stop="20261028000000 -0500" channel="nost">
-    <title>Road to Bali</title>
-    <desc>(1952, No Rating) Starring Bob Hope and Bing Crosby. Two unemployed show-biz pals accept treasure-diving work in Bali for a local princess and they find treasure, love and trouble. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
+  <programme start="20261110233000 -0600" stop="20261111000000 -0600" channel="swaagtv">
+    <title>Kasi Car Culture</title>
+    <desc>Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
+  </programme>
+  <programme start="20261111000000 -0600" stop="20261111003000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261111003000 -0600" stop="20261111010000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261111010000 -0600" stop="20261111013000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261111013000 -0600" stop="20261111020000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261111020000 -0600" stop="20261111031500 -0600" channel="swaagtv">
+    <title>No Regrets (2016)</title>
+    <desc>A flight attendant finally agrees to marry her college sweetheart after 12 years of proposals. But after meeting a handsome divorcee during a layover in Los Angeles, she finds herself in a compromising position that she never thought she'd be in.</desc>
+  </programme>
+  <programme start="20261111031500 -0600" stop="20261111040000 -0600" channel="swaagtv">
+    <title>Movie</title>
+    <desc>() Movie to be announced.</desc>
+  </programme>
+  <programme start="20261111040000 -0600" stop="20261111043000 -0600" channel="swaagtv">
+    <title>Kasi Car Culture</title>
+    <desc>Dream Truck Surprise Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
+  </programme>
+  <programme start="20261111043000 -0600" stop="20261111050000 -0600" channel="swaagtv">
+    <title>DreamCars</title>
+    <desc>Italian Supercars Italian supercars are some of the most exciting cars in the world; from Ferrari, Lamborghini Aventador or the Pagani Huayra, they are the most beautiful and the fastest cars in the world.</desc>
   </programme>
   <programme start="20261028000000 -0500" stop="20261028020000 -0500" channel="nost">
     <title>The Boy in the Plastic Bubble</title>
@@ -1661,57 +1510,6 @@
   <programme start="20261108210000 -0600" stop="20261109000000 -0600" channel="nost">
     <title>Butch Cassidy and the Sundance Kid</title>
     <desc>(1969, PG, ★★★★★) Two charming outlaws stay one step ahead of the law as their string of robberies draws relentless pursuit across the West—and beyond. Paul Newman and Robert Redford deliver iconic performances in this witty, action-packed Western classic. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
-  </programme>
-  <programme start="20261026235800 -0400" stop="20261027020000 -0400" channel="WWON.ny48">
-    <title lang="en">The Midnight Movie</title>
-  </programme>
-  <programme start="20261027020000 -0400" stop="20261027060000 -0400" channel="WWON.ny48">
-    <title lang="en">Late Movies &amp; Late Late Movies</title>
-  </programme>
-  <programme start="20261027060000 -0400" stop="20261027100000 -0400" channel="WWON.ny48">
-    <title lang="en">The Early Show</title>
-  </programme>
-  <programme start="20261027100000 -0400" stop="20261027110000 -0400" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
-  </programme>
-  <programme start="20261027110000 -0400" stop="20261027120000 -0400" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
-  </programme>
-  <programme start="20261027120000 -0400" stop="20261027130000 -0400" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
-  </programme>
-  <programme start="20261027130000 -0400" stop="20261027140000 -0400" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
-  </programme>
-  <programme start="20261027140000 -0400" stop="20261027150000 -0400" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
-  </programme>
-  <programme start="20261027150000 -0400" stop="20261027160000 -0400" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
-  </programme>
-  <programme start="20261027160000 -0400" stop="20261027170000 -0400" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
-  </programme>
-  <programme start="20261027170000 -0400" stop="20261027180000 -0400" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
-  </programme>
-  <programme start="20261027180000 -0400" stop="20261027190000 -0400" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
-  </programme>
-  <programme start="20261027190000 -0400" stop="20261027200000 -0400" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
-  </programme>
-  <programme start="20261027200000 -0400" stop="20261027213000 -0400" channel="WWON.ny48">
-    <title lang="en">Primetime Movie Showcases</title>
-  </programme>
-  <programme start="20261027213000 -0400" stop="20261027230000 -0400" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
-  </programme>
-  <programme start="20261027230000 -0400" stop="20261027233000 -0400" channel="WWON.ny48">
-    <title lang="en">The Andy Due Show</title>
-  </programme>
-  <programme start="20261027233000 -0400" stop="20261027235800 -0400" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
   <programme start="20261027235800 -0400" stop="20261028020000 -0400" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -3121,6 +2919,54 @@
     <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
   <programme start="20261125235800 -0500" stop="20261126020000 -0500" channel="WWON.ny48">
+    <title lang="en">The Midnight Movie</title>
+  </programme>
+  <programme start="20261126020000 -0500" stop="20261126060000 -0500" channel="WWON.ny48">
+    <title lang="en">Late Movies &amp; Late Late Movies</title>
+  </programme>
+  <programme start="20261126060000 -0500" stop="20261126100000 -0500" channel="WWON.ny48">
+    <title lang="en">The Early Show</title>
+  </programme>
+  <programme start="20261126100000 -0500" stop="20261126110000 -0500" channel="WWON.ny48">
+    <title lang="en">The Adventures of Champion</title>
+  </programme>
+  <programme start="20261126110000 -0500" stop="20261126120000 -0500" channel="WWON.ny48">
+    <title lang="en">Stories of the Century</title>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126130000 -0500" channel="WWON.ny48">
+    <title lang="en">Sky Ring</title>
+  </programme>
+  <programme start="20261126130000 -0500" stop="20261126140000 -0500" channel="WWON.ny48">
+    <title lang="en">Meet Corliss Archer</title>
+  </programme>
+  <programme start="20261126140000 -0500" stop="20261126150000 -0500" channel="WWON.ny48">
+    <title lang="en">My Little Margie</title>
+  </programme>
+  <programme start="20261126150000 -0500" stop="20261126160000 -0500" channel="WWON.ny48">
+    <title lang="en">On the Buses</title>
+  </programme>
+  <programme start="20261126160000 -0500" stop="20261126170000 -0500" channel="WWON.ny48">
+    <title lang="en">Fenn Street Gang</title>
+  </programme>
+  <programme start="20261126170000 -0500" stop="20261126180000 -0500" channel="WWON.ny48">
+    <title lang="en">Special Branch</title>
+  </programme>
+  <programme start="20261126180000 -0500" stop="20261126190000 -0500" channel="WWON.ny48">
+    <title lang="en">N.Y.P.D.</title>
+  </programme>
+  <programme start="20261126190000 -0500" stop="20261126200000 -0500" channel="WWON.ny48">
+    <title lang="en">Dragnet</title>
+  </programme>
+  <programme start="20261126200000 -0500" stop="20261126213000 -0500" channel="WWON.ny48">
+    <title lang="en">Mistress Peace Theatre</title>
+  </programme>
+  <programme start="20261126213000 -0500" stop="20261126230000 -0500" channel="WWON.ny48">
+    <title lang="en">Beware Theatre</title>
+  </programme>
+  <programme start="20261126230000 -0500" stop="20261126235800 -0500" channel="WWON.ny48">
+    <title lang="en">W.O.N Theatre</title>
+  </programme>
+  <programme start="20261126235800 -0500" stop="20261127020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
   </programme>
 </tv>
