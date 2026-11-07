@@ -4,6 +4,7 @@
 Channels:
   swaagtv - Swaag TV (WPVN-DT3), from TV Passport
   nost    - The Nostalgia Network, from watchnost.com/schedule
+  TVC.caribbean - Television Caribbean, weekly grid from tvcplus.net (edited by hand)
 
 Env vars (optional): SOURCE_TZ (TV Passport display zone, default America/New_York),
 OUT_TZ (default America/Chicago), DAYS (default 14).
@@ -114,9 +115,54 @@ def fetch_nost(days):
     return events, end
 
 
+# ---- Television Caribbean (TVC): weekly grid from tvcplus.net/programme-schedule ----
+# The guide there is an image, so edit this by hand when it changes. Mon=0 ... Sun=6.
+TVC_TZ = ZoneInfo("America/Puerto_Rico")  # Atlantic Standard Time (UTC-4, no DST)
+TVC_WEEK = {d: [] for d in range(7)}
+
+
+def _tvc(days, rows):
+    for d in days:
+        TVC_WEEK[d] += rows
+
+
+CNW, SMN, CP = "Caribbean News World", "St. Maarten Newsdesk", "Caribbean Programming"
+_tvc(range(7), [(0,0,CP),(6,0,"Morning Inspiration"),(12,0,CNW),(19,0,CNW),(23,0,CNW)])
+_tvc(range(5), [(7,0,CNW),(8,0,"Island Tea"),(11,0,SMN),(13,0,"Caribbean Concert"),
+                (15,0,"Sports"),(17,0,SMN)])
+_tvc([0], [(10,0,"Just Friends"),(11,30,"Jamaica Magazine"),(17,30,"Jamaica Magazine"),
+           (18,0,"Just Friends"),(20,0,"Insights"),(21,0,"Moms in Paradise"),(22,0,"Island Breese")])
+_tvc([1], [(10,0,"Insights"),(11,30,"ECCB Connects"),(17,30,"ECCB Connects"),(18,0,"Insights"),
+           (20,0,"Newsline 360"),(20,30,"On Location"),(21,0,"Let's Talk With Jess"),(22,0,"CAAG Top 10")])
+_tvc([2], [(10,0,"Newsline 360"),(11,30,"TVC Special"),(17,30,"TVC Special"),(18,0,"Newsline 360"),
+           (20,0,"Inside Football"),(20,30,"Sit, Sip and Chat"),(21,0,"Caribbean Concert")])
+_tvc([3], [(10,0,"Inside Football"),(11,30,"All Access"),(17,30,"All Access"),(18,0,"Inside Football"),
+           (20,0,"Main Event"),(21,0,"Let's Talk With Jess"),(22,0,"Island Breese")])
+_tvc([4], [(10,0,"Main Event"),(11,30,"Inside Government"),(17,30,"Inside Government"),(18,0,"Main Event"),
+           (20,0,"JIFE Music Show"),(21,0,"Caribbean Concert")])
+_tvc([5], [(7,0,CNW),(8,0,"Moms in Paradise"),(9,0,"Insights"),(10,0,"All Access"),(11,0,"Island Breese"),
+           (13,0,"Main Event"),(14,0,"JIFE Music Show"),(15,0,"Sports"),(17,0,"Island Breese"),
+           (18,0,"JIFE Music Show"),(20,0,"Caribbean Concert"),(22,0,CP)])
+_tvc([6], [(7,0,"Positive TV"),(9,0,"CAAG Top 10"),(10,0,"New Birth Service Live"),(11,30,"Positive TV"),
+           (13,0,"Moms in Paradise"),(14,0,"JIFE Music Show"),(15,0,"Caribbean Inspiration"),
+           (17,0,"Just Friends"),(18,0,"JIFE Music Show"),(20,0,"Caribbean Inspiration"),(22,30,CP)])
+
+
+def fetch_tvc(days):
+    start = datetime.now(TVC_TZ).date()
+    events = []
+    for n in range(days):
+        d = start + timedelta(days=n)
+        for h, m, title in sorted(TVC_WEEK[d.weekday()]):
+            events.append((datetime(d.year, d.month, d.day, h, m, tzinfo=TVC_TZ), title, ""))
+    end = datetime.combine(start + timedelta(days=days), datetime.min.time(), tzinfo=TVC_TZ)
+    return events, end
+
+
 CHANNELS = [
     ("swaagtv", "SWAAGTV", fetch_swaag),
     ("nost", "NOST - The Nostalgia Network", fetch_nost),
+    ("TVC.caribbean", "Television Caribbean (TVC)", fetch_tvc),
 ]
 
 
