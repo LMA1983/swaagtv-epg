@@ -1308,9 +1308,13 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261121020000 -0600" stop="20261121050000 -0600" channel="swaagtv">
+  <programme start="20261121020000 -0600" stop="20261121043000 -0600" channel="swaagtv">
     <title>Revival! (2018)</title>
     <desc>A musical recounting of the Gospel of St. John.</desc>
+  </programme>
+  <programme start="20261121043000 -0600" stop="20261121050000 -0600" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
   <programme start="20261107013000 -0600" stop="20261107032000 -0600" channel="nost">
     <title>The Cocoanuts</title>
@@ -1505,14 +1509,11 @@
   <programme start="20261108170000 -0500" stop="20261108180000 -0500" channel="WWON.ny48">
     <title lang="en">Woodsongs TV Show</title>
   </programme>
-  <programme start="20261108180000 -0500" stop="20261108190000 -0500" channel="WWON.ny48">
-    <title lang="en">One Step Beyond</title>
-  </programme>
-  <programme start="20261108190000 -0500" stop="20261108200000 -0500" channel="WWON.ny48">
-    <title lang="en">Project UFO</title>
+  <programme start="20261108180000 -0500" stop="20261108200000 -0500" channel="WWON.ny48">
+    <title lang="en">Demented Features</title>
   </programme>
   <programme start="20261108200000 -0500" stop="20261108220000 -0500" channel="WWON.ny48">
-    <title lang="en">Demented Features</title>
+    <title lang="en">The Mummy &amp; The Monkey</title>
   </programme>
   <programme start="20261108220000 -0500" stop="20261108233000 -0500" channel="WWON.ny48">
     <title lang="en">After Hours Cinema</title>
@@ -1527,46 +1528,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261109100000 -0500" stop="20261109110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261109110000 -0500" stop="20261109120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261109120000 -0500" stop="20261109130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261109130000 -0500" stop="20261109140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261109140000 -0500" stop="20261109150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261109150000 -0500" stop="20261109160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261109160000 -0500" stop="20261109170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261109170000 -0500" stop="20261109180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261109180000 -0500" stop="20261109190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261109190000 -0500" stop="20261109200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261109190000 -0500" stop="20261109193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261109200000 -0500" stop="20261109213000 -0500" channel="WWON.ny48">
-    <title lang="en">Primetime Movie Showcases</title>
-  </programme>
-  <programme start="20261109213000 -0500" stop="20261109230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
-  </programme>
-  <programme start="20261109230000 -0500" stop="20261109233000 -0500" channel="WWON.ny48">
+  <programme start="20261109193000 -0500" stop="20261109200000 -0500" channel="WWON.ny48">
     <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261109233000 -0500" stop="20261109235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+  <programme start="20261109200000 -0500" stop="20261109230000 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
+  </programme>
+  <programme start="20261109230000 -0500" stop="20261109234500 -0500" channel="WWON.ny48">
+    <title lang="en">The Steve Katsos Show</title>
+  </programme>
+  <programme start="20261109234500 -0500" stop="20261109235800 -0500" channel="WWON.ny48">
+    <title lang="en">The Andy Due Show</title>
   </programme>
   <programme start="20261109235800 -0500" stop="20261110020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -1578,46 +1579,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261110100000 -0500" stop="20261110110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261110110000 -0500" stop="20261110120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261110120000 -0500" stop="20261110130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261110130000 -0500" stop="20261110140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261110140000 -0500" stop="20261110150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261110150000 -0500" stop="20261110160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261110160000 -0500" stop="20261110170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261110170000 -0500" stop="20261110180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261110180000 -0500" stop="20261110190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261110190000 -0500" stop="20261110200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261110190000 -0500" stop="20261110193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261110200000 -0500" stop="20261110213000 -0500" channel="WWON.ny48">
+  <programme start="20261110193000 -0500" stop="20261110200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
+  </programme>
+  <programme start="20261110200000 -0500" stop="20261110230000 -0500" channel="WWON.ny48">
     <title lang="en">Primetime Movie Showcases</title>
   </programme>
-  <programme start="20261110213000 -0500" stop="20261110230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
-  </programme>
   <programme start="20261110230000 -0500" stop="20261110233000 -0500" channel="WWON.ny48">
-    <title lang="en">The Andy Due Show</title>
+    <title lang="en">Rock "N" Roll Video Show</title>
   </programme>
   <programme start="20261110233000 -0500" stop="20261110235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+    <title lang="en">Bobby's Mic</title>
   </programme>
   <programme start="20261110235800 -0500" stop="20261111020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -1629,46 +1630,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261111100000 -0500" stop="20261111110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261111110000 -0500" stop="20261111120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261111120000 -0500" stop="20261111130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261111130000 -0500" stop="20261111140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261111140000 -0500" stop="20261111150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261111150000 -0500" stop="20261111160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261111160000 -0500" stop="20261111170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261111170000 -0500" stop="20261111180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261111180000 -0500" stop="20261111190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261111190000 -0500" stop="20261111200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261111190000 -0500" stop="20261111193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261111200000 -0500" stop="20261111213000 -0500" channel="WWON.ny48">
+  <programme start="20261111193000 -0500" stop="20261111200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
+  </programme>
+  <programme start="20261111200000 -0500" stop="20261111230000 -0500" channel="WWON.ny48">
     <title lang="en">Primetime Movie Showcases</title>
-  </programme>
-  <programme start="20261111213000 -0500" stop="20261111230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
   </programme>
   <programme start="20261111230000 -0500" stop="20261111233000 -0500" channel="WWON.ny48">
     <title lang="en">Late Night Boomin'</title>
   </programme>
   <programme start="20261111233000 -0500" stop="20261111235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+    <title lang="en">After Hours With T.C Restani</title>
   </programme>
   <programme start="20261111235800 -0500" stop="20261112020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -1680,43 +1681,40 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261112100000 -0500" stop="20261112110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261112110000 -0500" stop="20261112120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261112120000 -0500" stop="20261112130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261112130000 -0500" stop="20261112140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261112140000 -0500" stop="20261112150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261112150000 -0500" stop="20261112160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261112160000 -0500" stop="20261112170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261112170000 -0500" stop="20261112180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261112180000 -0500" stop="20261112190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261112190000 -0500" stop="20261112200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261112190000 -0500" stop="20261112193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261112200000 -0500" stop="20261112213000 -0500" channel="WWON.ny48">
-    <title lang="en">Mistress Peace Theatre</title>
+  <programme start="20261112193000 -0500" stop="20261112200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261112213000 -0500" stop="20261112230000 -0500" channel="WWON.ny48">
-    <title lang="en">Beware Theatre</title>
-  </programme>
-  <programme start="20261112230000 -0500" stop="20261112235800 -0500" channel="WWON.ny48">
-    <title lang="en">W.O.N Theatre</title>
+  <programme start="20261112200000 -0500" stop="20261112235800 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
   </programme>
   <programme start="20261112235800 -0500" stop="20261113020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -1728,40 +1726,40 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261113100000 -0500" stop="20261113110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261113110000 -0500" stop="20261113120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261113120000 -0500" stop="20261113130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261113130000 -0500" stop="20261113140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261113140000 -0500" stop="20261113150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261113150000 -0500" stop="20261113160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261113160000 -0500" stop="20261113170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261113170000 -0500" stop="20261113180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261113180000 -0500" stop="20261113190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261113190000 -0500" stop="20261113200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261113190000 -0500" stop="20261113193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261113200000 -0500" stop="20261113220000 -0500" channel="WWON.ny48">
-    <title lang="en">Cemetery Cinema</title>
+  <programme start="20261113193000 -0500" stop="20261113200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261113220000 -0500" stop="20261113235800 -0500" channel="WWON.ny48">
-    <title lang="en">Off Beat Cinema</title>
+  <programme start="20261113200000 -0500" stop="20261113235800 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
   </programme>
   <programme start="20261113235800 -0500" stop="20261114020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -1844,14 +1842,11 @@
   <programme start="20261115170000 -0500" stop="20261115180000 -0500" channel="WWON.ny48">
     <title lang="en">Woodsongs TV Show</title>
   </programme>
-  <programme start="20261115180000 -0500" stop="20261115190000 -0500" channel="WWON.ny48">
-    <title lang="en">One Step Beyond</title>
-  </programme>
-  <programme start="20261115190000 -0500" stop="20261115200000 -0500" channel="WWON.ny48">
-    <title lang="en">Project UFO</title>
+  <programme start="20261115180000 -0500" stop="20261115200000 -0500" channel="WWON.ny48">
+    <title lang="en">Demented Features</title>
   </programme>
   <programme start="20261115200000 -0500" stop="20261115220000 -0500" channel="WWON.ny48">
-    <title lang="en">Demented Features</title>
+    <title lang="en">The Mummy &amp; The Monkey</title>
   </programme>
   <programme start="20261115220000 -0500" stop="20261115233000 -0500" channel="WWON.ny48">
     <title lang="en">After Hours Cinema</title>
@@ -1866,46 +1861,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261116100000 -0500" stop="20261116110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261116110000 -0500" stop="20261116120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261116120000 -0500" stop="20261116130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261116130000 -0500" stop="20261116140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261116140000 -0500" stop="20261116150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261116150000 -0500" stop="20261116160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261116160000 -0500" stop="20261116170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261116170000 -0500" stop="20261116180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261116180000 -0500" stop="20261116190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261116190000 -0500" stop="20261116200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261116190000 -0500" stop="20261116193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261116200000 -0500" stop="20261116213000 -0500" channel="WWON.ny48">
-    <title lang="en">Primetime Movie Showcases</title>
-  </programme>
-  <programme start="20261116213000 -0500" stop="20261116230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
-  </programme>
-  <programme start="20261116230000 -0500" stop="20261116233000 -0500" channel="WWON.ny48">
+  <programme start="20261116193000 -0500" stop="20261116200000 -0500" channel="WWON.ny48">
     <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261116233000 -0500" stop="20261116235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+  <programme start="20261116200000 -0500" stop="20261116230000 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
+  </programme>
+  <programme start="20261116230000 -0500" stop="20261116234500 -0500" channel="WWON.ny48">
+    <title lang="en">The Steve Katsos Show</title>
+  </programme>
+  <programme start="20261116234500 -0500" stop="20261116235800 -0500" channel="WWON.ny48">
+    <title lang="en">The Andy Due Show</title>
   </programme>
   <programme start="20261116235800 -0500" stop="20261117020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -1917,46 +1912,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261117100000 -0500" stop="20261117110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261117110000 -0500" stop="20261117120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261117120000 -0500" stop="20261117130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261117130000 -0500" stop="20261117140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261117140000 -0500" stop="20261117150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261117150000 -0500" stop="20261117160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261117160000 -0500" stop="20261117170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261117170000 -0500" stop="20261117180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261117180000 -0500" stop="20261117190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261117190000 -0500" stop="20261117200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261117190000 -0500" stop="20261117193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261117200000 -0500" stop="20261117213000 -0500" channel="WWON.ny48">
+  <programme start="20261117193000 -0500" stop="20261117200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
+  </programme>
+  <programme start="20261117200000 -0500" stop="20261117230000 -0500" channel="WWON.ny48">
     <title lang="en">Primetime Movie Showcases</title>
   </programme>
-  <programme start="20261117213000 -0500" stop="20261117230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
-  </programme>
   <programme start="20261117230000 -0500" stop="20261117233000 -0500" channel="WWON.ny48">
-    <title lang="en">The Andy Due Show</title>
+    <title lang="en">Rock "N" Roll Video Show</title>
   </programme>
   <programme start="20261117233000 -0500" stop="20261117235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+    <title lang="en">Bobby's Mic</title>
   </programme>
   <programme start="20261117235800 -0500" stop="20261118020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -1968,46 +1963,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261118100000 -0500" stop="20261118110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261118110000 -0500" stop="20261118120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261118120000 -0500" stop="20261118130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261118130000 -0500" stop="20261118140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261118140000 -0500" stop="20261118150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261118150000 -0500" stop="20261118160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261118160000 -0500" stop="20261118170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261118170000 -0500" stop="20261118180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261118180000 -0500" stop="20261118190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261118190000 -0500" stop="20261118200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261118190000 -0500" stop="20261118193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261118200000 -0500" stop="20261118213000 -0500" channel="WWON.ny48">
+  <programme start="20261118193000 -0500" stop="20261118200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
+  </programme>
+  <programme start="20261118200000 -0500" stop="20261118230000 -0500" channel="WWON.ny48">
     <title lang="en">Primetime Movie Showcases</title>
-  </programme>
-  <programme start="20261118213000 -0500" stop="20261118230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
   </programme>
   <programme start="20261118230000 -0500" stop="20261118233000 -0500" channel="WWON.ny48">
     <title lang="en">Late Night Boomin'</title>
   </programme>
   <programme start="20261118233000 -0500" stop="20261118235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+    <title lang="en">After Hours With T.C Restani</title>
   </programme>
   <programme start="20261118235800 -0500" stop="20261119020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2019,43 +2014,40 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261119100000 -0500" stop="20261119110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261119110000 -0500" stop="20261119120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261119120000 -0500" stop="20261119130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261119130000 -0500" stop="20261119140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261119140000 -0500" stop="20261119150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261119150000 -0500" stop="20261119160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261119160000 -0500" stop="20261119170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261119170000 -0500" stop="20261119180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261119180000 -0500" stop="20261119190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261119190000 -0500" stop="20261119200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261119190000 -0500" stop="20261119193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261119200000 -0500" stop="20261119213000 -0500" channel="WWON.ny48">
-    <title lang="en">Mistress Peace Theatre</title>
+  <programme start="20261119193000 -0500" stop="20261119200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261119213000 -0500" stop="20261119230000 -0500" channel="WWON.ny48">
-    <title lang="en">Beware Theatre</title>
-  </programme>
-  <programme start="20261119230000 -0500" stop="20261119235800 -0500" channel="WWON.ny48">
-    <title lang="en">W.O.N Theatre</title>
+  <programme start="20261119200000 -0500" stop="20261119235800 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
   </programme>
   <programme start="20261119235800 -0500" stop="20261120020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2067,40 +2059,40 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261120100000 -0500" stop="20261120110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261120110000 -0500" stop="20261120120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261120120000 -0500" stop="20261120130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261120130000 -0500" stop="20261120140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261120140000 -0500" stop="20261120150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261120150000 -0500" stop="20261120160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261120160000 -0500" stop="20261120170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261120170000 -0500" stop="20261120180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261120180000 -0500" stop="20261120190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261120190000 -0500" stop="20261120200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261120190000 -0500" stop="20261120193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261120200000 -0500" stop="20261120220000 -0500" channel="WWON.ny48">
-    <title lang="en">Cemetery Cinema</title>
+  <programme start="20261120193000 -0500" stop="20261120200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261120220000 -0500" stop="20261120235800 -0500" channel="WWON.ny48">
-    <title lang="en">Off Beat Cinema</title>
+  <programme start="20261120200000 -0500" stop="20261120235800 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
   </programme>
   <programme start="20261120235800 -0500" stop="20261121020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2183,14 +2175,11 @@
   <programme start="20261122170000 -0500" stop="20261122180000 -0500" channel="WWON.ny48">
     <title lang="en">Woodsongs TV Show</title>
   </programme>
-  <programme start="20261122180000 -0500" stop="20261122190000 -0500" channel="WWON.ny48">
-    <title lang="en">One Step Beyond</title>
-  </programme>
-  <programme start="20261122190000 -0500" stop="20261122200000 -0500" channel="WWON.ny48">
-    <title lang="en">Project UFO</title>
+  <programme start="20261122180000 -0500" stop="20261122200000 -0500" channel="WWON.ny48">
+    <title lang="en">Demented Features</title>
   </programme>
   <programme start="20261122200000 -0500" stop="20261122220000 -0500" channel="WWON.ny48">
-    <title lang="en">Demented Features</title>
+    <title lang="en">The Mummy &amp; The Monkey</title>
   </programme>
   <programme start="20261122220000 -0500" stop="20261122233000 -0500" channel="WWON.ny48">
     <title lang="en">After Hours Cinema</title>
@@ -2205,46 +2194,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261123100000 -0500" stop="20261123110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261123110000 -0500" stop="20261123120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261123130000 -0500" stop="20261123140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261123140000 -0500" stop="20261123150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261123150000 -0500" stop="20261123160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261123160000 -0500" stop="20261123170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261123170000 -0500" stop="20261123180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261123180000 -0500" stop="20261123190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261123190000 -0500" stop="20261123200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261123190000 -0500" stop="20261123193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261123200000 -0500" stop="20261123213000 -0500" channel="WWON.ny48">
-    <title lang="en">Primetime Movie Showcases</title>
-  </programme>
-  <programme start="20261123213000 -0500" stop="20261123230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
-  </programme>
-  <programme start="20261123230000 -0500" stop="20261123233000 -0500" channel="WWON.ny48">
+  <programme start="20261123193000 -0500" stop="20261123200000 -0500" channel="WWON.ny48">
     <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261123233000 -0500" stop="20261123235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+  <programme start="20261123200000 -0500" stop="20261123230000 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
+  </programme>
+  <programme start="20261123230000 -0500" stop="20261123234500 -0500" channel="WWON.ny48">
+    <title lang="en">The Steve Katsos Show</title>
+  </programme>
+  <programme start="20261123234500 -0500" stop="20261123235800 -0500" channel="WWON.ny48">
+    <title lang="en">The Andy Due Show</title>
   </programme>
   <programme start="20261123235800 -0500" stop="20261124020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2256,46 +2245,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261124100000 -0500" stop="20261124110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261124110000 -0500" stop="20261124120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261124120000 -0500" stop="20261124130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261124130000 -0500" stop="20261124140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261124140000 -0500" stop="20261124150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261124150000 -0500" stop="20261124160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261124160000 -0500" stop="20261124170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261124170000 -0500" stop="20261124180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261124180000 -0500" stop="20261124190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261124190000 -0500" stop="20261124200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261124190000 -0500" stop="20261124193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261124200000 -0500" stop="20261124213000 -0500" channel="WWON.ny48">
+  <programme start="20261124193000 -0500" stop="20261124200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
+  </programme>
+  <programme start="20261124200000 -0500" stop="20261124230000 -0500" channel="WWON.ny48">
     <title lang="en">Primetime Movie Showcases</title>
   </programme>
-  <programme start="20261124213000 -0500" stop="20261124230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
-  </programme>
   <programme start="20261124230000 -0500" stop="20261124233000 -0500" channel="WWON.ny48">
-    <title lang="en">The Andy Due Show</title>
+    <title lang="en">Rock "N" Roll Video Show</title>
   </programme>
   <programme start="20261124233000 -0500" stop="20261124235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+    <title lang="en">Bobby's Mic</title>
   </programme>
   <programme start="20261124235800 -0500" stop="20261125020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2307,46 +2296,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261125100000 -0500" stop="20261125110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261125110000 -0500" stop="20261125120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261125120000 -0500" stop="20261125130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261125130000 -0500" stop="20261125140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261125140000 -0500" stop="20261125150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261125150000 -0500" stop="20261125160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261125160000 -0500" stop="20261125170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261125170000 -0500" stop="20261125180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261125190000 -0500" stop="20261125200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261125190000 -0500" stop="20261125193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261125200000 -0500" stop="20261125213000 -0500" channel="WWON.ny48">
+  <programme start="20261125193000 -0500" stop="20261125200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125230000 -0500" channel="WWON.ny48">
     <title lang="en">Primetime Movie Showcases</title>
-  </programme>
-  <programme start="20261125213000 -0500" stop="20261125230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
   </programme>
   <programme start="20261125230000 -0500" stop="20261125233000 -0500" channel="WWON.ny48">
     <title lang="en">Late Night Boomin'</title>
   </programme>
   <programme start="20261125233000 -0500" stop="20261125235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+    <title lang="en">After Hours With T.C Restani</title>
   </programme>
   <programme start="20261125235800 -0500" stop="20261126020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2358,43 +2347,40 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261126100000 -0500" stop="20261126110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261126110000 -0500" stop="20261126120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261126120000 -0500" stop="20261126130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261126130000 -0500" stop="20261126140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261126140000 -0500" stop="20261126150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261126150000 -0500" stop="20261126160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261126160000 -0500" stop="20261126170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261126170000 -0500" stop="20261126180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261126180000 -0500" stop="20261126190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261126190000 -0500" stop="20261126200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261126190000 -0500" stop="20261126193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261126200000 -0500" stop="20261126213000 -0500" channel="WWON.ny48">
-    <title lang="en">Mistress Peace Theatre</title>
+  <programme start="20261126193000 -0500" stop="20261126200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261126213000 -0500" stop="20261126230000 -0500" channel="WWON.ny48">
-    <title lang="en">Beware Theatre</title>
-  </programme>
-  <programme start="20261126230000 -0500" stop="20261126235800 -0500" channel="WWON.ny48">
-    <title lang="en">W.O.N Theatre</title>
+  <programme start="20261126200000 -0500" stop="20261126235800 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
   </programme>
   <programme start="20261126235800 -0500" stop="20261127020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2406,40 +2392,40 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261127100000 -0500" stop="20261127110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261127110000 -0500" stop="20261127120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261127120000 -0500" stop="20261127130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261127130000 -0500" stop="20261127140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261127140000 -0500" stop="20261127150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261127150000 -0500" stop="20261127160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261127170000 -0500" stop="20261127180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261127180000 -0500" stop="20261127190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261127190000 -0500" stop="20261127200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261127190000 -0500" stop="20261127193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261127200000 -0500" stop="20261127220000 -0500" channel="WWON.ny48">
-    <title lang="en">Cemetery Cinema</title>
+  <programme start="20261127193000 -0500" stop="20261127200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261127220000 -0500" stop="20261127235800 -0500" channel="WWON.ny48">
-    <title lang="en">Off Beat Cinema</title>
+  <programme start="20261127200000 -0500" stop="20261127235800 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
   </programme>
   <programme start="20261127235800 -0500" stop="20261128020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2522,14 +2508,11 @@
   <programme start="20261129170000 -0500" stop="20261129180000 -0500" channel="WWON.ny48">
     <title lang="en">Woodsongs TV Show</title>
   </programme>
-  <programme start="20261129180000 -0500" stop="20261129190000 -0500" channel="WWON.ny48">
-    <title lang="en">One Step Beyond</title>
-  </programme>
-  <programme start="20261129190000 -0500" stop="20261129200000 -0500" channel="WWON.ny48">
-    <title lang="en">Project UFO</title>
+  <programme start="20261129180000 -0500" stop="20261129200000 -0500" channel="WWON.ny48">
+    <title lang="en">Demented Features</title>
   </programme>
   <programme start="20261129200000 -0500" stop="20261129220000 -0500" channel="WWON.ny48">
-    <title lang="en">Demented Features</title>
+    <title lang="en">The Mummy &amp; The Monkey</title>
   </programme>
   <programme start="20261129220000 -0500" stop="20261129233000 -0500" channel="WWON.ny48">
     <title lang="en">After Hours Cinema</title>
@@ -2544,46 +2527,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261130100000 -0500" stop="20261130110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261130110000 -0500" stop="20261130120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261130120000 -0500" stop="20261130130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261130130000 -0500" stop="20261130140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261130140000 -0500" stop="20261130150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261130150000 -0500" stop="20261130160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261130160000 -0500" stop="20261130170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261130170000 -0500" stop="20261130180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261130180000 -0500" stop="20261130190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261130190000 -0500" stop="20261130200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261130190000 -0500" stop="20261130193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261130200000 -0500" stop="20261130213000 -0500" channel="WWON.ny48">
-    <title lang="en">Primetime Movie Showcases</title>
-  </programme>
-  <programme start="20261130213000 -0500" stop="20261130230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
-  </programme>
-  <programme start="20261130230000 -0500" stop="20261130233000 -0500" channel="WWON.ny48">
+  <programme start="20261130193000 -0500" stop="20261130200000 -0500" channel="WWON.ny48">
     <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261130233000 -0500" stop="20261130235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+  <programme start="20261130200000 -0500" stop="20261130230000 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
+  </programme>
+  <programme start="20261130230000 -0500" stop="20261130234500 -0500" channel="WWON.ny48">
+    <title lang="en">The Steve Katsos Show</title>
+  </programme>
+  <programme start="20261130234500 -0500" stop="20261130235800 -0500" channel="WWON.ny48">
+    <title lang="en">The Andy Due Show</title>
   </programme>
   <programme start="20261130235800 -0500" stop="20261201020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2595,46 +2578,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261201100000 -0500" stop="20261201110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261201110000 -0500" stop="20261201120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261201120000 -0500" stop="20261201130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261201130000 -0500" stop="20261201140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261201140000 -0500" stop="20261201150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261201150000 -0500" stop="20261201160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261201160000 -0500" stop="20261201170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261201170000 -0500" stop="20261201180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261201180000 -0500" stop="20261201190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261201190000 -0500" stop="20261201200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261201190000 -0500" stop="20261201193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261201200000 -0500" stop="20261201213000 -0500" channel="WWON.ny48">
+  <programme start="20261201193000 -0500" stop="20261201200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
+  </programme>
+  <programme start="20261201200000 -0500" stop="20261201230000 -0500" channel="WWON.ny48">
     <title lang="en">Primetime Movie Showcases</title>
   </programme>
-  <programme start="20261201213000 -0500" stop="20261201230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
-  </programme>
   <programme start="20261201230000 -0500" stop="20261201233000 -0500" channel="WWON.ny48">
-    <title lang="en">The Andy Due Show</title>
+    <title lang="en">Rock "N" Roll Video Show</title>
   </programme>
   <programme start="20261201233000 -0500" stop="20261201235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+    <title lang="en">Bobby's Mic</title>
   </programme>
   <programme start="20261201235800 -0500" stop="20261202020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2646,46 +2629,46 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261202100000 -0500" stop="20261202110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261202110000 -0500" stop="20261202120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261202120000 -0500" stop="20261202130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261202130000 -0500" stop="20261202140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261202140000 -0500" stop="20261202150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261202150000 -0500" stop="20261202160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261202160000 -0500" stop="20261202170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261202170000 -0500" stop="20261202180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261202180000 -0500" stop="20261202190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261202190000 -0500" stop="20261202200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261202190000 -0500" stop="20261202193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261202200000 -0500" stop="20261202213000 -0500" channel="WWON.ny48">
+  <programme start="20261202193000 -0500" stop="20261202200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
+  </programme>
+  <programme start="20261202200000 -0500" stop="20261202230000 -0500" channel="WWON.ny48">
     <title lang="en">Primetime Movie Showcases</title>
-  </programme>
-  <programme start="20261202213000 -0500" stop="20261202230000 -0500" channel="WWON.ny48">
-    <title lang="en">$9,000 Movie / The 10 O'Clock Movie</title>
   </programme>
   <programme start="20261202230000 -0500" stop="20261202233000 -0500" channel="WWON.ny48">
     <title lang="en">Late Night Boomin'</title>
   </programme>
   <programme start="20261202233000 -0500" stop="20261202235800 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+    <title lang="en">After Hours With T.C Restani</title>
   </programme>
   <programme start="20261202235800 -0500" stop="20261203020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2697,43 +2680,40 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261203100000 -0500" stop="20261203110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261203110000 -0500" stop="20261203120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261203120000 -0500" stop="20261203130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261203130000 -0500" stop="20261203140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261203140000 -0500" stop="20261203150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261203150000 -0500" stop="20261203160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261203160000 -0500" stop="20261203170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261203170000 -0500" stop="20261203180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261203180000 -0500" stop="20261203190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261203190000 -0500" stop="20261203200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261203190000 -0500" stop="20261203193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261203200000 -0500" stop="20261203213000 -0500" channel="WWON.ny48">
-    <title lang="en">Mistress Peace Theatre</title>
+  <programme start="20261203193000 -0500" stop="20261203200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261203213000 -0500" stop="20261203230000 -0500" channel="WWON.ny48">
-    <title lang="en">Beware Theatre</title>
-  </programme>
-  <programme start="20261203230000 -0500" stop="20261203235800 -0500" channel="WWON.ny48">
-    <title lang="en">W.O.N Theatre</title>
+  <programme start="20261203200000 -0500" stop="20261203235800 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
   </programme>
   <programme start="20261203235800 -0500" stop="20261204020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2745,40 +2725,40 @@
     <title lang="en">The Early Show</title>
   </programme>
   <programme start="20261204100000 -0500" stop="20261204110000 -0500" channel="WWON.ny48">
-    <title lang="en">The Adventures of Champion</title>
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
   </programme>
   <programme start="20261204110000 -0500" stop="20261204120000 -0500" channel="WWON.ny48">
-    <title lang="en">Stories of the Century</title>
+    <title lang="en">Yancy Derringer</title>
   </programme>
   <programme start="20261204120000 -0500" stop="20261204130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky Ring</title>
+    <title lang="en">Sky King</title>
   </programme>
   <programme start="20261204130000 -0500" stop="20261204140000 -0500" channel="WWON.ny48">
-    <title lang="en">Meet Corliss Archer</title>
+    <title lang="en">It's About Time</title>
   </programme>
   <programme start="20261204140000 -0500" stop="20261204150000 -0500" channel="WWON.ny48">
-    <title lang="en">My Little Margie</title>
+    <title lang="en">Follow That Man</title>
   </programme>
   <programme start="20261204150000 -0500" stop="20261204160000 -0500" channel="WWON.ny48">
-    <title lang="en">On the Buses</title>
+    <title lang="en">Lights Out</title>
   </programme>
   <programme start="20261204160000 -0500" stop="20261204170000 -0500" channel="WWON.ny48">
-    <title lang="en">Fenn Street Gang</title>
+    <title lang="en">Sherlock Holmes</title>
   </programme>
   <programme start="20261204170000 -0500" stop="20261204180000 -0500" channel="WWON.ny48">
-    <title lang="en">Special Branch</title>
+    <title lang="en">Decoy</title>
   </programme>
   <programme start="20261204180000 -0500" stop="20261204190000 -0500" channel="WWON.ny48">
-    <title lang="en">N.Y.P.D.</title>
+    <title lang="en">The Red Skelton Show</title>
   </programme>
-  <programme start="20261204190000 -0500" stop="20261204200000 -0500" channel="WWON.ny48">
-    <title lang="en">Dragnet</title>
+  <programme start="20261204190000 -0500" stop="20261204193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
   </programme>
-  <programme start="20261204200000 -0500" stop="20261204220000 -0500" channel="WWON.ny48">
-    <title lang="en">Cemetery Cinema</title>
+  <programme start="20261204193000 -0500" stop="20261204200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
   </programme>
-  <programme start="20261204220000 -0500" stop="20261204235800 -0500" channel="WWON.ny48">
-    <title lang="en">Off Beat Cinema</title>
+  <programme start="20261204200000 -0500" stop="20261204235800 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
   </programme>
   <programme start="20261204235800 -0500" stop="20261205020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -2861,14 +2841,11 @@
   <programme start="20261206170000 -0500" stop="20261206180000 -0500" channel="WWON.ny48">
     <title lang="en">Woodsongs TV Show</title>
   </programme>
-  <programme start="20261206180000 -0500" stop="20261206190000 -0500" channel="WWON.ny48">
-    <title lang="en">One Step Beyond</title>
-  </programme>
-  <programme start="20261206190000 -0500" stop="20261206200000 -0500" channel="WWON.ny48">
-    <title lang="en">Project UFO</title>
+  <programme start="20261206180000 -0500" stop="20261206200000 -0500" channel="WWON.ny48">
+    <title lang="en">Demented Features</title>
   </programme>
   <programme start="20261206200000 -0500" stop="20261206220000 -0500" channel="WWON.ny48">
-    <title lang="en">Demented Features</title>
+    <title lang="en">The Mummy &amp; The Monkey</title>
   </programme>
   <programme start="20261206220000 -0500" stop="20261206233000 -0500" channel="WWON.ny48">
     <title lang="en">After Hours Cinema</title>
