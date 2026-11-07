@@ -5,6 +5,7 @@ Channels:
   swaagtv - Swaag TV (WPVN-DT3), from TV Passport
   nost    - The Nostalgia Network, from watchnost.com/schedule
   TVC.caribbean - Television Caribbean, weekly grid from tvcplus.net (edited by hand)
+  ZIZ.tv - ZIZ TV (St. Kitts & Nevis), weekly grid from zizonline.com/tv/schedule (edited by hand)
 
 Env vars (optional): SOURCE_TZ (TV Passport display zone, default America/New_York),
 OUT_TZ (default America/Chicago), DAYS (default 14).
@@ -159,10 +160,51 @@ def fetch_tvc(days):
     return events, end
 
 
+# ---- ZIZ TV (St. Kitts & Nevis, Channel 5): weekly grid from zizonline.com/tv/schedule ----
+# Times on that page are local (AST). Edit by hand when the page changes. Mon=0 ... Sun=6.
+ZIZ_TZ = ZoneInfo("America/Puerto_Rico")  # Atlantic Standard Time (UTC-4, no DST)
+ZIZ_WEEK = {d: [] for d in range(7)}
+
+
+def _ziz(days, rows):
+    for d in days:
+        ZIZ_WEEK[d] += rows
+
+
+_ziz(range(7), [(0,0,"Archive Classics","Footage from the ZIZ vault, back to the 1970s")])
+_ziz(range(5), [(16,0,"Afternoon Line-Up","Community programming and features"),
+                (17,0,"Community Spotlight","Stories from across the Federation"),
+                (18,0,"Health Wise","The medical and wellness show"),
+                (19,0,"ZIZ Evening News","The day's headlines, live"),
+                (20,0,"Federation Focus","In-depth interviews and analysis"),
+                (22,0,"Policing With You","Public safety with the Police Force")])
+_ziz([0], [(21,0,"In-Focus","Live local show")])
+_ziz([1], [(21,0,"Telecomms Talk & Action Sports","Live local show")])
+_ziz([2], [(21,0,"The People's Show","Live local show")])
+_ziz([3, 4], [(21,0,"Live Local Show","")])
+_ziz([5, 6], [(16,0,"Weekend Features","Culture, events and island life"),
+              (18,0,"Sports Roundup","Football, netball, cricket and more"),
+              (19,0,"ZIZ Evening News","The weekend in review, live"),
+              (20,0,"Culture & Community","Carnival, Culturama and village festivals"),
+              (21,0,"Special Presentation","Local productions and features")])
+
+
+def fetch_ziz(days):
+    start = datetime.now(ZIZ_TZ).date()
+    events = []
+    for n in range(days):
+        d = start + timedelta(days=n)
+        for h, m, title, desc in sorted(ZIZ_WEEK[d.weekday()]):
+            events.append((datetime(d.year, d.month, d.day, h, m, tzinfo=ZIZ_TZ), title, desc))
+    end = datetime.combine(start + timedelta(days=days), datetime.min.time(), tzinfo=ZIZ_TZ)
+    return events, end
+
+
 CHANNELS = [
     ("swaagtv", "SWAAGTV", fetch_swaag),
     ("nost", "NOST - The Nostalgia Network", fetch_nost),
     ("TVC.caribbean", "Television Caribbean (TVC)", fetch_tvc),
+    ("ZIZ.tv", "ZIZ TV (Channel 5)", fetch_ziz),
 ]
 
 
