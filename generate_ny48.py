@@ -25,24 +25,21 @@ def add(days, hh, mm, title):
     for d in days:
         wk.setdefault(d, []).append((time(hh, mm), title))
 
-MF, MW = [0, 1, 2, 3, 4], [0, 1, 2]
+MF = [0, 1, 2, 3, 4]
 for h, m, t in [(2,0,"Late Movies & Late Late Movies"),(6,0,"The Early Show"),
-    (10,0,"The Adventures of Champion"),(11,0,"Stories of the Century"),(12,0,"Sky Ring"),
-    (13,0,"Meet Corliss Archer"),(14,0,"My Little Margie"),(15,0,"On the Buses"),
-    (16,0,"Fenn Street Gang"),(17,0,"Special Branch"),(18,0,"N.Y.P.D."),(19,0,"Dragnet"),
-    (23,58,"The Midnight Movie")]:
+    (10,0,"Hawkeye & The Last Of The Mohicans"),(11,0,"Yancy Derringer"),(12,0,"Sky King"),
+    (13,0,"It's About Time"),(14,0,"Follow That Man"),(15,0,"Lights Out"),
+    (16,0,"Sherlock Holmes"),(17,0,"Decoy"),(18,0,"The Red Skelton Show"),
+    (19,0,"The Chad & Bunny Show"),(19,30,"Super Mega Trivia Slam"),
+    (20,0,"Primetime Movie Showcases"),(23,58,"The Midnight Movie")]:
     add(MF, h, m, t)
-add(MW, 20, 0, "Primetime Movie Showcases")
-add(MW, 21, 30, "$9,000 Movie / The 10 O'Clock Movie")
-add([0], 23, 0, "Super Mega Trivia Slam")
-add([1], 23, 0, "The Andy Due Show")
+# Late nights (Mon-Wed only; Thu/Fri run Primetime Movie Showcases until the Midnight Movie)
+add([0], 23, 0, "The Steve Katsos Show")
+add([0], 23, 45, "The Andy Due Show")
+add([1], 23, 0, 'Rock "N" Roll Video Show')
+add([1], 23, 30, "Bobby's Mic")
 add([2], 23, 0, "Late Night Boomin'")
-add(MW, 23, 30, "The Chad & Bunny Show")
-add([3], 20, 0, "Mistress Peace Theatre")
-add([3], 21, 30, "Beware Theatre")
-add([3], 23, 0, "W.O.N Theatre")
-add([4], 20, 0, "Cemetery Cinema")
-add([4], 22, 0, "Off Beat Cinema")
+add([2], 23, 30, "After Hours With T.C Restani")
 for h, m, t in [(2,0,"The Late Movie"),(4,0,"The Late Late Show"),(5,30,"The Early Show"),
     (7,0,"Nutty's Treehouse"),(8,0,"Cartoon Starcade"),(9,0,"Don's Breakfast Serials"),
     (11,0,"Movies or Sports (To Be Determined)"),(17,0,"American Pro Wrestling"),
@@ -53,8 +50,8 @@ for h, m, t in [(1,30,"Livingston Presents"),(3,0,"Creature Triple Features"),
     (9,0,"Cooking with Vlada"),(9,30,"Shatkin FIRST Down"),(10,0,"Off the Cuff with Craig Mitchell"),
     (11,0,"Sidewalks Entertainment"),(12,0,"The Neil Haley Show"),(13,0,"Passionate Living"),
     (14,0,"History Highway"),(15,0,"Upstaged"),(15,30,"The House on the Hill"),
-    (16,0,"Baby Blues Art Presents"),(17,0,"Woodsongs TV Show"),(18,0,"One Step Beyond"),
-    (19,0,"Project UFO"),(20,0,"Demented Features"),(22,0,"After Hours Cinema"),
+    (16,0,"Baby Blues Art Presents"),(17,0,"Woodsongs TV Show"),(18,0,"Demented Features"),
+    (20,0,"The Mummy & The Monkey"),(22,0,"After Hours Cinema"),
     (23,30,"Cinema Insomnia with Mr. Lobo")]:
     add([6], h, m, t)
 
