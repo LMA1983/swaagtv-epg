@@ -16,13 +16,9 @@
     <display-name>NY 48 (WWON-TV)</display-name>
     <display-name>WWON-TV</display-name>
   </channel>
-  <programme start="20261112050000 -0600" stop="20261112053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261112053000 -0600" stop="20261112060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
+  <programme start="20261112040000 -0600" stop="20261112060000 -0600" channel="swaagtv">
+    <title>No Regrets (2016)</title>
+    <desc>A flight attendant finally agrees to marry her college sweetheart after 12 years of proposals. But after meeting a handsome divorcee during a layover in Los Angeles, she finds herself in a compromising position that she never thought she'd be in.</desc>
   </programme>
   <programme start="20261112060000 -0600" stop="20261112063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -32,25 +28,25 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261112070000 -0600" stop="20261112093000 -0600" channel="swaagtv">
+  <programme start="20261112070000 -0600" stop="20261112073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261112073000 -0600" stop="20261112080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261112080000 -0600" stop="20261112103000 -0600" channel="swaagtv">
     <title>Uptight (1968)</title>
     <desc>Black militants building up an arsenal of weapons in preparation for a race war are betrayed by one of their own.</desc>
   </programme>
-  <programme start="20261112093000 -0600" stop="20261112100000 -0600" channel="swaagtv">
+  <programme start="20261112103000 -0600" stop="20261112110000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261112100000 -0600" stop="20261112120000 -0600" channel="swaagtv">
+  <programme start="20261112110000 -0600" stop="20261112130000 -0600" channel="swaagtv">
     <title>Gingersnap Christmas (2024)</title>
     <desc>Alesha Delacroix, grieving her fiancé, reluctantly helps her grandma's charity, meeting Garrett, a charming Brit, who reignites her heart.</desc>
-  </programme>
-  <programme start="20261112120000 -0600" stop="20261112123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261112123000 -0600" stop="20261112130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261112130000 -0600" stop="20261112133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -60,61 +56,61 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261112140000 -0600" stop="20261112160000 -0600" channel="swaagtv">
+  <programme start="20261112140000 -0600" stop="20261112143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261112143000 -0600" stop="20261112150000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261112150000 -0600" stop="20261112170000 -0600" channel="swaagtv">
     <title>Sweet Face (2018)</title>
     <desc>A couple stays strong despite all the hurdles life throws at them.</desc>
   </programme>
-  <programme start="20261112160000 -0600" stop="20261112163000 -0600" channel="swaagtv">
+  <programme start="20261112170000 -0600" stop="20261112173000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261112163000 -0600" stop="20261112190000 -0600" channel="swaagtv">
+  <programme start="20261112173000 -0600" stop="20261112200000 -0600" channel="swaagtv">
     <title>Uptight (1968)</title>
     <desc>Black militants building up an arsenal of weapons in preparation for a race war are betrayed by one of their own.</desc>
   </programme>
-  <programme start="20261112190000 -0600" stop="20261112210000 -0600" channel="swaagtv">
+  <programme start="20261112200000 -0600" stop="20261112220000 -0600" channel="swaagtv">
     <title>Christmas Angel (2024)</title>
     <desc>The Johnsons, once lively and close-knit, struggle to move forward during the holidays in the wake of one of their family member's death.</desc>
   </programme>
-  <programme start="20261112210000 -0600" stop="20261112230000 -0600" channel="swaagtv">
+  <programme start="20261112220000 -0600" stop="20261113000000 -0600" channel="swaagtv">
     <title>The L.A. Riot Spectacular (2005)</title>
     <desc>Los Angeles erupts into violence after police beat Rodney King (T.K. Carter).</desc>
   </programme>
-  <programme start="20261112230000 -0600" stop="20261112233000 -0600" channel="swaagtv">
+  <programme start="20261113000000 -0600" stop="20261113003000 -0600" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>Finest Homes explores the world of architecture, interior design, landscaping to all the elements that turn a house into a home.</desc>
   </programme>
-  <programme start="20261112233000 -0600" stop="20261113000000 -0600" channel="swaagtv">
+  <programme start="20261113003000 -0600" stop="20261113010000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 1</desc>
   </programme>
-  <programme start="20261113000000 -0600" stop="20261113003000 -0600" channel="swaagtv">
+  <programme start="20261113010000 -0600" stop="20261113013000 -0600" channel="swaagtv">
     <title>Hush</title>
     <desc>A tale of fashion, politics and ambition, involving the lives of members of high society in the city of Lagos; intrigue swirls around the relationship of Bem, a big-time designer, and Arinola, a rising politician.</desc>
   </programme>
-  <programme start="20261113003000 -0600" stop="20261113010000 -0600" channel="swaagtv">
+  <programme start="20261113013000 -0600" stop="20261113020000 -0600" channel="swaagtv">
     <title>The Wild</title>
     <desc>Set in the landscape of a five-star game lodge, this soap opera focuses on three families with financial and rooted connections to the land. Add the intrigue of rival family interests in the competitive safari industry and a classic drama unfolds.</desc>
   </programme>
-  <programme start="20261113010000 -0600" stop="20261113033000 -0600" channel="swaagtv">
+  <programme start="20261113020000 -0600" stop="20261113043000 -0600" channel="swaagtv">
     <title>Forgive and Forget (2015)</title>
     <desc>A family implodes in the wake of a tragic accident.</desc>
   </programme>
-  <programme start="20261113033000 -0600" stop="20261113043000 -0600" channel="swaagtv">
+  <programme start="20261113043000 -0600" stop="20261113053000 -0600" channel="swaagtv">
     <title>The Smart Money Woman</title>
     <desc>Episode 2 After learning how to manage her expenses, Zuri sticks to a strict budget; Adesuwa clashes with her mother-in-law.</desc>
   </programme>
-  <programme start="20261113043000 -0600" stop="20261113050000 -0600" channel="swaagtv">
+  <programme start="20261113053000 -0600" stop="20261113060000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>Italian Supercars Italian supercars are some of the most exciting cars in the world; from Ferrari, Lamborghini Aventador or the Pagani Huayra, they are the most beautiful and the fastest cars in the world.</desc>
-  </programme>
-  <programme start="20261113050000 -0600" stop="20261113053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261113053000 -0600" stop="20261113060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261113060000 -0600" stop="20261113063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -124,29 +120,29 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261113070000 -0600" stop="20261113090000 -0600" channel="swaagtv">
+  <programme start="20261113070000 -0600" stop="20261113073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261113073000 -0600" stop="20261113080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261113080000 -0600" stop="20261113100000 -0600" channel="swaagtv">
     <title>Christmas Angel (2024)</title>
     <desc>The Johnsons, once lively and close-knit, struggle to move forward during the holidays in the wake of one of their family member's death.</desc>
   </programme>
-  <programme start="20261113090000 -0600" stop="20261113093000 -0600" channel="swaagtv">
+  <programme start="20261113100000 -0600" stop="20261113103000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Elle Varner; Snoop Dogg Elle Varner; Snoop Dogg.</desc>
   </programme>
-  <programme start="20261113093000 -0600" stop="20261113100000 -0600" channel="swaagtv">
+  <programme start="20261113103000 -0600" stop="20261113110000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 1</desc>
   </programme>
-  <programme start="20261113100000 -0600" stop="20261113120000 -0600" channel="swaagtv">
+  <programme start="20261113110000 -0600" stop="20261113130000 -0600" channel="swaagtv">
     <title>No Regrets (2016)</title>
     <desc>A flight attendant finally agrees to marry her college sweetheart after 12 years of proposals. But after meeting a handsome divorcee during a layover in Los Angeles, she finds herself in a compromising position that she never thought she'd be in.</desc>
-  </programme>
-  <programme start="20261113120000 -0600" stop="20261113123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261113123000 -0600" stop="20261113130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261113130000 -0600" stop="20261113133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -156,57 +152,57 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261113140000 -0600" stop="20261113160000 -0600" channel="swaagtv">
+  <programme start="20261113140000 -0600" stop="20261113143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261113143000 -0600" stop="20261113150000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261113150000 -0600" stop="20261113170000 -0600" channel="swaagtv">
     <title>Pastor Shirley (2013)</title>
     <desc>Everyone Jason has ever loved flees the community after a series of robberies and arrests. He wants to turn his father's church into a place of hope and turns to Pastor Shirley for help and inspiration.</desc>
   </programme>
-  <programme start="20261113160000 -0600" stop="20261113163000 -0600" channel="swaagtv">
+  <programme start="20261113170000 -0600" stop="20261113173000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>What Goes Around... And Around... James exploits Thuli's ethnicity for clients; Zak schemes to get a phone.</desc>
   </programme>
-  <programme start="20261113163000 -0600" stop="20261113170000 -0600" channel="swaagtv">
+  <programme start="20261113173000 -0600" stop="20261113180000 -0600" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>Finest Homes explores the world of architecture, interior design, landscaping to all the elements that turn a house into a home.</desc>
   </programme>
-  <programme start="20261113170000 -0600" stop="20261113190000 -0600" channel="swaagtv">
+  <programme start="20261113180000 -0600" stop="20261113200000 -0600" channel="swaagtv">
     <title>Christmas Angel (2024)</title>
     <desc>The Johnsons, once lively and close-knit, struggle to move forward during the holidays in the wake of one of their family member's death.</desc>
   </programme>
-  <programme start="20261113190000 -0600" stop="20261113210000 -0600" channel="swaagtv">
+  <programme start="20261113200000 -0600" stop="20261113220000 -0600" channel="swaagtv">
     <title>Sweet Face (2018)</title>
     <desc>A couple stays strong despite all the hurdles life throws at them.</desc>
   </programme>
-  <programme start="20261113210000 -0600" stop="20261113230000 -0600" channel="swaagtv">
+  <programme start="20261113220000 -0600" stop="20261114000000 -0600" channel="swaagtv">
     <title>Gingersnap Christmas (2024)</title>
     <desc>Alesha Delacroix, grieving her fiancé, reluctantly helps her grandma's charity, meeting Garrett, a charming Brit, who reignites her heart.</desc>
   </programme>
-  <programme start="20261113230000 -0600" stop="20261113233000 -0600" channel="swaagtv">
+  <programme start="20261114000000 -0600" stop="20261114003000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261113233000 -0600" stop="20261114000000 -0600" channel="swaagtv">
+  <programme start="20261114003000 -0600" stop="20261114010000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Elle Varner; Snoop Dogg Elle Varner; Snoop Dogg.</desc>
   </programme>
-  <programme start="20261114000000 -0600" stop="20261114010000 -0600" channel="swaagtv">
+  <programme start="20261114010000 -0600" stop="20261114020000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>Folake discovers her brother in Chief Abayomi's room and suspects the worst; Jacob avoids all contact with his South African family.</desc>
   </programme>
-  <programme start="20261114010000 -0600" stop="20261114030000 -0600" channel="swaagtv">
+  <programme start="20261114020000 -0600" stop="20261114040000 -0600" channel="swaagtv">
     <title>The L.A. Riot Spectacular (2005)</title>
     <desc>Los Angeles erupts into violence after police beat Rodney King (T.K. Carter).</desc>
   </programme>
-  <programme start="20261114030000 -0600" stop="20261114050000 -0600" channel="swaagtv">
+  <programme start="20261114040000 -0600" stop="20261114060000 -0600" channel="swaagtv">
     <title>Pastor Shirley (2013)</title>
     <desc>Everyone Jason has ever loved flees the community after a series of robberies and arrests. He wants to turn his father's church into a place of hope and turns to Pastor Shirley for help and inspiration.</desc>
-  </programme>
-  <programme start="20261114050000 -0600" stop="20261114053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261114053000 -0600" stop="20261114060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261114060000 -0600" stop="20261114063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -216,191 +212,191 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261114070000 -0600" stop="20261114093000 -0600" channel="swaagtv">
+  <programme start="20261114070000 -0600" stop="20261114073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261114073000 -0600" stop="20261114080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261114080000 -0600" stop="20261114103000 -0600" channel="swaagtv">
     <title>Forgive and Forget (2015)</title>
     <desc>A family implodes in the wake of a tragic accident.</desc>
   </programme>
-  <programme start="20261114093000 -0600" stop="20261114100000 -0600" channel="swaagtv">
+  <programme start="20261114103000 -0600" stop="20261114110000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261114100000 -0600" stop="20261114120000 -0600" channel="swaagtv">
+  <programme start="20261114110000 -0600" stop="20261114130000 -0600" channel="swaagtv">
     <title>Sweet Face (2018)</title>
     <desc>A couple stays strong despite all the hurdles life throws at them.</desc>
-  </programme>
-  <programme start="20261114120000 -0600" stop="20261114123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261114123000 -0600" stop="20261114130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261114130000 -0600" stop="20261114133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
   <programme start="20261114133000 -0600" stop="20261114140000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261114140000 -0600" stop="20261114143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261114143000 -0600" stop="20261114150000 -0600" channel="swaagtv">
     <title>Wonderama</title>
     <desc>Games, celebrities, music, prizes and an interactive studio audience make for a fun family show.</desc>
   </programme>
-  <programme start="20261114140000 -0600" stop="20261114143000 -0600" channel="swaagtv">
+  <programme start="20261114150000 -0600" stop="20261114153000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Dream Truck Surprise Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261114143000 -0600" stop="20261114150000 -0600" channel="swaagtv">
+  <programme start="20261114153000 -0600" stop="20261114160000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>Italian Supercars Italian supercars are some of the most exciting cars in the world; from Ferrari, Lamborghini Aventador or the Pagani Huayra, they are the most beautiful and the fastest cars in the world.</desc>
   </programme>
-  <programme start="20261114150000 -0600" stop="20261114153000 -0600" channel="swaagtv">
+  <programme start="20261114160000 -0600" stop="20261114163000 -0600" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>Finest Homes explores the world of architecture, interior design, landscaping to all the elements that turn a house into a home.</desc>
   </programme>
-  <programme start="20261114153000 -0600" stop="20261114160000 -0600" channel="swaagtv">
+  <programme start="20261114163000 -0600" stop="20261114170000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 1</desc>
   </programme>
-  <programme start="20261114160000 -0600" stop="20261114163000 -0600" channel="swaagtv">
+  <programme start="20261114170000 -0600" stop="20261114173000 -0600" channel="swaagtv">
     <title>Visa on Arrival</title>
     <desc>Girls Trip Four immigration officers with contrasting personalities decide the fates of visa applicants; religious fanatic Charity, bribe-taking Okoro, narcissist Francis and no-nonsense Hope.</desc>
   </programme>
-  <programme start="20261114163000 -0600" stop="20261114170000 -0600" channel="swaagtv">
+  <programme start="20261114173000 -0600" stop="20261114180000 -0600" channel="swaagtv">
     <title>Hush</title>
     <desc>A tale of fashion, politics and ambition, involving the lives of members of high society in the city of Lagos; intrigue swirls around the relationship of Bem, a big-time designer, and Arinola, a rising politician.</desc>
   </programme>
-  <programme start="20261114170000 -0600" stop="20261114190000 -0600" channel="swaagtv">
+  <programme start="20261114180000 -0600" stop="20261114200000 -0600" channel="swaagtv">
     <title>Switchin' the Script (2012)</title>
     <desc>During a weekend corporate retreat, Lonnie's best friends convince her to take control when dealing with men. Lonnie's new attitude impresses every man she meets, especially her boss's good-looking son, David.</desc>
   </programme>
-  <programme start="20261114190000 -0600" stop="20261114210000 -0600" channel="swaagtv">
+  <programme start="20261114200000 -0600" stop="20261114220000 -0600" channel="swaagtv">
     <title>No Regrets (2016)</title>
     <desc>A flight attendant finally agrees to marry her college sweetheart after 12 years of proposals. But after meeting a handsome divorcee during a layover in Los Angeles, she finds herself in a compromising position that she never thought she'd be in.</desc>
   </programme>
-  <programme start="20261114210000 -0600" stop="20261114230000 -0600" channel="swaagtv">
+  <programme start="20261114220000 -0600" stop="20261115000000 -0600" channel="swaagtv">
     <title>Pastor Shirley (2013)</title>
     <desc>Everyone Jason has ever loved flees the community after a series of robberies and arrests. He wants to turn his father's church into a place of hope and turns to Pastor Shirley for help and inspiration.</desc>
   </programme>
-  <programme start="20261114230000 -0600" stop="20261115000000 -0600" channel="swaagtv">
+  <programme start="20261115000000 -0600" stop="20261115010000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>Folake discovers her brother in Chief Abayomi's room and suspects the worst; Jacob avoids all contact with his South African family.</desc>
   </programme>
-  <programme start="20261115000000 -0600" stop="20261115003000 -0600" channel="swaagtv">
+  <programme start="20261115010000 -0600" stop="20261115013000 -0600" channel="swaagtv">
     <title>The Wild</title>
     <desc>Set in the landscape of a five-star game lodge, this soap opera focuses on three families with financial and rooted connections to the land. Add the intrigue of rival family interests in the competitive safari industry and a classic drama unfolds.</desc>
   </programme>
-  <programme start="20261115003000 -0600" stop="20261115030000 -0600" channel="swaagtv">
+  <programme start="20261115013000 -0600" stop="20261115040000 -0600" channel="swaagtv">
     <title>Uptight (1968)</title>
     <desc>Black militants building up an arsenal of weapons in preparation for a race war are betrayed by one of their own.</desc>
   </programme>
-  <programme start="20261115030000 -0600" stop="20261115050000 -0600" channel="swaagtv">
+  <programme start="20261115040000 -0600" stop="20261115060000 -0600" channel="swaagtv">
     <title>Christmas Angel (2024)</title>
     <desc>The Johnsons, once lively and close-knit, struggle to move forward during the holidays in the wake of one of their family member's death.</desc>
   </programme>
-  <programme start="20261115050000 -0600" stop="20261115053000 -0600" channel="swaagtv">
+  <programme start="20261115060000 -0600" stop="20261115063000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Dream Truck Surprise Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261115053000 -0600" stop="20261115060000 -0600" channel="swaagtv">
+  <programme start="20261115063000 -0600" stop="20261115070000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>Italian Supercars Italian supercars are some of the most exciting cars in the world; from Ferrari, Lamborghini Aventador or the Pagani Huayra, they are the most beautiful and the fastest cars in the world.</desc>
   </programme>
-  <programme start="20261115060000 -0600" stop="20261115063000 -0600" channel="swaagtv">
+  <programme start="20261115070000 -0600" stop="20261115073000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261115063000 -0600" stop="20261115070000 -0600" channel="swaagtv">
+  <programme start="20261115073000 -0600" stop="20261115080000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261115070000 -0600" stop="20261115090000 -0600" channel="swaagtv">
+  <programme start="20261115080000 -0600" stop="20261115100000 -0600" channel="swaagtv">
     <title>Sweet Face (2018)</title>
     <desc>A couple stays strong despite all the hurdles life throws at them.</desc>
   </programme>
-  <programme start="20261115090000 -0600" stop="20261115093000 -0600" channel="swaagtv">
+  <programme start="20261115100000 -0600" stop="20261115103000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261115093000 -0600" stop="20261115100000 -0600" channel="swaagtv">
+  <programme start="20261115103000 -0600" stop="20261115110000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Elle Varner; Snoop Dogg Elle Varner; Snoop Dogg.</desc>
   </programme>
-  <programme start="20261115100000 -0600" stop="20261115120000 -0600" channel="swaagtv">
+  <programme start="20261115110000 -0600" stop="20261115130000 -0600" channel="swaagtv">
     <title>Switchin' the Script (2012)</title>
     <desc>During a weekend corporate retreat, Lonnie's best friends convince her to take control when dealing with men. Lonnie's new attitude impresses every man she meets, especially her boss's good-looking son, David.</desc>
-  </programme>
-  <programme start="20261115120000 -0600" stop="20261115123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261115123000 -0600" stop="20261115130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261115130000 -0600" stop="20261115133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
   <programme start="20261115133000 -0600" stop="20261115140000 -0600" channel="swaagtv">
-    <title>Tomorrow's World Living Church of God</title>
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261115140000 -0600" stop="20261115143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261115143000 -0600" stop="20261115150000 -0600" channel="swaagtv">
+    <title>Tomorrow's World Living Church of God</title>
+  </programme>
+  <programme start="20261115150000 -0600" stop="20261115153000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 1</desc>
   </programme>
-  <programme start="20261115143000 -0600" stop="20261115150000 -0600" channel="swaagtv">
+  <programme start="20261115153000 -0600" stop="20261115160000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261115150000 -0600" stop="20261115153000 -0600" channel="swaagtv">
+  <programme start="20261115160000 -0600" stop="20261115163000 -0600" channel="swaagtv">
     <title>Real Health</title>
   </programme>
-  <programme start="20261115153000 -0600" stop="20261115160000 -0600" channel="swaagtv">
+  <programme start="20261115163000 -0600" stop="20261115170000 -0600" channel="swaagtv">
     <title>Mind Matters</title>
     <desc>Child Mental Illness</desc>
   </programme>
-  <programme start="20261115160000 -0600" stop="20261115163000 -0600" channel="swaagtv">
+  <programme start="20261115170000 -0600" stop="20261115173000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>What Goes Around... And Around... James exploits Thuli's ethnicity for clients; Zak schemes to get a phone.</desc>
   </programme>
-  <programme start="20261115163000 -0600" stop="20261115170000 -0600" channel="swaagtv">
+  <programme start="20261115173000 -0600" stop="20261115180000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Elle Varner; Snoop Dogg Elle Varner; Snoop Dogg.</desc>
   </programme>
-  <programme start="20261115170000 -0600" stop="20261115190000 -0600" channel="swaagtv">
+  <programme start="20261115180000 -0600" stop="20261115200000 -0600" channel="swaagtv">
     <title>Gingersnap Christmas (2024)</title>
     <desc>Alesha Delacroix, grieving her fiancé, reluctantly helps her grandma's charity, meeting Garrett, a charming Brit, who reignites her heart.</desc>
   </programme>
-  <programme start="20261115190000 -0600" stop="20261115210000 -0600" channel="swaagtv">
+  <programme start="20261115200000 -0600" stop="20261115220000 -0600" channel="swaagtv">
     <title>The L.A. Riot Spectacular (2005)</title>
     <desc>Los Angeles erupts into violence after police beat Rodney King (T.K. Carter).</desc>
   </programme>
-  <programme start="20261115210000 -0600" stop="20261115230000 -0600" channel="swaagtv">
+  <programme start="20261115220000 -0600" stop="20261116000000 -0600" channel="swaagtv">
     <title>Christmas Angel (2024)</title>
     <desc>The Johnsons, once lively and close-knit, struggle to move forward during the holidays in the wake of one of their family member's death.</desc>
   </programme>
-  <programme start="20261115230000 -0600" stop="20261116000000 -0600" channel="swaagtv">
+  <programme start="20261116000000 -0600" stop="20261116010000 -0600" channel="swaagtv">
     <title>The Smart Money Woman</title>
     <desc>Episode 2 After learning how to manage her expenses, Zuri sticks to a strict budget; Adesuwa clashes with her mother-in-law.</desc>
   </programme>
-  <programme start="20261116000000 -0600" stop="20261116003000 -0600" channel="swaagtv">
+  <programme start="20261116010000 -0600" stop="20261116013000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>What Goes Around... And Around... James exploits Thuli's ethnicity for clients; Zak schemes to get a phone.</desc>
   </programme>
-  <programme start="20261116003000 -0600" stop="20261116030000 -0600" channel="swaagtv">
+  <programme start="20261116013000 -0600" stop="20261116040000 -0600" channel="swaagtv">
     <title>Forgive and Forget (2015)</title>
     <desc>A family implodes in the wake of a tragic accident.</desc>
   </programme>
-  <programme start="20261116030000 -0600" stop="20261116050000 -0600" channel="swaagtv">
+  <programme start="20261116040000 -0600" stop="20261116060000 -0600" channel="swaagtv">
     <title>Gingersnap Christmas (2024)</title>
     <desc>Alesha Delacroix, grieving her fiancé, reluctantly helps her grandma's charity, meeting Garrett, a charming Brit, who reignites her heart.</desc>
-  </programme>
-  <programme start="20261116050000 -0600" stop="20261116053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261116053000 -0600" stop="20261116060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261116060000 -0600" stop="20261116063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -410,29 +406,29 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261116070000 -0600" stop="20261116090000 -0600" channel="swaagtv">
+  <programme start="20261116070000 -0600" stop="20261116073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261116073000 -0600" stop="20261116080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261116080000 -0600" stop="20261116100000 -0600" channel="swaagtv">
     <title>Makate Must Sell (2019)</title>
     <desc>A young woman feels pressure from her family to get married within a certain amount of time, but she struggles to find a suitable man to marry.</desc>
   </programme>
-  <programme start="20261116090000 -0600" stop="20261116093000 -0600" channel="swaagtv">
+  <programme start="20261116100000 -0600" stop="20261116103000 -0600" channel="swaagtv">
     <title>Hush</title>
     <desc>A tale of fashion, politics and ambition, involving the lives of members of high society in the city of Lagos; intrigue swirls around the relationship of Bem, a big-time designer, and Arinola, a rising politician.</desc>
   </programme>
-  <programme start="20261116093000 -0600" stop="20261116100000 -0600" channel="swaagtv">
+  <programme start="20261116103000 -0600" stop="20261116110000 -0600" channel="swaagtv">
     <title>The Olive</title>
     <desc>Scary Things Anayo re-launches Aekka and there is new trouble in town.</desc>
   </programme>
-  <programme start="20261116100000 -0600" stop="20261116120000 -0600" channel="swaagtv">
+  <programme start="20261116110000 -0600" stop="20261116130000 -0600" channel="swaagtv">
     <title>My Private Line to God (2024)</title>
     <desc>Joy believes her birthday gift from Auntie Kay holds a divine power, a direct line to God, activated when two or more gather in his name.</desc>
-  </programme>
-  <programme start="20261116120000 -0600" stop="20261116123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261116123000 -0600" stop="20261116130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261116130000 -0600" stop="20261116133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -442,57 +438,57 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261116140000 -0600" stop="20261116160000 -0600" channel="swaagtv">
+  <programme start="20261116140000 -0600" stop="20261116143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261116143000 -0600" stop="20261116150000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261116150000 -0600" stop="20261116170000 -0600" channel="swaagtv">
     <title>Makate Must Sell (2019)</title>
     <desc>A young woman feels pressure from her family to get married within a certain amount of time, but she struggles to find a suitable man to marry.</desc>
   </programme>
-  <programme start="20261116160000 -0600" stop="20261116163000 -0600" channel="swaagtv">
+  <programme start="20261116170000 -0600" stop="20261116173000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Young Jeezy; Lloyd Banks Young Jeezy; Lloyd Banks.</desc>
   </programme>
-  <programme start="20261116163000 -0600" stop="20261116170000 -0600" channel="swaagtv">
+  <programme start="20261116173000 -0600" stop="20261116180000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Scrape The Yard Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261116170000 -0600" stop="20261116190000 -0600" channel="swaagtv">
+  <programme start="20261116180000 -0600" stop="20261116200000 -0600" channel="swaagtv">
     <title>Hope (2022)</title>
     <desc>A vlogger known for her eternal optimism is put to the test on her latest adventure when she suffers a serious injury and must fight to survive.</desc>
   </programme>
-  <programme start="20261116190000 -0600" stop="20261116210000 -0600" channel="swaagtv">
+  <programme start="20261116200000 -0600" stop="20261116220000 -0600" channel="swaagtv">
     <title>Forsaken Son (2017)</title>
     <desc>After his parents refuse to help find his missing boyfriend, a young man enlists a private investigator to solve the mysterious disappearance.</desc>
   </programme>
-  <programme start="20261116210000 -0600" stop="20261116230000 -0600" channel="swaagtv">
+  <programme start="20261116220000 -0600" stop="20261117000000 -0600" channel="swaagtv">
     <title>My Private Line to God (2024)</title>
     <desc>Joy believes her birthday gift from Auntie Kay holds a divine power, a direct line to God, activated when two or more gather in his name.</desc>
   </programme>
-  <programme start="20261116230000 -0600" stop="20261116233000 -0600" channel="swaagtv">
+  <programme start="20261117000000 -0600" stop="20261117003000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261116233000 -0600" stop="20261117000000 -0600" channel="swaagtv">
+  <programme start="20261117003000 -0600" stop="20261117010000 -0600" channel="swaagtv">
     <title>Visa on Arrival</title>
     <desc>Charity At Home Four immigration officers with contrasting personalities decide the fates of visa applicants; religious fanatic Charity, bribe-taking Okoro, narcissist Francis and no-nonsense Hope.</desc>
   </programme>
-  <programme start="20261117000000 -0600" stop="20261117010000 -0600" channel="swaagtv">
+  <programme start="20261117010000 -0600" stop="20261117020000 -0600" channel="swaagtv">
     <title>The Smart Money Woman</title>
     <desc>Episode 3 The women tackle financial emergencies after Tami's business reputation takes a hit and Zuri confronts her personal shortcomings.</desc>
   </programme>
-  <programme start="20261117010000 -0600" stop="20261117030000 -0600" channel="swaagtv">
+  <programme start="20261117020000 -0600" stop="20261117040000 -0600" channel="swaagtv">
     <title>Our Dream Christmas (2017)</title>
     <desc>A Mississippi woman brings her family to Los Angeles to spend Christmas with her dying mother.</desc>
   </programme>
-  <programme start="20261117030000 -0600" stop="20261117050000 -0600" channel="swaagtv">
+  <programme start="20261117040000 -0600" stop="20261117060000 -0600" channel="swaagtv">
     <title>Falling in Love Again (2018)</title>
     <desc>A recently divorced couple begin a tumultuous affair with each other.</desc>
-  </programme>
-  <programme start="20261117050000 -0600" stop="20261117053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261117053000 -0600" stop="20261117060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261117060000 -0600" stop="20261117063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -502,29 +498,29 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261117070000 -0600" stop="20261117090000 -0600" channel="swaagtv">
+  <programme start="20261117070000 -0600" stop="20261117073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261117073000 -0600" stop="20261117080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261117080000 -0600" stop="20261117100000 -0600" channel="swaagtv">
     <title>Hope (2022)</title>
     <desc>A vlogger known for her eternal optimism is put to the test on her latest adventure when she suffers a serious injury and must fight to survive.</desc>
   </programme>
-  <programme start="20261117090000 -0600" stop="20261117093000 -0600" channel="swaagtv">
+  <programme start="20261117100000 -0600" stop="20261117103000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Scrape The Yard Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261117093000 -0600" stop="20261117100000 -0600" channel="swaagtv">
+  <programme start="20261117103000 -0600" stop="20261117110000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>British Coupes English sports cars are the classics. Aston Martin, Bentley, and Jaguar produce the most exclusive and elegant coupes of the world. Each with their own distinctive design.</desc>
   </programme>
-  <programme start="20261117100000 -0600" stop="20261117120000 -0600" channel="swaagtv">
+  <programme start="20261117110000 -0600" stop="20261117130000 -0600" channel="swaagtv">
     <title>Forsaken Son (2017)</title>
     <desc>After his parents refuse to help find his missing boyfriend, a young man enlists a private investigator to solve the mysterious disappearance.</desc>
-  </programme>
-  <programme start="20261117120000 -0600" stop="20261117123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261117123000 -0600" stop="20261117130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261117130000 -0600" stop="20261117133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -534,60 +530,60 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261117140000 -0600" stop="20261117160000 -0600" channel="swaagtv">
+  <programme start="20261117140000 -0600" stop="20261117143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261117143000 -0600" stop="20261117150000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261117150000 -0600" stop="20261117170000 -0600" channel="swaagtv">
     <title>Falling in Love Again (2018)</title>
     <desc>A recently divorced couple begin a tumultuous affair with each other.</desc>
   </programme>
-  <programme start="20261117160000 -0600" stop="20261117163000 -0600" channel="swaagtv">
+  <programme start="20261117170000 -0600" stop="20261117173000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261117163000 -0600" stop="20261117190000 -0600" channel="swaagtv">
+  <programme start="20261117173000 -0600" stop="20261117200000 -0600" channel="swaagtv">
     <title>Revival! (2018)</title>
     <desc>A musical recounting of the Gospel of St. John.</desc>
   </programme>
-  <programme start="20261117190000 -0600" stop="20261117210000 -0600" channel="swaagtv">
+  <programme start="20261117200000 -0600" stop="20261117220000 -0600" channel="swaagtv">
     <title>Makate Must Sell (2019)</title>
     <desc>A young woman feels pressure from her family to get married within a certain amount of time, but she struggles to find a suitable man to marry.</desc>
   </programme>
-  <programme start="20261117210000 -0600" stop="20261117230000 -0600" channel="swaagtv">
+  <programme start="20261117220000 -0600" stop="20261118000000 -0600" channel="swaagtv">
     <title>Our Dream Christmas (2017)</title>
     <desc>A Mississippi woman brings her family to Los Angeles to spend Christmas with her dying mother.</desc>
   </programme>
-  <programme start="20261117230000 -0600" stop="20261117233000 -0600" channel="swaagtv">
+  <programme start="20261118000000 -0600" stop="20261118003000 -0600" channel="swaagtv">
     <title>Real Health</title>
   </programme>
-  <programme start="20261117233000 -0600" stop="20261118000000 -0600" channel="swaagtv">
+  <programme start="20261118003000 -0600" stop="20261118010000 -0600" channel="swaagtv">
     <title>Mind Matters</title>
     <desc>Sports Social Network</desc>
   </programme>
-  <programme start="20261118000000 -0600" stop="20261118003000 -0600" channel="swaagtv">
+  <programme start="20261118010000 -0600" stop="20261118013000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 2</desc>
   </programme>
-  <programme start="20261118003000 -0600" stop="20261118010000 -0600" channel="swaagtv">
+  <programme start="20261118013000 -0600" stop="20261118020000 -0600" channel="swaagtv">
     <title>The Olive</title>
     <desc>Scary Things Anayo re-launches Aekka and there is new trouble in town.</desc>
   </programme>
-  <programme start="20261118010000 -0600" stop="20261118033000 -0600" channel="swaagtv">
+  <programme start="20261118020000 -0600" stop="20261118043000 -0600" channel="swaagtv">
     <title>The Least of These: A Christmas Story (2018)</title>
     <desc>A homeless single mother and her 7-year-old daughter are befriended by a feisty waitress, a big-hearted short-order cook and a storefront Santa.</desc>
   </programme>
-  <programme start="20261118033000 -0600" stop="20261118043000 -0600" channel="swaagtv">
+  <programme start="20261118043000 -0600" stop="20261118053000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>Lerato tells Jacob that she wants to keep the baby; Jacob feels pressure from all sides as Thembi asks him to attend a memorial.</desc>
   </programme>
-  <programme start="20261118043000 -0600" stop="20261118050000 -0600" channel="swaagtv">
+  <programme start="20261118053000 -0600" stop="20261118060000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Scrape The Yard Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
-  </programme>
-  <programme start="20261118050000 -0600" stop="20261118053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261118053000 -0600" stop="20261118060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261118060000 -0600" stop="20261118063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -597,25 +593,25 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261118070000 -0600" stop="20261118080000 -0600" channel="swaagtv">
+  <programme start="20261118070000 -0600" stop="20261118073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261118073000 -0600" stop="20261118080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261118080000 -0600" stop="20261118090000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>Lerato tells Jacob that she wants to keep the baby; Jacob feels pressure from all sides as Thembi asks him to attend a memorial.</desc>
   </programme>
-  <programme start="20261118080000 -0600" stop="20261118100000 -0600" channel="swaagtv">
+  <programme start="20261118090000 -0600" stop="20261118110000 -0600" channel="swaagtv">
     <title>Falling in Love Again (2018)</title>
     <desc>A recently divorced couple begin a tumultuous affair with each other.</desc>
   </programme>
-  <programme start="20261118100000 -0600" stop="20261118120000 -0600" channel="swaagtv">
+  <programme start="20261118110000 -0600" stop="20261118130000 -0600" channel="swaagtv">
     <title>Makate Must Sell (2019)</title>
     <desc>A young woman feels pressure from her family to get married within a certain amount of time, but she struggles to find a suitable man to marry.</desc>
-  </programme>
-  <programme start="20261118120000 -0600" stop="20261118123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261118123000 -0600" stop="20261118130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261118130000 -0600" stop="20261118133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -625,57 +621,57 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261118140000 -0600" stop="20261118160000 -0600" channel="swaagtv">
+  <programme start="20261118140000 -0600" stop="20261118143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261118143000 -0600" stop="20261118150000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261118150000 -0600" stop="20261118170000 -0600" channel="swaagtv">
     <title>Our Dream Christmas (2017)</title>
     <desc>A Mississippi woman brings her family to Los Angeles to spend Christmas with her dying mother.</desc>
   </programme>
-  <programme start="20261118160000 -0600" stop="20261118163000 -0600" channel="swaagtv">
+  <programme start="20261118170000 -0600" stop="20261118173000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 2</desc>
   </programme>
-  <programme start="20261118163000 -0600" stop="20261118183000 -0600" channel="swaagtv">
+  <programme start="20261118173000 -0600" stop="20261118193000 -0600" channel="swaagtv">
     <title>My Private Line to God (2024)</title>
     <desc>Joy believes her birthday gift from Auntie Kay holds a divine power, a direct line to God, activated when two or more gather in his name.</desc>
   </programme>
-  <programme start="20261118183000 -0600" stop="20261118203000 -0600" channel="swaagtv">
+  <programme start="20261118193000 -0600" stop="20261118213000 -0600" channel="swaagtv">
     <title>Hope (2022)</title>
     <desc>A vlogger known for her eternal optimism is put to the test on her latest adventure when she suffers a serious injury and must fight to survive.</desc>
   </programme>
-  <programme start="20261118203000 -0600" stop="20261118230000 -0600" channel="swaagtv">
+  <programme start="20261118213000 -0600" stop="20261119000000 -0600" channel="swaagtv">
     <title>Revival! (2018)</title>
     <desc>A musical recounting of the Gospel of St. John.</desc>
   </programme>
-  <programme start="20261118230000 -0600" stop="20261118233000 -0600" channel="swaagtv">
+  <programme start="20261119000000 -0600" stop="20261119003000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>British Coupes English sports cars are the classics. Aston Martin, Bentley, and Jaguar produce the most exclusive and elegant coupes of the world. Each with their own distinctive design.</desc>
   </programme>
-  <programme start="20261118233000 -0600" stop="20261119000000 -0600" channel="swaagtv">
+  <programme start="20261119003000 -0600" stop="20261119010000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261119000000 -0600" stop="20261119003000 -0600" channel="swaagtv">
+  <programme start="20261119010000 -0600" stop="20261119013000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Scrape The Yard Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261119003000 -0600" stop="20261119010000 -0600" channel="swaagtv">
+  <programme start="20261119013000 -0600" stop="20261119020000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>Take a Parent to Work Day Thuli gives Sizwe a handyman job; Martha panics over Sihle's birth control pills, misunderstanding their use.</desc>
   </programme>
-  <programme start="20261119010000 -0600" stop="20261119030000 -0600" channel="swaagtv">
+  <programme start="20261119020000 -0600" stop="20261119040000 -0600" channel="swaagtv">
     <title>You, Me and Christmas Makes Three (2024)</title>
     <desc>A misplaced suitcase unites a fired tech marketer and a disgraced newsman, helping them find love that they never knew existed.</desc>
   </programme>
-  <programme start="20261119030000 -0600" stop="20261119050000 -0600" channel="swaagtv">
+  <programme start="20261119040000 -0600" stop="20261119060000 -0600" channel="swaagtv">
     <title>Hope (2022)</title>
     <desc>A vlogger known for her eternal optimism is put to the test on her latest adventure when she suffers a serious injury and must fight to survive.</desc>
-  </programme>
-  <programme start="20261119050000 -0600" stop="20261119053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261119053000 -0600" stop="20261119060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261119060000 -0600" stop="20261119063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -685,25 +681,25 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261119070000 -0600" stop="20261119093000 -0600" channel="swaagtv">
+  <programme start="20261119070000 -0600" stop="20261119073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261119073000 -0600" stop="20261119080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261119080000 -0600" stop="20261119103000 -0600" channel="swaagtv">
     <title>The Least of These: A Christmas Story (2018)</title>
     <desc>A homeless single mother and her 7-year-old daughter are befriended by a feisty waitress, a big-hearted short-order cook and a storefront Santa.</desc>
   </programme>
-  <programme start="20261119093000 -0600" stop="20261119100000 -0600" channel="swaagtv">
+  <programme start="20261119103000 -0600" stop="20261119110000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261119100000 -0600" stop="20261119120000 -0600" channel="swaagtv">
+  <programme start="20261119110000 -0600" stop="20261119130000 -0600" channel="swaagtv">
     <title>You, Me and Christmas Makes Three (2024)</title>
     <desc>A misplaced suitcase unites a fired tech marketer and a disgraced newsman, helping them find love that they never knew existed.</desc>
-  </programme>
-  <programme start="20261119120000 -0600" stop="20261119123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261119123000 -0600" stop="20261119130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261119130000 -0600" stop="20261119133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -713,61 +709,61 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261119140000 -0600" stop="20261119160000 -0600" channel="swaagtv">
+  <programme start="20261119140000 -0600" stop="20261119143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261119143000 -0600" stop="20261119150000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261119150000 -0600" stop="20261119170000 -0600" channel="swaagtv">
     <title>My Private Line to God (2024)</title>
     <desc>Joy believes her birthday gift from Auntie Kay holds a divine power, a direct line to God, activated when two or more gather in his name.</desc>
   </programme>
-  <programme start="20261119160000 -0600" stop="20261119163000 -0600" channel="swaagtv">
+  <programme start="20261119170000 -0600" stop="20261119173000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261119163000 -0600" stop="20261119190000 -0600" channel="swaagtv">
+  <programme start="20261119173000 -0600" stop="20261119200000 -0600" channel="swaagtv">
     <title>The Least of These: A Christmas Story (2018)</title>
     <desc>A homeless single mother and her 7-year-old daughter are befriended by a feisty waitress, a big-hearted short-order cook and a storefront Santa.</desc>
   </programme>
-  <programme start="20261119190000 -0600" stop="20261119210000 -0600" channel="swaagtv">
+  <programme start="20261119200000 -0600" stop="20261119220000 -0600" channel="swaagtv">
     <title>Our Dream Christmas (2017)</title>
     <desc>A Mississippi woman brings her family to Los Angeles to spend Christmas with her dying mother.</desc>
   </programme>
-  <programme start="20261119210000 -0600" stop="20261119230000 -0600" channel="swaagtv">
+  <programme start="20261119220000 -0600" stop="20261120000000 -0600" channel="swaagtv">
     <title>Makate Must Sell (2019)</title>
     <desc>A young woman feels pressure from her family to get married within a certain amount of time, but she struggles to find a suitable man to marry.</desc>
   </programme>
-  <programme start="20261119230000 -0600" stop="20261119233000 -0600" channel="swaagtv">
+  <programme start="20261120000000 -0600" stop="20261120003000 -0600" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>A look at a luxury penthouse within an old Johannesburg setting, in Westcliff.</desc>
   </programme>
-  <programme start="20261119233000 -0600" stop="20261120000000 -0600" channel="swaagtv">
+  <programme start="20261120003000 -0600" stop="20261120010000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 2</desc>
   </programme>
-  <programme start="20261120000000 -0600" stop="20261120003000 -0600" channel="swaagtv">
+  <programme start="20261120010000 -0600" stop="20261120013000 -0600" channel="swaagtv">
     <title>Hush</title>
     <desc>A tale of fashion, politics and ambition, involving the lives of members of high society in the city of Lagos; intrigue swirls around the relationship of Bem, a big-time designer, and Arinola, a rising politician.</desc>
   </programme>
-  <programme start="20261120003000 -0600" stop="20261120010000 -0600" channel="swaagtv">
+  <programme start="20261120013000 -0600" stop="20261120020000 -0600" channel="swaagtv">
     <title>The Wild</title>
     <desc>Set in the landscape of a five-star game lodge, this soap opera focuses on three families with financial and rooted connections to the land. Add the intrigue of rival family interests in the competitive safari industry and a classic drama unfolds.</desc>
   </programme>
-  <programme start="20261120010000 -0600" stop="20261120033000 -0600" channel="swaagtv">
+  <programme start="20261120020000 -0600" stop="20261120043000 -0600" channel="swaagtv">
     <title>Revival! (2018)</title>
     <desc>A musical recounting of the Gospel of St. John.</desc>
   </programme>
-  <programme start="20261120033000 -0600" stop="20261120043000 -0600" channel="swaagtv">
+  <programme start="20261120043000 -0600" stop="20261120053000 -0600" channel="swaagtv">
     <title>The Smart Money Woman</title>
     <desc>Episode 3 The women tackle financial emergencies after Tami's business reputation takes a hit and Zuri confronts her personal shortcomings.</desc>
   </programme>
-  <programme start="20261120043000 -0600" stop="20261120050000 -0600" channel="swaagtv">
+  <programme start="20261120053000 -0600" stop="20261120060000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>British Coupes English sports cars are the classics. Aston Martin, Bentley, and Jaguar produce the most exclusive and elegant coupes of the world. Each with their own distinctive design.</desc>
-  </programme>
-  <programme start="20261120050000 -0600" stop="20261120053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261120053000 -0600" stop="20261120060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261120060000 -0600" stop="20261120063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -777,29 +773,29 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261120070000 -0600" stop="20261120090000 -0600" channel="swaagtv">
+  <programme start="20261120070000 -0600" stop="20261120073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261120073000 -0600" stop="20261120080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261120080000 -0600" stop="20261120100000 -0600" channel="swaagtv">
     <title>Our Dream Christmas (2017)</title>
     <desc>A Mississippi woman brings her family to Los Angeles to spend Christmas with her dying mother.</desc>
   </programme>
-  <programme start="20261120090000 -0600" stop="20261120093000 -0600" channel="swaagtv">
+  <programme start="20261120100000 -0600" stop="20261120103000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Young Jeezy; Lloyd Banks Young Jeezy; Lloyd Banks.</desc>
   </programme>
-  <programme start="20261120093000 -0600" stop="20261120100000 -0600" channel="swaagtv">
+  <programme start="20261120103000 -0600" stop="20261120110000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 2</desc>
   </programme>
-  <programme start="20261120100000 -0600" stop="20261120120000 -0600" channel="swaagtv">
+  <programme start="20261120110000 -0600" stop="20261120130000 -0600" channel="swaagtv">
     <title>Hope (2022)</title>
     <desc>A vlogger known for her eternal optimism is put to the test on her latest adventure when she suffers a serious injury and must fight to survive.</desc>
-  </programme>
-  <programme start="20261120120000 -0600" stop="20261120123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261120123000 -0600" stop="20261120130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261120130000 -0600" stop="20261120133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -809,57 +805,57 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261120140000 -0600" stop="20261120160000 -0600" channel="swaagtv">
+  <programme start="20261120140000 -0600" stop="20261120143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261120143000 -0600" stop="20261120150000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261120150000 -0600" stop="20261120170000 -0600" channel="swaagtv">
     <title>Forsaken Son (2017)</title>
     <desc>After his parents refuse to help find his missing boyfriend, a young man enlists a private investigator to solve the mysterious disappearance.</desc>
   </programme>
-  <programme start="20261120160000 -0600" stop="20261120163000 -0600" channel="swaagtv">
+  <programme start="20261120170000 -0600" stop="20261120173000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>Take a Parent to Work Day Thuli gives Sizwe a handyman job; Martha panics over Sihle's birth control pills, misunderstanding their use.</desc>
   </programme>
-  <programme start="20261120163000 -0600" stop="20261120170000 -0600" channel="swaagtv">
+  <programme start="20261120173000 -0600" stop="20261120180000 -0600" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>A look at a luxury penthouse within an old Johannesburg setting, in Westcliff.</desc>
   </programme>
-  <programme start="20261120170000 -0600" stop="20261120190000 -0600" channel="swaagtv">
+  <programme start="20261120180000 -0600" stop="20261120200000 -0600" channel="swaagtv">
     <title>Our Dream Christmas (2017)</title>
     <desc>A Mississippi woman brings her family to Los Angeles to spend Christmas with her dying mother.</desc>
   </programme>
-  <programme start="20261120190000 -0600" stop="20261120210000 -0600" channel="swaagtv">
+  <programme start="20261120200000 -0600" stop="20261120220000 -0600" channel="swaagtv">
     <title>My Private Line to God (2024)</title>
     <desc>Joy believes her birthday gift from Auntie Kay holds a divine power, a direct line to God, activated when two or more gather in his name.</desc>
   </programme>
-  <programme start="20261120210000 -0600" stop="20261120230000 -0600" channel="swaagtv">
+  <programme start="20261120220000 -0600" stop="20261121000000 -0600" channel="swaagtv">
     <title>You, Me and Christmas Makes Three (2024)</title>
     <desc>A misplaced suitcase unites a fired tech marketer and a disgraced newsman, helping them find love that they never knew existed.</desc>
   </programme>
-  <programme start="20261120230000 -0600" stop="20261120233000 -0600" channel="swaagtv">
+  <programme start="20261121000000 -0600" stop="20261121003000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261120233000 -0600" stop="20261121000000 -0600" channel="swaagtv">
+  <programme start="20261121003000 -0600" stop="20261121010000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Young Jeezy; Lloyd Banks Young Jeezy; Lloyd Banks.</desc>
   </programme>
-  <programme start="20261121000000 -0600" stop="20261121010000 -0600" channel="swaagtv">
+  <programme start="20261121010000 -0600" stop="20261121020000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>Lerato tells Jacob that she wants to keep the baby; Jacob feels pressure from all sides as Thembi asks him to attend a memorial.</desc>
   </programme>
-  <programme start="20261121010000 -0600" stop="20261121030000 -0600" channel="swaagtv">
+  <programme start="20261121020000 -0600" stop="20261121040000 -0600" channel="swaagtv">
     <title>Makate Must Sell (2019)</title>
     <desc>A young woman feels pressure from her family to get married within a certain amount of time, but she struggles to find a suitable man to marry.</desc>
   </programme>
-  <programme start="20261121030000 -0600" stop="20261121050000 -0600" channel="swaagtv">
+  <programme start="20261121040000 -0600" stop="20261121060000 -0600" channel="swaagtv">
     <title>Forsaken Son (2017)</title>
     <desc>After his parents refuse to help find his missing boyfriend, a young man enlists a private investigator to solve the mysterious disappearance.</desc>
-  </programme>
-  <programme start="20261121050000 -0600" stop="20261121053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261121053000 -0600" stop="20261121060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261121060000 -0600" stop="20261121063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -869,191 +865,191 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261121070000 -0600" stop="20261121093000 -0600" channel="swaagtv">
+  <programme start="20261121070000 -0600" stop="20261121073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261121073000 -0600" stop="20261121080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261121080000 -0600" stop="20261121103000 -0600" channel="swaagtv">
     <title>Revival! (2018)</title>
     <desc>A musical recounting of the Gospel of St. John.</desc>
   </programme>
-  <programme start="20261121093000 -0600" stop="20261121100000 -0600" channel="swaagtv">
+  <programme start="20261121103000 -0600" stop="20261121110000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261121100000 -0600" stop="20261121120000 -0600" channel="swaagtv">
+  <programme start="20261121110000 -0600" stop="20261121130000 -0600" channel="swaagtv">
     <title>My Private Line to God (2024)</title>
     <desc>Joy believes her birthday gift from Auntie Kay holds a divine power, a direct line to God, activated when two or more gather in his name.</desc>
-  </programme>
-  <programme start="20261121120000 -0600" stop="20261121123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261121123000 -0600" stop="20261121130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261121130000 -0600" stop="20261121133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
   <programme start="20261121133000 -0600" stop="20261121140000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261121140000 -0600" stop="20261121143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261121143000 -0600" stop="20261121150000 -0600" channel="swaagtv">
     <title>Wonderama</title>
     <desc>Games, celebrities, music, prizes and an interactive studio audience make for a fun family show.</desc>
   </programme>
-  <programme start="20261121140000 -0600" stop="20261121143000 -0600" channel="swaagtv">
+  <programme start="20261121150000 -0600" stop="20261121153000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Scrape The Yard Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261121143000 -0600" stop="20261121150000 -0600" channel="swaagtv">
+  <programme start="20261121153000 -0600" stop="20261121160000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>British Coupes English sports cars are the classics. Aston Martin, Bentley, and Jaguar produce the most exclusive and elegant coupes of the world. Each with their own distinctive design.</desc>
   </programme>
-  <programme start="20261121150000 -0600" stop="20261121153000 -0600" channel="swaagtv">
+  <programme start="20261121160000 -0600" stop="20261121163000 -0600" channel="swaagtv">
     <title>Finest Homes</title>
     <desc>A look at a luxury penthouse within an old Johannesburg setting, in Westcliff.</desc>
   </programme>
-  <programme start="20261121153000 -0600" stop="20261121160000 -0600" channel="swaagtv">
+  <programme start="20261121163000 -0600" stop="20261121170000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 2</desc>
   </programme>
-  <programme start="20261121160000 -0600" stop="20261121163000 -0600" channel="swaagtv">
+  <programme start="20261121170000 -0600" stop="20261121173000 -0600" channel="swaagtv">
     <title>Visa on Arrival</title>
     <desc>Charity At Home Four immigration officers with contrasting personalities decide the fates of visa applicants; religious fanatic Charity, bribe-taking Okoro, narcissist Francis and no-nonsense Hope.</desc>
   </programme>
-  <programme start="20261121163000 -0600" stop="20261121170000 -0600" channel="swaagtv">
+  <programme start="20261121173000 -0600" stop="20261121180000 -0600" channel="swaagtv">
     <title>Hush</title>
     <desc>A tale of fashion, politics and ambition, involving the lives of members of high society in the city of Lagos; intrigue swirls around the relationship of Bem, a big-time designer, and Arinola, a rising politician.</desc>
   </programme>
-  <programme start="20261121170000 -0600" stop="20261121190000 -0600" channel="swaagtv">
+  <programme start="20261121180000 -0600" stop="20261121200000 -0600" channel="swaagtv">
     <title>Falling in Love Again (2018)</title>
     <desc>A recently divorced couple begin a tumultuous affair with each other.</desc>
   </programme>
-  <programme start="20261121190000 -0600" stop="20261121210000 -0600" channel="swaagtv">
+  <programme start="20261121200000 -0600" stop="20261121220000 -0600" channel="swaagtv">
     <title>Hope (2022)</title>
     <desc>A vlogger known for her eternal optimism is put to the test on her latest adventure when she suffers a serious injury and must fight to survive.</desc>
   </programme>
-  <programme start="20261121210000 -0600" stop="20261121230000 -0600" channel="swaagtv">
+  <programme start="20261121220000 -0600" stop="20261122000000 -0600" channel="swaagtv">
     <title>Forsaken Son (2017)</title>
     <desc>After his parents refuse to help find his missing boyfriend, a young man enlists a private investigator to solve the mysterious disappearance.</desc>
   </programme>
-  <programme start="20261121230000 -0600" stop="20261122000000 -0600" channel="swaagtv">
+  <programme start="20261122000000 -0600" stop="20261122010000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>Lerato tells Jacob that she wants to keep the baby; Jacob feels pressure from all sides as Thembi asks him to attend a memorial.</desc>
   </programme>
-  <programme start="20261122000000 -0600" stop="20261122003000 -0600" channel="swaagtv">
+  <programme start="20261122010000 -0600" stop="20261122013000 -0600" channel="swaagtv">
     <title>The Wild</title>
     <desc>Set in the landscape of a five-star game lodge, this soap opera focuses on three families with financial and rooted connections to the land. Add the intrigue of rival family interests in the competitive safari industry and a classic drama unfolds.</desc>
   </programme>
-  <programme start="20261122003000 -0600" stop="20261122030000 -0600" channel="swaagtv">
+  <programme start="20261122013000 -0600" stop="20261122040000 -0600" channel="swaagtv">
     <title>The Least of These: A Christmas Story (2018)</title>
     <desc>A homeless single mother and her 7-year-old daughter are befriended by a feisty waitress, a big-hearted short-order cook and a storefront Santa.</desc>
   </programme>
-  <programme start="20261122030000 -0600" stop="20261122050000 -0600" channel="swaagtv">
+  <programme start="20261122040000 -0600" stop="20261122060000 -0600" channel="swaagtv">
     <title>Our Dream Christmas (2017)</title>
     <desc>A Mississippi woman brings her family to Los Angeles to spend Christmas with her dying mother.</desc>
   </programme>
-  <programme start="20261122050000 -0600" stop="20261122053000 -0600" channel="swaagtv">
+  <programme start="20261122060000 -0600" stop="20261122063000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Scrape The Yard Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261122053000 -0600" stop="20261122060000 -0600" channel="swaagtv">
+  <programme start="20261122063000 -0600" stop="20261122070000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>British Coupes English sports cars are the classics. Aston Martin, Bentley, and Jaguar produce the most exclusive and elegant coupes of the world. Each with their own distinctive design.</desc>
   </programme>
-  <programme start="20261122060000 -0600" stop="20261122063000 -0600" channel="swaagtv">
+  <programme start="20261122070000 -0600" stop="20261122073000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261122063000 -0600" stop="20261122070000 -0600" channel="swaagtv">
+  <programme start="20261122073000 -0600" stop="20261122080000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261122070000 -0600" stop="20261122090000 -0600" channel="swaagtv">
+  <programme start="20261122080000 -0600" stop="20261122100000 -0600" channel="swaagtv">
     <title>My Private Line to God (2024)</title>
     <desc>Joy believes her birthday gift from Auntie Kay holds a divine power, a direct line to God, activated when two or more gather in his name.</desc>
   </programme>
-  <programme start="20261122090000 -0600" stop="20261122093000 -0600" channel="swaagtv">
+  <programme start="20261122100000 -0600" stop="20261122103000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261122093000 -0600" stop="20261122100000 -0600" channel="swaagtv">
+  <programme start="20261122103000 -0600" stop="20261122110000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Young Jeezy; Lloyd Banks Young Jeezy; Lloyd Banks.</desc>
   </programme>
-  <programme start="20261122100000 -0600" stop="20261122120000 -0600" channel="swaagtv">
+  <programme start="20261122110000 -0600" stop="20261122130000 -0600" channel="swaagtv">
     <title>Falling in Love Again (2018)</title>
     <desc>A recently divorced couple begin a tumultuous affair with each other.</desc>
-  </programme>
-  <programme start="20261122120000 -0600" stop="20261122123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261122123000 -0600" stop="20261122130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261122130000 -0600" stop="20261122133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
   <programme start="20261122133000 -0600" stop="20261122140000 -0600" channel="swaagtv">
-    <title>Tomorrow's World Living Church of God</title>
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261122140000 -0600" stop="20261122143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261122143000 -0600" stop="20261122150000 -0600" channel="swaagtv">
+    <title>Tomorrow's World Living Church of God</title>
+  </programme>
+  <programme start="20261122150000 -0600" stop="20261122153000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 2</desc>
   </programme>
-  <programme start="20261122143000 -0600" stop="20261122150000 -0600" channel="swaagtv">
+  <programme start="20261122153000 -0600" stop="20261122160000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261122150000 -0600" stop="20261122153000 -0600" channel="swaagtv">
+  <programme start="20261122160000 -0600" stop="20261122163000 -0600" channel="swaagtv">
     <title>Real Health</title>
   </programme>
-  <programme start="20261122153000 -0600" stop="20261122160000 -0600" channel="swaagtv">
+  <programme start="20261122163000 -0600" stop="20261122170000 -0600" channel="swaagtv">
     <title>Mind Matters</title>
     <desc>Sports Social Network</desc>
   </programme>
-  <programme start="20261122160000 -0600" stop="20261122163000 -0600" channel="swaagtv">
+  <programme start="20261122170000 -0600" stop="20261122173000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>Take a Parent to Work Day Thuli gives Sizwe a handyman job; Martha panics over Sihle's birth control pills, misunderstanding their use.</desc>
   </programme>
-  <programme start="20261122163000 -0600" stop="20261122170000 -0600" channel="swaagtv">
+  <programme start="20261122173000 -0600" stop="20261122180000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Young Jeezy; Lloyd Banks Young Jeezy; Lloyd Banks.</desc>
   </programme>
-  <programme start="20261122170000 -0600" stop="20261122190000 -0600" channel="swaagtv">
+  <programme start="20261122180000 -0600" stop="20261122200000 -0600" channel="swaagtv">
     <title>You, Me and Christmas Makes Three (2024)</title>
     <desc>A misplaced suitcase unites a fired tech marketer and a disgraced newsman, helping them find love that they never knew existed.</desc>
   </programme>
-  <programme start="20261122190000 -0600" stop="20261122210000 -0600" channel="swaagtv">
+  <programme start="20261122200000 -0600" stop="20261122220000 -0600" channel="swaagtv">
     <title>Makate Must Sell (2019)</title>
     <desc>A young woman feels pressure from her family to get married within a certain amount of time, but she struggles to find a suitable man to marry.</desc>
   </programme>
-  <programme start="20261122210000 -0600" stop="20261122230000 -0600" channel="swaagtv">
+  <programme start="20261122220000 -0600" stop="20261123000000 -0600" channel="swaagtv">
     <title>Our Dream Christmas (2017)</title>
     <desc>A Mississippi woman brings her family to Los Angeles to spend Christmas with her dying mother.</desc>
   </programme>
-  <programme start="20261122230000 -0600" stop="20261123000000 -0600" channel="swaagtv">
+  <programme start="20261123000000 -0600" stop="20261123010000 -0600" channel="swaagtv">
     <title>The Smart Money Woman</title>
     <desc>Episode 3 The women tackle financial emergencies after Tami's business reputation takes a hit and Zuri confronts her personal shortcomings.</desc>
   </programme>
-  <programme start="20261123000000 -0600" stop="20261123003000 -0600" channel="swaagtv">
+  <programme start="20261123010000 -0600" stop="20261123013000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>Take a Parent to Work Day Thuli gives Sizwe a handyman job; Martha panics over Sihle's birth control pills, misunderstanding their use.</desc>
   </programme>
-  <programme start="20261123003000 -0600" stop="20261123030000 -0600" channel="swaagtv">
+  <programme start="20261123013000 -0600" stop="20261123040000 -0600" channel="swaagtv">
     <title>Revival! (2018)</title>
     <desc>A musical recounting of the Gospel of St. John.</desc>
   </programme>
-  <programme start="20261123030000 -0600" stop="20261123050000 -0600" channel="swaagtv">
+  <programme start="20261123040000 -0600" stop="20261123060000 -0600" channel="swaagtv">
     <title>You, Me and Christmas Makes Three (2024)</title>
     <desc>A misplaced suitcase unites a fired tech marketer and a disgraced newsman, helping them find love that they never knew existed.</desc>
-  </programme>
-  <programme start="20261123050000 -0600" stop="20261123053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261123053000 -0600" stop="20261123060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261123060000 -0600" stop="20261123063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -1063,33 +1059,33 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261123070000 -0600" stop="20261123090000 -0600" channel="swaagtv">
+  <programme start="20261123070000 -0600" stop="20261123073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261123073000 -0600" stop="20261123080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261123080000 -0600" stop="20261123100000 -0600" channel="swaagtv">
     <title>Another Christmas (2022)</title>
     <desc>Kelly Brooks has given up on finding love during the holiday season until her childhood friend returns home for Christmas to win her heart.</desc>
   </programme>
-  <programme start="20261123090000 -0600" stop="20261123093000 -0600" channel="swaagtv">
+  <programme start="20261123100000 -0600" stop="20261123103000 -0600" channel="swaagtv">
     <title>Hush</title>
     <desc>A tale of fashion, politics and ambition, involving the lives of members of high society in the city of Lagos; intrigue swirls around the relationship of Bem, a big-time designer, and Arinola, a rising politician.</desc>
   </programme>
-  <programme start="20261123093000 -0600" stop="20261123100000 -0600" channel="swaagtv">
+  <programme start="20261123103000 -0600" stop="20261123110000 -0600" channel="swaagtv">
     <title>The Olive</title>
     <desc>Now Open Grieving widower Anayo is left to raise his three children after his wife passes away; he soon discovers that his wife led a double life, filled with secrets.</desc>
   </programme>
-  <programme start="20261123100000 -0600" stop="20261123110000 -0600" channel="swaagtv">
+  <programme start="20261123110000 -0600" stop="20261123120000 -0600" channel="swaagtv">
     <title>Klippers (2018)</title>
     <desc>An assassin is sent by his psychotic employer to kill his ex-wife. In his quest to accomplish his task, he becomes familiar with his target, making his mission difficult. Now, he must face the consequences of his actions.</desc>
   </programme>
-  <programme start="20261123110000 -0600" stop="20261123120000 -0600" channel="swaagtv">
+  <programme start="20261123120000 -0600" stop="20261123130000 -0600" channel="swaagtv">
     <title>To Be Announced</title>
     <desc>Programming to be announced.</desc>
-  </programme>
-  <programme start="20261123120000 -0600" stop="20261123123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261123123000 -0600" stop="20261123130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261123130000 -0600" stop="20261123133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -1099,57 +1095,57 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261123140000 -0600" stop="20261123160000 -0600" channel="swaagtv">
+  <programme start="20261123140000 -0600" stop="20261123143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261123143000 -0600" stop="20261123150000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261123150000 -0600" stop="20261123170000 -0600" channel="swaagtv">
     <title>Another Christmas (2022)</title>
     <desc>Kelly Brooks has given up on finding love during the holiday season until her childhood friend returns home for Christmas to win her heart.</desc>
   </programme>
-  <programme start="20261123160000 -0600" stop="20261123163000 -0600" channel="swaagtv">
+  <programme start="20261123170000 -0600" stop="20261123173000 -0600" channel="swaagtv">
     <title>Music Revolution</title>
     <desc>Ciara; Ne-Yo Ciara; Ne-Yo.</desc>
   </programme>
-  <programme start="20261123163000 -0600" stop="20261123170000 -0600" channel="swaagtv">
+  <programme start="20261123173000 -0600" stop="20261123180000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Why Do People Love Spinning? Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261123170000 -0600" stop="20261123190000 -0600" channel="swaagtv">
+  <programme start="20261123180000 -0600" stop="20261123200000 -0600" channel="swaagtv">
     <title>She Is King (2017)</title>
     <desc>A young woman from a rural village moves to Johannesburg.</desc>
   </programme>
-  <programme start="20261123190000 -0600" stop="20261123210000 -0600" channel="swaagtv">
+  <programme start="20261123200000 -0600" stop="20261123220000 -0600" channel="swaagtv">
     <title>Will to Love (2015)</title>
     <desc>The CEO of a company has to find a wife within 90 days to inherit his grandfather's company and estate.</desc>
   </programme>
-  <programme start="20261123210000 -0600" stop="20261123230000 -0600" channel="swaagtv">
+  <programme start="20261123220000 -0600" stop="20261124000000 -0600" channel="swaagtv">
     <title>Klippers (2018)</title>
     <desc>An assassin is sent by his psychotic employer to kill his ex-wife. In his quest to accomplish his task, he becomes familiar with his target, making his mission difficult. Now, he must face the consequences of his actions.</desc>
   </programme>
-  <programme start="20261123230000 -0600" stop="20261123233000 -0600" channel="swaagtv">
+  <programme start="20261124000000 -0600" stop="20261124003000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261123233000 -0600" stop="20261124000000 -0600" channel="swaagtv">
+  <programme start="20261124003000 -0600" stop="20261124010000 -0600" channel="swaagtv">
     <title>Visa on Arrival</title>
     <desc>Personal Shopper Four immigration officers with contrasting personalities decide the fates of visa applicants; religious fanatic Charity, bribe-taking Okoro, narcissist Francis and no-nonsense Hope.</desc>
   </programme>
-  <programme start="20261124000000 -0600" stop="20261124010000 -0600" channel="swaagtv">
+  <programme start="20261124010000 -0600" stop="20261124020000 -0600" channel="swaagtv">
     <title>The Smart Money Woman</title>
     <desc>Episode 5 When Tsola asks Zuri out, the group goes overboard preparing and gets lectured on reckless spending; the men in Adesuwa's life mistreat her.</desc>
   </programme>
-  <programme start="20261124010000 -0600" stop="20261124030000 -0600" channel="swaagtv">
+  <programme start="20261124020000 -0600" stop="20261124040000 -0600" channel="swaagtv">
     <title>Christmas in Carolina (2020)</title>
     <desc>Career-driven investment banker Elle has given up on love until she meets Wesley, who invites her to his hometown in South Carolina, where she rediscovers the spirit of Christmas.</desc>
   </programme>
-  <programme start="20261124030000 -0600" stop="20261124050000 -0600" channel="swaagtv">
+  <programme start="20261124040000 -0600" stop="20261124060000 -0600" channel="swaagtv">
     <title>A Royal Surprise (2022)</title>
     <desc>A woman accepts an invitation to visit her boyfriend's family in South Africa and learns that he's both extremely wealthy and the prince of his village. This revelation shakes her trust in him, and he must do whatever he can to win her back.</desc>
-  </programme>
-  <programme start="20261124050000 -0600" stop="20261124053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261124053000 -0600" stop="20261124060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261124060000 -0600" stop="20261124063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -1159,29 +1155,29 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261124070000 -0600" stop="20261124090000 -0600" channel="swaagtv">
+  <programme start="20261124070000 -0600" stop="20261124073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261124073000 -0600" stop="20261124080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261124080000 -0600" stop="20261124100000 -0600" channel="swaagtv">
     <title>She Is King (2017)</title>
     <desc>A young woman from a rural village moves to Johannesburg.</desc>
   </programme>
-  <programme start="20261124090000 -0600" stop="20261124093000 -0600" channel="swaagtv">
+  <programme start="20261124100000 -0600" stop="20261124103000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Why Do People Love Spinning? Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261124093000 -0600" stop="20261124100000 -0600" channel="swaagtv">
+  <programme start="20261124103000 -0600" stop="20261124110000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>British Super Cars Whether it is the Aston Martin Vanquish, Bentley Continental GT Speed, McLaren P1, English supercars are fast, spectacular and beautiful sports cars.</desc>
   </programme>
-  <programme start="20261124100000 -0600" stop="20261124120000 -0600" channel="swaagtv">
+  <programme start="20261124110000 -0600" stop="20261124130000 -0600" channel="swaagtv">
     <title>Will to Love (2015)</title>
     <desc>The CEO of a company has to find a wife within 90 days to inherit his grandfather's company and estate.</desc>
-  </programme>
-  <programme start="20261124120000 -0600" stop="20261124123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261124123000 -0600" stop="20261124130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261124130000 -0600" stop="20261124133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -1191,60 +1187,60 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261124140000 -0600" stop="20261124160000 -0600" channel="swaagtv">
+  <programme start="20261124140000 -0600" stop="20261124143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261124143000 -0600" stop="20261124150000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261124150000 -0600" stop="20261124170000 -0600" channel="swaagtv">
     <title>A Royal Surprise (2022)</title>
     <desc>A woman accepts an invitation to visit her boyfriend's family in South Africa and learns that he's both extremely wealthy and the prince of his village. This revelation shakes her trust in him, and he must do whatever he can to win her back.</desc>
   </programme>
-  <programme start="20261124160000 -0600" stop="20261124163000 -0600" channel="swaagtv">
+  <programme start="20261124170000 -0600" stop="20261124173000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261124163000 -0600" stop="20261124190000 -0600" channel="swaagtv">
+  <programme start="20261124173000 -0600" stop="20261124200000 -0600" channel="swaagtv">
     <title>Frat House (2013)</title>
     <desc>Price steals the identity of a cop and hides out at his cousin's fraternity. Price tries to pose as a frat brother while dodging the brothers' flirtations.</desc>
   </programme>
-  <programme start="20261124190000 -0600" stop="20261124210000 -0600" channel="swaagtv">
+  <programme start="20261124200000 -0600" stop="20261124220000 -0600" channel="swaagtv">
     <title>Another Christmas (2022)</title>
     <desc>Kelly Brooks has given up on finding love during the holiday season until her childhood friend returns home for Christmas to win her heart.</desc>
   </programme>
-  <programme start="20261124210000 -0600" stop="20261124230000 -0600" channel="swaagtv">
+  <programme start="20261124220000 -0600" stop="20261125000000 -0600" channel="swaagtv">
     <title>Christmas in Carolina (2020)</title>
     <desc>Career-driven investment banker Elle has given up on love until she meets Wesley, who invites her to his hometown in South Carolina, where she rediscovers the spirit of Christmas.</desc>
   </programme>
-  <programme start="20261124230000 -0600" stop="20261124233000 -0600" channel="swaagtv">
+  <programme start="20261125000000 -0600" stop="20261125003000 -0600" channel="swaagtv">
     <title>Real Health</title>
   </programme>
-  <programme start="20261124233000 -0600" stop="20261125000000 -0600" channel="swaagtv">
+  <programme start="20261125003000 -0600" stop="20261125010000 -0600" channel="swaagtv">
     <title>Mind Matters</title>
     <desc>Music Therapy</desc>
   </programme>
-  <programme start="20261125000000 -0600" stop="20261125003000 -0600" channel="swaagtv">
+  <programme start="20261125010000 -0600" stop="20261125013000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 3</desc>
   </programme>
-  <programme start="20261125003000 -0600" stop="20261125010000 -0600" channel="swaagtv">
+  <programme start="20261125013000 -0600" stop="20261125020000 -0600" channel="swaagtv">
     <title>The Olive</title>
     <desc>Now Open Grieving widower Anayo is left to raise his three children after his wife passes away; he soon discovers that his wife led a double life, filled with secrets.</desc>
   </programme>
-  <programme start="20261125010000 -0600" stop="20261125033000 -0600" channel="swaagtv">
+  <programme start="20261125020000 -0600" stop="20261125043000 -0600" channel="swaagtv">
     <title>Lady Luck (2016)</title>
     <desc>Three strangers come together to support each other.</desc>
   </programme>
-  <programme start="20261125033000 -0600" stop="20261125043000 -0600" channel="swaagtv">
+  <programme start="20261125043000 -0600" stop="20261125053000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>Lerato and Andile struggle to share Jacob's flat and attention; Prospero challenges Jacob's family loyalty.</desc>
   </programme>
-  <programme start="20261125043000 -0600" stop="20261125050000 -0600" channel="swaagtv">
+  <programme start="20261125053000 -0600" stop="20261125060000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Why Do People Love Spinning? Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
-  </programme>
-  <programme start="20261125050000 -0600" stop="20261125053000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261125053000 -0600" stop="20261125060000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261125060000 -0600" stop="20261125063000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -1254,25 +1250,25 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261125070000 -0600" stop="20261125080000 -0600" channel="swaagtv">
+  <programme start="20261125070000 -0600" stop="20261125073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261125073000 -0600" stop="20261125080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261125080000 -0600" stop="20261125090000 -0600" channel="swaagtv">
     <title>Jacob's Cross</title>
     <desc>Lerato and Andile struggle to share Jacob's flat and attention; Prospero challenges Jacob's family loyalty.</desc>
   </programme>
-  <programme start="20261125080000 -0600" stop="20261125100000 -0600" channel="swaagtv">
+  <programme start="20261125090000 -0600" stop="20261125110000 -0600" channel="swaagtv">
     <title>A Royal Surprise (2022)</title>
     <desc>A woman accepts an invitation to visit her boyfriend's family in South Africa and learns that he's both extremely wealthy and the prince of his village. This revelation shakes her trust in him, and he must do whatever he can to win her back.</desc>
   </programme>
-  <programme start="20261125100000 -0600" stop="20261125120000 -0600" channel="swaagtv">
+  <programme start="20261125110000 -0600" stop="20261125130000 -0600" channel="swaagtv">
     <title>Another Christmas (2022)</title>
     <desc>Kelly Brooks has given up on finding love during the holiday season until her childhood friend returns home for Christmas to win her heart.</desc>
-  </programme>
-  <programme start="20261125120000 -0600" stop="20261125123000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261125123000 -0600" stop="20261125130000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
   </programme>
   <programme start="20261125130000 -0600" stop="20261125133000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -1282,47 +1278,55 @@
     <title>Paid Programming</title>
     <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261125140000 -0600" stop="20261125160000 -0600" channel="swaagtv">
+  <programme start="20261125140000 -0600" stop="20261125143000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261125143000 -0600" stop="20261125150000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261125150000 -0600" stop="20261125170000 -0600" channel="swaagtv">
     <title>Christmas in Carolina (2020)</title>
     <desc>Career-driven investment banker Elle has given up on love until she meets Wesley, who invites her to his hometown in South Carolina, where she rediscovers the spirit of Christmas.</desc>
   </programme>
-  <programme start="20261125160000 -0600" stop="20261125163000 -0600" channel="swaagtv">
+  <programme start="20261125170000 -0600" stop="20261125173000 -0600" channel="swaagtv">
     <title>Black American Experience</title>
     <desc>First Black Women In Space - Part 3</desc>
   </programme>
-  <programme start="20261125163000 -0600" stop="20261125183000 -0600" channel="swaagtv">
+  <programme start="20261125173000 -0600" stop="20261125193000 -0600" channel="swaagtv">
     <title>Klippers (2018)</title>
     <desc>An assassin is sent by his psychotic employer to kill his ex-wife. In his quest to accomplish his task, he becomes familiar with his target, making his mission difficult. Now, he must face the consequences of his actions.</desc>
   </programme>
-  <programme start="20261125183000 -0600" stop="20261125203000 -0600" channel="swaagtv">
+  <programme start="20261125193000 -0600" stop="20261125213000 -0600" channel="swaagtv">
     <title>She Is King (2017)</title>
     <desc>A young woman from a rural village moves to Johannesburg.</desc>
   </programme>
-  <programme start="20261125203000 -0600" stop="20261125230000 -0600" channel="swaagtv">
+  <programme start="20261125213000 -0600" stop="20261126000000 -0600" channel="swaagtv">
     <title>Frat House (2013)</title>
     <desc>Price steals the identity of a cop and hides out at his cousin's fraternity. Price tries to pose as a frat brother while dodging the brothers' flirtations.</desc>
   </programme>
-  <programme start="20261125230000 -0600" stop="20261125233000 -0600" channel="swaagtv">
+  <programme start="20261126000000 -0600" stop="20261126003000 -0600" channel="swaagtv">
     <title>DreamCars</title>
     <desc>British Super Cars Whether it is the Aston Martin Vanquish, Bentley Continental GT Speed, McLaren P1, English supercars are fast, spectacular and beautiful sports cars.</desc>
   </programme>
-  <programme start="20261125233000 -0600" stop="20261126000000 -0600" channel="swaagtv">
+  <programme start="20261126003000 -0600" stop="20261126010000 -0600" channel="swaagtv">
     <title>What's Really Goin' On</title>
     <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261126000000 -0600" stop="20261126003000 -0600" channel="swaagtv">
+  <programme start="20261126010000 -0600" stop="20261126013000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
     <desc>Why Do People Love Spinning? Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
-  <programme start="20261126003000 -0600" stop="20261126010000 -0600" channel="swaagtv">
+  <programme start="20261126013000 -0600" stop="20261126020000 -0600" channel="swaagtv">
     <title>Black Tax</title>
     <desc>Boots and Blackmail Thuli hides expensive boots after criticizing overspending; Menzi involves her in a styling gel scheme.</desc>
   </programme>
-  <programme start="20261126010000 -0600" stop="20261126030000 -0600" channel="swaagtv">
+  <programme start="20261126020000 -0600" stop="20261126040000 -0600" channel="swaagtv">
     <title>Grandma's House (2016)</title>
     <desc>A young woman recounts how her life changed after she moved in with her grandmother.</desc>
   </programme>
-  <programme start="20261126030000 -0600" stop="20261126050000 -0600" channel="swaagtv">
+  <programme start="20261126040000 -0600" stop="20261126050000 -0600" channel="swaagtv">
     <title>She Is King (2017)</title>
     <desc>A young woman from a rural village moves to Johannesburg.</desc>
   </programme>
