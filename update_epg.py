@@ -6,6 +6,7 @@ Channels:
   nost    - The Nostalgia Network, from watchnost.com/schedule
   TVC.caribbean - Television Caribbean, weekly grid from tvcplus.net (edited by hand)
   ZIZ.tv - ZIZ TV (St. Kitts & Nevis), weekly grid from zizonline.com/tv/schedule (edited by hand)
+  WESN.tt - WESN TV (Trinidad), weekday grid from wesncc.com (schedule lives in generate_wesn.py)
 
 Env vars (optional): SOURCE_TZ (TV Passport display zone, default America/New_York),
 OUT_TZ (default America/Chicago), DAYS (default 14).
@@ -200,11 +201,33 @@ def fetch_ziz(days):
     return events, end
 
 
+# ---- WESN TV (Trinidad): weekday grid from wesncc.com/home/wesn-tv-guide ----
+# The schedule lives in generate_wesn.py (edit it by hand when the page changes).
+from generate_wesn import build_day, TZ as WESN_TZ
+
+
+def fetch_wesn(days):
+    start = datetime.now(WESN_TZ).date()
+    events = []
+    for n in range(-1, days):
+        d = start + timedelta(days=n)
+        if d.weekday() > 4:
+            continue  # the site lists weekdays only
+        for st, _stop, title in build_day(d):
+            events.append((st, title, ""))
+        if d.weekday() == 4:  # Friday's overnight lineup ends Saturday 6 AM
+            sat = datetime(d.year, d.month, d.day, 6, 0, tzinfo=WESN_TZ) + timedelta(days=1)
+            events.append((sat, "Weekend Schedule Not Published", ""))
+    end = datetime.combine(start + timedelta(days=days), datetime.min.time(), tzinfo=WESN_TZ)
+    return events, end
+
+
 CHANNELS = [
     ("swaagtv", "SWAAGTV", fetch_swaag),
     ("nost", "NOST - The Nostalgia Network", fetch_nost),
     ("TVC.caribbean", "Television Caribbean (TVC)", fetch_tvc),
     ("ZIZ.tv", "ZIZ TV (Channel 5)", fetch_ziz),
+    ("WESN.tt", "WESN TV", fetch_wesn),
 ]
 
 
