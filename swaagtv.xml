@@ -19,94 +19,6 @@
     <display-name>NY 48 (WWON-TV)</display-name>
     <display-name>WWON-TV</display-name>
   </channel>
-  <programme start="20261120050000 -0600" stop="20261120070000 -0600" channel="swaagtv">
-    <title>Hope (2022)</title>
-    <desc>A vlogger known for her eternal optimism is put to the test on her latest adventure when she suffers a serious injury and must fight to survive.</desc>
-  </programme>
-  <programme start="20261120070000 -0600" stop="20261120073000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261120073000 -0600" stop="20261120080000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261120080000 -0600" stop="20261120083000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261120083000 -0600" stop="20261120090000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261120090000 -0600" stop="20261120110000 -0600" channel="swaagtv">
-    <title>Forsaken Son (2017)</title>
-    <desc>After his parents refuse to help find his missing boyfriend, a young man enlists a private investigator to solve the mysterious disappearance.</desc>
-  </programme>
-  <programme start="20261120110000 -0600" stop="20261120113000 -0600" channel="swaagtv">
-    <title>Black Tax</title>
-    <desc>Take a Parent to Work Day Thuli gives Sizwe a handyman job; Martha panics over Sihle's birth control pills, misunderstanding their use.</desc>
-  </programme>
-  <programme start="20261120113000 -0600" stop="20261120120000 -0600" channel="swaagtv">
-    <title>Finest Homes</title>
-    <desc>A look at a luxury penthouse within an old Johannesburg setting, in Westcliff.</desc>
-  </programme>
-  <programme start="20261120120000 -0600" stop="20261120140000 -0600" channel="swaagtv">
-    <title>Our Dream Christmas (2017)</title>
-    <desc>A Mississippi woman brings her family to Los Angeles to spend Christmas with her dying mother.</desc>
-  </programme>
-  <programme start="20261120140000 -0600" stop="20261120160000 -0600" channel="swaagtv">
-    <title>My Private Line to God (2024)</title>
-    <desc>Joy believes her birthday gift from Auntie Kay holds a divine power, a direct line to God, activated when two or more gather in his name.</desc>
-  </programme>
-  <programme start="20261120160000 -0600" stop="20261120180000 -0600" channel="swaagtv">
-    <title>You, Me and Christmas Makes Three (2024)</title>
-    <desc>A misplaced suitcase unites a fired tech marketer and a disgraced newsman, helping them find love that they never knew existed.</desc>
-  </programme>
-  <programme start="20261120180000 -0600" stop="20261120183000 -0600" channel="swaagtv">
-    <title>What's Really Goin' On</title>
-    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
-  </programme>
-  <programme start="20261120183000 -0600" stop="20261120190000 -0600" channel="swaagtv">
-    <title>Music Revolution</title>
-    <desc>Young Jeezy; Lloyd Banks Young Jeezy; Lloyd Banks.</desc>
-  </programme>
-  <programme start="20261120190000 -0600" stop="20261120200000 -0600" channel="swaagtv">
-    <title>Jacob's Cross</title>
-    <desc>Lerato tells Jacob that she wants to keep the baby; Jacob feels pressure from all sides as Thembi asks him to attend a memorial.</desc>
-  </programme>
-  <programme start="20261120200000 -0600" stop="20261120220000 -0600" channel="swaagtv">
-    <title>Makate Must Sell (2019)</title>
-    <desc>A young woman feels pressure from her family to get married within a certain amount of time, but she struggles to find a suitable man to marry.</desc>
-  </programme>
-  <programme start="20261120220000 -0600" stop="20261121000000 -0600" channel="swaagtv">
-    <title>Forsaken Son (2017)</title>
-    <desc>After his parents refuse to help find his missing boyfriend, a young man enlists a private investigator to solve the mysterious disappearance.</desc>
-  </programme>
-  <programme start="20261121000000 -0600" stop="20261121003000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261121003000 -0600" stop="20261121010000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261121010000 -0600" stop="20261121013000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261121013000 -0600" stop="20261121020000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261121020000 -0600" stop="20261121043000 -0600" channel="swaagtv">
-    <title>Revival! (2018)</title>
-    <desc>A musical recounting of the Gospel of St. John.</desc>
-  </programme>
-  <programme start="20261121043000 -0600" stop="20261121050000 -0600" channel="swaagtv">
-    <title>What's Really Goin' On</title>
-    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
-  </programme>
   <programme start="20261121050000 -0600" stop="20261121070000 -0600" channel="swaagtv">
     <title>My Private Line to God (2024)</title>
     <desc>Joy believes her birthday gift from Auntie Kay holds a divine power, a direct line to God, activated when two or more gather in his name.</desc>
@@ -995,8 +907,8 @@
     <desc>Big Boys With Big Engines Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
   </programme>
   <programme start="20261130120000 -0600" stop="20261130140000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
+    <title>Gifted The King</title>
+    <desc>When Professor Pinch plots to spoil Christmas, Splash and Coral look beyond the gifts and lights. In a Christmas stage musical, a stranger tells how two angels discovered why their King would leave heaven.</desc>
   </programme>
   <programme start="20261130140000 -0600" stop="20261130160000 -0600" channel="swaagtv">
     <title>Christmas Staycation (2015)</title>
@@ -1043,8 +955,8 @@
     <desc>Paid programming.</desc>
   </programme>
   <programme start="20261201020000 -0600" stop="20261201040000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
+    <title>Gifted The King</title>
+    <desc>When Professor Pinch plots to spoil Christmas, Splash and Coral look beyond the gifts and lights. In a Christmas stage musical, a stranger tells how two angels discovered why their King would leave heaven.</desc>
   </programme>
   <programme start="20261201040000 -0600" stop="20261201043000 -0600" channel="swaagtv">
     <title>Kasi Car Culture</title>
@@ -1178,8 +1090,8 @@
     <desc>The jealous girlfriend (Jeni Le Gon) of a possessive singer/bandleader (Cab Calloway) tries to have him killed.</desc>
   </programme>
   <programme start="20261202133000 -0600" stop="20261202153000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
+    <title>Gifted The King</title>
+    <desc>When Professor Pinch plots to spoil Christmas, Splash and Coral look beyond the gifts and lights. In a Christmas stage musical, a stranger tells how two angels discovered why their King would leave heaven.</desc>
   </programme>
   <programme start="20261202153000 -0600" stop="20261202180000 -0600" channel="swaagtv">
     <title>Behind the Veil (2023)</title>
@@ -1206,8 +1118,8 @@
     <desc>An extramarital affair threatens a man's perfect family when his free-spirited conquest wants more and is willing to go great lengths to achieve it.</desc>
   </programme>
   <programme start="20261202220000 -0600" stop="20261203000000 -0600" channel="swaagtv">
-    <title>Movie</title>
-    <desc>() Movie to be announced.</desc>
+    <title>Gifted The King</title>
+    <desc>When Professor Pinch plots to spoil Christmas, Splash and Coral look beyond the gifts and lights. In a Christmas stage musical, a stranger tells how two angels discovered why their King would leave heaven.</desc>
   </programme>
   <programme start="20261203000000 -0600" stop="20261203003000 -0600" channel="swaagtv">
     <title>Paid Programming</title>
@@ -1329,53 +1241,93 @@
     <title>Black American Experience</title>
     <desc>Harlem Renaissance -- Part 1</desc>
   </programme>
-  <programme start="20261120004500 -0600" stop="20261120021500 -0600" channel="nost">
-    <title>Son of Dracula</title>
-    <desc>(1943, NR) Starring Lon Chaney J, Robert Paige and Louise Allbritton. When Katherine, a beautiful Southern girl obsessed with thoughts of eternal life, invites Count Alucard to come to her mansion in the U.S., she unleashes a Pandora's box of horror on unsuspecting relatives and neighbors.</desc>
+  <programme start="20261204050000 -0600" stop="20261204070000 -0600" channel="swaagtv">
+    <title>Gifted The King</title>
+    <desc>When Professor Pinch plots to spoil Christmas, Splash and Coral look beyond the gifts and lights. In a Christmas stage musical, a stranger tells how two angels discovered why their King would leave heaven.</desc>
   </programme>
-  <programme start="20261120021500 -0600" stop="20261120041500 -0600" channel="nost">
-    <title>49th Parallel</title>
-    <desc>(1941, NR, ★★★★☆) After their submarine is destroyed off Canada, a group of German sailors attempts to cross the country and reach neutral territory. Leslie Howard, Laurence Olivier, Raymond Massey, Eric Portman.</desc>
+  <programme start="20261204070000 -0600" stop="20261204073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261120041500 -0600" stop="20261120060500 -0600" channel="nost">
-    <title>The Stork Club</title>
-    <desc>(1945, NR) Starring Betty Hutton, Barry Fitzgerald and Don DeFore. A hat-check girl at the Stork Club (Hutton) saves the life of a drowning man (Fitzgerald). A rich man, he decides to repay her by anonymously giving her a bank account, a luxury apartment and a charge account at a department store. When her boyfriend (DeFore) returns from overseas, he thinks she is a kept woman.</desc>
+  <programme start="20261204073000 -0600" stop="20261204080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261120060500 -0600" stop="20261120080500 -0600" channel="nost">
-    <title>Where the Hell's That Gold?!!?</title>
-    <desc>(1988, TV-PG) Starring Willie Nelson and Delta Burke. In 1895, outlaws Cross and Boone are forced to take Mexican authorities to their loot. They travel there on a train full of dynamite with a group of prostitutes. Mexican rebels, Indians, and Wells Fargo Agents are all after them.</desc>
+  <programme start="20261204080000 -0600" stop="20261204083000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261120080500 -0600" stop="20261120100000 -0600" channel="nost">
-    <title>California</title>
-    <desc>(1947, Not Rated) Starring Barbara Stanwyck and Ray Milland. Epic account of how California became a state, featuring a wagon train, the Gold Rush, a wicked saloon queen, and an evil profiteer.</desc>
+  <programme start="20261204083000 -0600" stop="20261204090000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261120100000 -0600" stop="20261120110000 -0600" channel="nost">
-    <title>Stoney Burke</title>
-    <desc>S1 E25 - A rodeo rider wants to get back on the circuit after being found innocent and pardoned of the murder he had been convicted of. But the town's organizers of the rodeo still don't want him to participate. When he insists on it, some take more drastic measures.</desc>
+  <programme start="20261204090000 -0600" stop="20261204110000 -0600" channel="swaagtv">
+    <title>Christmas Staycation (2015)</title>
+    <desc>Kassandra hopes that Santa will bring her a puppy for Christmas when her parents refuse to make that commitment.</desc>
   </programme>
-  <programme start="20261120110000 -0600" stop="20261120131000 -0600" channel="nost">
-    <title>Rio Lobo</title>
-    <desc>(1970, G, ★★★☆☆) After the Civil War, a former Union officer joins forces with old allies to take down a corrupt sheriff and the powerful men behind him. John Wayne, Jorge Rivero, Jennifer O’Neill, Jack Elam.</desc>
+  <programme start="20261204110000 -0600" stop="20261204113000 -0600" channel="swaagtv">
+    <title>Black Tax</title>
+    <desc>Back to School Sizwe takes over Zak's school assignment; Martha tries to matchmake for Thuli.</desc>
   </programme>
-  <programme start="20261120131000 -0600" stop="20261120151000 -0600" channel="nost">
-    <title>Big Jake</title>
-    <desc>(1971, PG-13, ★★★★☆) A tough rancher sets out to rescue his kidnapped grandson from a ruthless outlaw gang demanding a massive ransom. John Wayne, Richard Boone and Maureen O’Hara star in this rugged Western adventure.</desc>
+  <programme start="20261204113000 -0600" stop="20261204120000 -0600" channel="swaagtv">
+    <title>Finest Homes</title>
+    <desc>A look at a true minimalist designed home in Kempton Park, Johannesburg; architect Dominique Fourie and homeowner Rosa Smith discuss the home.</desc>
   </programme>
-  <programme start="20261120151000 -0600" stop="20261120170000 -0600" channel="nost">
-    <title>At War with the Army</title>
-    <desc>(1950, NR) Starring Dean Martin and Jerry Lewis. Alvin Corwin is low man on the totem pole, and goes from one mishap to another at an army training camp in World War II.</desc>
+  <programme start="20261204120000 -0600" stop="20261204140000 -0600" channel="swaagtv">
+    <title>Another Christmas (2022)</title>
+    <desc>Kelly Brooks has given up on finding love during the holiday season until her childhood friend returns home for Christmas to win her heart.</desc>
   </programme>
-  <programme start="20261120170000 -0600" stop="20261120190000 -0600" channel="nost">
-    <title>Our Man Flint</title>
-    <desc>(1966, TV-PG, ★★★☆☆) A suave superspy with extraordinary skills takes on a global conspiracy threatening the world’s climate—and its balance of power. James Coburn stars as the ultra-cool Derek Flint in this stylish, tongue-in-cheek spy adventure.</desc>
+  <programme start="20261204140000 -0600" stop="20261204160000 -0600" channel="swaagtv">
+    <title>Hi-De-Ho (1947)</title>
+    <desc>The jealous girlfriend (Jeni Le Gon) of a possessive singer/bandleader (Cab Calloway) tries to have him killed.</desc>
   </programme>
-  <programme start="20261120190000 -0600" stop="20261120210000 -0600" channel="nost">
-    <title>The Delicate Delinquent</title>
-    <desc>(1957, NR, ★★★☆☆) A well-meaning but trouble-prone young man gets a second chance when a police officer takes him under his wing. Jerry Lewis, Darren McGavin, Martha Hyer, Robert Ivers.</desc>
+  <programme start="20261204160000 -0600" stop="20261204180000 -0600" channel="swaagtv">
+    <title>Desecration (2017)</title>
+    <desc>An extramarital affair threatens a man's perfect family when his free-spirited conquest wants more and is willing to go great lengths to achieve it.</desc>
   </programme>
-  <programme start="20261120210000 -0600" stop="20261121080000 -0600" channel="nost">
-    <title>Call Me Bwana</title>
-    <desc>(1963, TV-G, ★★☆☆☆) A bumbling adventurer is sent to Africa to recover a fallen space capsule—sparking a chaotic race against spies, rival treasure hunters, and plenty of jungle mischief. Bob Hope leads this lighthearted comedy packed with slapstick humor and exotic escapades. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
+  <programme start="20261204180000 -0600" stop="20261204183000 -0600" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
+  </programme>
+  <programme start="20261204183000 -0600" stop="20261204190000 -0600" channel="swaagtv">
+    <title>Music Revolution</title>
+    <desc>Neyo Music artists share trade secrets and intimate moments from their professional careers.</desc>
+  </programme>
+  <programme start="20261204190000 -0600" stop="20261204200000 -0600" channel="swaagtv">
+    <title>Jacob's Cross</title>
+    <desc>Folake arrives at the Chief's safe house to discover it in a shambles.</desc>
+  </programme>
+  <programme start="20261204200000 -0600" stop="20261204220000 -0600" channel="swaagtv">
+    <title>Turning Point (2024)</title>
+    <desc>Trey navigates the hardships of urban life in Washington, D.C. His vulnerability exposes him to the harsh realities of life. Yet, it is his unwavering faith in God that propels him to triumph over obstacles.</desc>
+  </programme>
+  <programme start="20261204220000 -0600" stop="20261205000000 -0600" channel="swaagtv">
+    <title>Christmas Staycation (2015)</title>
+    <desc>Kassandra hopes that Santa will bring her a puppy for Christmas when her parents refuse to make that commitment.</desc>
+  </programme>
+  <programme start="20261205000000 -0600" stop="20261205003000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261205003000 -0600" stop="20261205010000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261205010000 -0600" stop="20261205013000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261205013000 -0600" stop="20261205020000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261205020000 -0600" stop="20261205043000 -0600" channel="swaagtv">
+    <title>Behind the Veil (2023)</title>
+    <desc>To the community, Stacey and Darrel are models of hope, success and strength. Behind closed doors, addiction and betrayal are ripping them apart.</desc>
+  </programme>
+  <programme start="20261205043000 -0600" stop="20261205050000 -0600" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
   <programme start="20261121080000 -0600" stop="20261121100000 -0600" channel="nost">
     <title>Blue Hawaii</title>
@@ -1431,57 +1383,6 @@
   <programme start="20261129073000 -0600" stop="20261130000000 -0600" channel="nost">
     <title>Music and the Spoken Word</title>
     <desc>The world-renowned Tabernacle Choir at Temple Square invites music enthusiasts to enjoy inspirational music and spoken word from the world's longest continuous broadcast in radio and television history. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
-  </programme>
-  <programme start="20261119220000 -0600" stop="20261120040000 -0600" channel="TVC.caribbean">
-    <title>Caribbean Programming</title>
-  </programme>
-  <programme start="20261120040000 -0600" stop="20261120050000 -0600" channel="TVC.caribbean">
-    <title>Morning Inspiration</title>
-  </programme>
-  <programme start="20261120050000 -0600" stop="20261120060000 -0600" channel="TVC.caribbean">
-    <title>Caribbean News World</title>
-  </programme>
-  <programme start="20261120060000 -0600" stop="20261120080000 -0600" channel="TVC.caribbean">
-    <title>Island Tea</title>
-  </programme>
-  <programme start="20261120080000 -0600" stop="20261120090000 -0600" channel="TVC.caribbean">
-    <title>Main Event</title>
-  </programme>
-  <programme start="20261120090000 -0600" stop="20261120093000 -0600" channel="TVC.caribbean">
-    <title>St. Maarten Newsdesk</title>
-  </programme>
-  <programme start="20261120093000 -0600" stop="20261120100000 -0600" channel="TVC.caribbean">
-    <title>Inside Government</title>
-  </programme>
-  <programme start="20261120100000 -0600" stop="20261120110000 -0600" channel="TVC.caribbean">
-    <title>Caribbean News World</title>
-  </programme>
-  <programme start="20261120110000 -0600" stop="20261120130000 -0600" channel="TVC.caribbean">
-    <title>Caribbean Concert</title>
-  </programme>
-  <programme start="20261120130000 -0600" stop="20261120150000 -0600" channel="TVC.caribbean">
-    <title>Sports</title>
-  </programme>
-  <programme start="20261120150000 -0600" stop="20261120153000 -0600" channel="TVC.caribbean">
-    <title>St. Maarten Newsdesk</title>
-  </programme>
-  <programme start="20261120153000 -0600" stop="20261120160000 -0600" channel="TVC.caribbean">
-    <title>Inside Government</title>
-  </programme>
-  <programme start="20261120160000 -0600" stop="20261120170000 -0600" channel="TVC.caribbean">
-    <title>Main Event</title>
-  </programme>
-  <programme start="20261120170000 -0600" stop="20261120180000 -0600" channel="TVC.caribbean">
-    <title>Caribbean News World</title>
-  </programme>
-  <programme start="20261120180000 -0600" stop="20261120190000 -0600" channel="TVC.caribbean">
-    <title>JIFE Music Show</title>
-  </programme>
-  <programme start="20261120190000 -0600" stop="20261120210000 -0600" channel="TVC.caribbean">
-    <title>Caribbean Concert</title>
-  </programme>
-  <programme start="20261120210000 -0600" stop="20261120220000 -0600" channel="TVC.caribbean">
-    <title>Caribbean News World</title>
   </programme>
   <programme start="20261120220000 -0600" stop="20261121040000 -0600" channel="TVC.caribbean">
     <title>Caribbean Programming</title>
@@ -2170,36 +2071,56 @@
   <programme start="20261203210000 -0600" stop="20261203220000 -0600" channel="TVC.caribbean">
     <title>Caribbean News World</title>
   </programme>
-  <programme start="20261119220000 -0600" stop="20261120140000 -0600" channel="ZIZ.tv">
-    <title>Archive Classics</title>
-    <desc>Footage from the ZIZ vault, back to the 1970s</desc>
+  <programme start="20261203220000 -0600" stop="20261204040000 -0600" channel="TVC.caribbean">
+    <title>Caribbean Programming</title>
   </programme>
-  <programme start="20261120140000 -0600" stop="20261120150000 -0600" channel="ZIZ.tv">
-    <title>Afternoon Line-Up</title>
-    <desc>Community programming and features</desc>
+  <programme start="20261204040000 -0600" stop="20261204050000 -0600" channel="TVC.caribbean">
+    <title>Morning Inspiration</title>
   </programme>
-  <programme start="20261120150000 -0600" stop="20261120160000 -0600" channel="ZIZ.tv">
-    <title>Community Spotlight</title>
-    <desc>Stories from across the Federation</desc>
+  <programme start="20261204050000 -0600" stop="20261204060000 -0600" channel="TVC.caribbean">
+    <title>Caribbean News World</title>
   </programme>
-  <programme start="20261120160000 -0600" stop="20261120170000 -0600" channel="ZIZ.tv">
-    <title>Health Wise</title>
-    <desc>The medical and wellness show</desc>
+  <programme start="20261204060000 -0600" stop="20261204080000 -0600" channel="TVC.caribbean">
+    <title>Island Tea</title>
   </programme>
-  <programme start="20261120170000 -0600" stop="20261120180000 -0600" channel="ZIZ.tv">
-    <title>ZIZ Evening News</title>
-    <desc>The day's headlines, live</desc>
+  <programme start="20261204080000 -0600" stop="20261204090000 -0600" channel="TVC.caribbean">
+    <title>Main Event</title>
   </programme>
-  <programme start="20261120180000 -0600" stop="20261120190000 -0600" channel="ZIZ.tv">
-    <title>Federation Focus</title>
-    <desc>In-depth interviews and analysis</desc>
+  <programme start="20261204090000 -0600" stop="20261204093000 -0600" channel="TVC.caribbean">
+    <title>St. Maarten Newsdesk</title>
   </programme>
-  <programme start="20261120190000 -0600" stop="20261120200000 -0600" channel="ZIZ.tv">
-    <title>Live Local Show</title>
+  <programme start="20261204093000 -0600" stop="20261204100000 -0600" channel="TVC.caribbean">
+    <title>Inside Government</title>
   </programme>
-  <programme start="20261120200000 -0600" stop="20261120220000 -0600" channel="ZIZ.tv">
-    <title>Policing With You</title>
-    <desc>Public safety with the Police Force</desc>
+  <programme start="20261204100000 -0600" stop="20261204110000 -0600" channel="TVC.caribbean">
+    <title>Caribbean News World</title>
+  </programme>
+  <programme start="20261204110000 -0600" stop="20261204130000 -0600" channel="TVC.caribbean">
+    <title>Caribbean Concert</title>
+  </programme>
+  <programme start="20261204130000 -0600" stop="20261204150000 -0600" channel="TVC.caribbean">
+    <title>Sports</title>
+  </programme>
+  <programme start="20261204150000 -0600" stop="20261204153000 -0600" channel="TVC.caribbean">
+    <title>St. Maarten Newsdesk</title>
+  </programme>
+  <programme start="20261204153000 -0600" stop="20261204160000 -0600" channel="TVC.caribbean">
+    <title>Inside Government</title>
+  </programme>
+  <programme start="20261204160000 -0600" stop="20261204170000 -0600" channel="TVC.caribbean">
+    <title>Main Event</title>
+  </programme>
+  <programme start="20261204170000 -0600" stop="20261204180000 -0600" channel="TVC.caribbean">
+    <title>Caribbean News World</title>
+  </programme>
+  <programme start="20261204180000 -0600" stop="20261204190000 -0600" channel="TVC.caribbean">
+    <title>JIFE Music Show</title>
+  </programme>
+  <programme start="20261204190000 -0600" stop="20261204210000 -0600" channel="TVC.caribbean">
+    <title>Caribbean Concert</title>
+  </programme>
+  <programme start="20261204210000 -0600" stop="20261204220000 -0600" channel="TVC.caribbean">
+    <title>Caribbean News World</title>
   </programme>
   <programme start="20261120220000 -0600" stop="20261121140000 -0600" channel="ZIZ.tv">
     <title>Archive Classics</title>
@@ -2582,128 +2503,36 @@
     <title>Policing With You</title>
     <desc>Public safety with the Police Force</desc>
   </programme>
-  <programme start="20261119040000 -0600" stop="20261119040500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
+  <programme start="20261203220000 -0600" stop="20261204140000 -0600" channel="ZIZ.tv">
+    <title>Archive Classics</title>
+    <desc>Footage from the ZIZ vault, back to the 1970s</desc>
   </programme>
-  <programme start="20261119040500 -0600" stop="20261119050000 -0600" channel="WESN.tt">
-    <title>AM Prime</title>
+  <programme start="20261204140000 -0600" stop="20261204150000 -0600" channel="ZIZ.tv">
+    <title>Afternoon Line-Up</title>
+    <desc>Community programming and features</desc>
   </programme>
-  <programme start="20261119050000 -0600" stop="20261119050500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
+  <programme start="20261204150000 -0600" stop="20261204160000 -0600" channel="ZIZ.tv">
+    <title>Community Spotlight</title>
+    <desc>Stories from across the Federation</desc>
   </programme>
-  <programme start="20261119050500 -0600" stop="20261119053000 -0600" channel="WESN.tt">
-    <title>AM Prime</title>
+  <programme start="20261204160000 -0600" stop="20261204170000 -0600" channel="ZIZ.tv">
+    <title>Health Wise</title>
+    <desc>The medical and wellness show</desc>
   </programme>
-  <programme start="20261119053000 -0600" stop="20261119060000 -0600" channel="WESN.tt">
-    <title>France 24</title>
+  <programme start="20261204170000 -0600" stop="20261204180000 -0600" channel="ZIZ.tv">
+    <title>ZIZ Evening News</title>
+    <desc>The day's headlines, live</desc>
   </programme>
-  <programme start="20261119060000 -0600" stop="20261119070000 -0600" channel="WESN.tt">
-    <title>Talking Point</title>
+  <programme start="20261204180000 -0600" stop="20261204190000 -0600" channel="ZIZ.tv">
+    <title>Federation Focus</title>
+    <desc>In-depth interviews and analysis</desc>
   </programme>
-  <programme start="20261119070000 -0600" stop="20261119070500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
+  <programme start="20261204190000 -0600" stop="20261204200000 -0600" channel="ZIZ.tv">
+    <title>Live Local Show</title>
   </programme>
-  <programme start="20261119070500 -0600" stop="20261119073000 -0600" channel="WESN.tt">
-    <title>Talking Point</title>
-  </programme>
-  <programme start="20261119073000 -0600" stop="20261119080000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261119080000 -0600" stop="20261119080500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261119080500 -0600" stop="20261119083000 -0600" channel="WESN.tt">
-    <title>Strictly Legal</title>
-  </programme>
-  <programme start="20261119083000 -0600" stop="20261119090000 -0600" channel="WESN.tt">
-    <title>Strictly Legal</title>
-  </programme>
-  <programme start="20261119090000 -0600" stop="20261119090500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261119090500 -0600" stop="20261119093000 -0600" channel="WESN.tt">
-    <title>Psyched</title>
-  </programme>
-  <programme start="20261119093000 -0600" stop="20261119100000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261119100000 -0600" stop="20261119100500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261119100500 -0600" stop="20261119110000 -0600" channel="WESN.tt">
-    <title>What's Up Doc (Season 3) (Repeat)</title>
-  </programme>
-  <programme start="20261119110000 -0600" stop="20261119110500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261119110500 -0600" stop="20261119120000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261119120000 -0600" stop="20261119120500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261119120500 -0600" stop="20261119123000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261119123000 -0600" stop="20261119140000 -0600" channel="WESN.tt">
-    <title>The Face of Sports</title>
-  </programme>
-  <programme start="20261119140000 -0600" stop="20261119140500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261119140500 -0600" stop="20261119143000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261119143000 -0600" stop="20261119150000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261119150000 -0600" stop="20261119150500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261119150500 -0600" stop="20261119153000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261119153000 -0600" stop="20261119160000 -0600" channel="WESN.tt">
-    <title>Psyched (Repeat)</title>
-  </programme>
-  <programme start="20261119160000 -0600" stop="20261119160500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261119160500 -0600" stop="20261119173000 -0600" channel="WESN.tt">
-    <title>AM Prime</title>
-  </programme>
-  <programme start="20261119173000 -0600" stop="20261119180000 -0600" channel="WESN.tt">
-    <title>Strictly Legal</title>
-  </programme>
-  <programme start="20261119180000 -0600" stop="20261119183000 -0600" channel="WESN.tt">
-    <title>Psyched</title>
-  </programme>
-  <programme start="20261119183000 -0600" stop="20261119190000 -0600" channel="WESN.tt">
-    <title>WE Comedy Jam</title>
-  </programme>
-  <programme start="20261119190000 -0600" stop="20261119203000 -0600" channel="WESN.tt">
-    <title>Talking Point</title>
-  </programme>
-  <programme start="20261119203000 -0600" stop="20261119220000 -0600" channel="WESN.tt">
-    <title>The Face of Sports</title>
-  </programme>
-  <programme start="20261119220000 -0600" stop="20261119233000 -0600" channel="WESN.tt">
-    <title>AM Prime</title>
-  </programme>
-  <programme start="20261119233000 -0600" stop="20261120000000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261120000000 -0600" stop="20261120013000 -0600" channel="WESN.tt">
-    <title>Talking Point</title>
-  </programme>
-  <programme start="20261120013000 -0600" stop="20261120030000 -0600" channel="WESN.tt">
-    <title>The Face of Sports</title>
-  </programme>
-  <programme start="20261120030000 -0600" stop="20261120033000 -0600" channel="WESN.tt">
-    <title>Strictly Legal</title>
-  </programme>
-  <programme start="20261120033000 -0600" stop="20261120040000 -0600" channel="WESN.tt">
-    <title>Religious Program: Luminous Mysteries</title>
+  <programme start="20261204200000 -0600" stop="20261204220000 -0600" channel="ZIZ.tv">
+    <title>Policing With You</title>
+    <desc>Public safety with the Police Force</desc>
   </programme>
   <programme start="20261120040000 -0600" stop="20261120040500 -0600" channel="WESN.tt">
     <title>WESN News</title>
@@ -3938,50 +3767,131 @@
   <programme start="20261204030000 -0600" stop="20261204033000 -0600" channel="WESN.tt">
     <title>Strictly Legal</title>
   </programme>
-  <programme start="20261119235800 -0500" stop="20261120020000 -0500" channel="WWON.ny48">
-    <title lang="en">The Midnight Movie</title>
+  <programme start="20261204033000 -0600" stop="20261204040000 -0600" channel="WESN.tt">
+    <title>Religious Program: Luminous Mysteries</title>
   </programme>
-  <programme start="20261120020000 -0500" stop="20261120060000 -0500" channel="WWON.ny48">
-    <title lang="en">Late Movies &amp; Late Late Movies</title>
+  <programme start="20261204040000 -0600" stop="20261204040500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
   </programme>
-  <programme start="20261120060000 -0500" stop="20261120100000 -0500" channel="WWON.ny48">
-    <title lang="en">The Early Show</title>
+  <programme start="20261204040500 -0600" stop="20261204050000 -0600" channel="WESN.tt">
+    <title>AM Prime</title>
   </programme>
-  <programme start="20261120100000 -0500" stop="20261120110000 -0500" channel="WWON.ny48">
-    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
+  <programme start="20261204050000 -0600" stop="20261204050500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
   </programme>
-  <programme start="20261120110000 -0500" stop="20261120120000 -0500" channel="WWON.ny48">
-    <title lang="en">Yancy Derringer</title>
+  <programme start="20261204050500 -0600" stop="20261204053000 -0600" channel="WESN.tt">
+    <title>AM Prime</title>
   </programme>
-  <programme start="20261120120000 -0500" stop="20261120130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky King</title>
+  <programme start="20261204053000 -0600" stop="20261204060000 -0600" channel="WESN.tt">
+    <title>France 24</title>
   </programme>
-  <programme start="20261120130000 -0500" stop="20261120140000 -0500" channel="WWON.ny48">
-    <title lang="en">It's About Time</title>
+  <programme start="20261204060000 -0600" stop="20261204070000 -0600" channel="WESN.tt">
+    <title>Talking Point</title>
   </programme>
-  <programme start="20261120140000 -0500" stop="20261120150000 -0500" channel="WWON.ny48">
-    <title lang="en">Follow That Man</title>
+  <programme start="20261204070000 -0600" stop="20261204070500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
   </programme>
-  <programme start="20261120150000 -0500" stop="20261120160000 -0500" channel="WWON.ny48">
-    <title lang="en">Lights Out</title>
+  <programme start="20261204070500 -0600" stop="20261204073000 -0600" channel="WESN.tt">
+    <title>Talking Point</title>
   </programme>
-  <programme start="20261120160000 -0500" stop="20261120170000 -0500" channel="WWON.ny48">
-    <title lang="en">Sherlock Holmes</title>
+  <programme start="20261204073000 -0600" stop="20261204080000 -0600" channel="WESN.tt">
+    <title>France 24</title>
   </programme>
-  <programme start="20261120170000 -0500" stop="20261120180000 -0500" channel="WWON.ny48">
-    <title lang="en">Decoy</title>
+  <programme start="20261204080000 -0600" stop="20261204080500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
   </programme>
-  <programme start="20261120180000 -0500" stop="20261120190000 -0500" channel="WWON.ny48">
-    <title lang="en">The Red Skelton Show</title>
+  <programme start="20261204080500 -0600" stop="20261204083000 -0600" channel="WESN.tt">
+    <title>10 Questions with Andy Johnson</title>
   </programme>
-  <programme start="20261120190000 -0500" stop="20261120193000 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+  <programme start="20261204083000 -0600" stop="20261204090000 -0600" channel="WESN.tt">
+    <title>France 24</title>
   </programme>
-  <programme start="20261120193000 -0500" stop="20261120200000 -0500" channel="WWON.ny48">
-    <title lang="en">Super Mega Trivia Slam</title>
+  <programme start="20261204090000 -0600" stop="20261204090500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
   </programme>
-  <programme start="20261120200000 -0500" stop="20261120235800 -0500" channel="WWON.ny48">
-    <title lang="en">Primetime Movie Showcases</title>
+  <programme start="20261204090500 -0600" stop="20261204093000 -0600" channel="WESN.tt">
+    <title>One on One (Repeat)</title>
+  </programme>
+  <programme start="20261204093000 -0600" stop="20261204100000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261204100000 -0600" stop="20261204100500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261204100500 -0600" stop="20261204110000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261204110000 -0600" stop="20261204110500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261204110500 -0600" stop="20261204120000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261204120000 -0600" stop="20261204120500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261204120500 -0600" stop="20261204123000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261204123000 -0600" stop="20261204140000 -0600" channel="WESN.tt">
+    <title>The Face of Sports</title>
+  </programme>
+  <programme start="20261204140000 -0600" stop="20261204140500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261204140500 -0600" stop="20261204143000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261204143000 -0600" stop="20261204150000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261204150000 -0600" stop="20261204150500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261204150500 -0600" stop="20261204153000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261204153000 -0600" stop="20261204160000 -0600" channel="WESN.tt">
+    <title>10 Questions with Andy Johnson (Repeat)</title>
+  </programme>
+  <programme start="20261204160000 -0600" stop="20261204160500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261204160500 -0600" stop="20261204173000 -0600" channel="WESN.tt">
+    <title>AM Prime</title>
+  </programme>
+  <programme start="20261204173000 -0600" stop="20261204180000 -0600" channel="WESN.tt">
+    <title>10 Questions with Andy Johnson</title>
+  </programme>
+  <programme start="20261204180000 -0600" stop="20261204183000 -0600" channel="WESN.tt">
+    <title>One on One</title>
+  </programme>
+  <programme start="20261204183000 -0600" stop="20261204190000 -0600" channel="WESN.tt">
+    <title>Long Story Short</title>
+  </programme>
+  <programme start="20261204190000 -0600" stop="20261204203000 -0600" channel="WESN.tt">
+    <title>Talking Point</title>
+  </programme>
+  <programme start="20261204203000 -0600" stop="20261204220000 -0600" channel="WESN.tt">
+    <title>The Face of Sports</title>
+  </programme>
+  <programme start="20261204220000 -0600" stop="20261204233000 -0600" channel="WESN.tt">
+    <title>AM Prime</title>
+  </programme>
+  <programme start="20261204233000 -0600" stop="20261205000000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261205000000 -0600" stop="20261205013000 -0600" channel="WESN.tt">
+    <title>Talking Point</title>
+  </programme>
+  <programme start="20261205013000 -0600" stop="20261205030000 -0600" channel="WESN.tt">
+    <title>The Face of Sports</title>
+  </programme>
+  <programme start="20261205030000 -0600" stop="20261205033000 -0600" channel="WESN.tt">
+    <title>10 Questions with Andy Johnson</title>
+  </programme>
+  <programme start="20261205033000 -0600" stop="20261205040000 -0600" channel="WESN.tt">
+    <title>Religious Program: Joyful Mysteries</title>
   </programme>
   <programme start="20261120235800 -0500" stop="20261121020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -5356,5 +5266,56 @@
   </programme>
   <programme start="20261219235800 -0500" stop="20261220013000 -0500" channel="WWON.ny48">
     <title lang="en">Chiller Night Theatre</title>
+  </programme>
+  <programme start="20261220013000 -0500" stop="20261220030000 -0500" channel="WWON.ny48">
+    <title lang="en">Livingston Presents</title>
+  </programme>
+  <programme start="20261220030000 -0500" stop="20261220090000 -0500" channel="WWON.ny48">
+    <title lang="en">Creature Triple Features</title>
+  </programme>
+  <programme start="20261220090000 -0500" stop="20261220093000 -0500" channel="WWON.ny48">
+    <title lang="en">Cooking with Vlada</title>
+  </programme>
+  <programme start="20261220093000 -0500" stop="20261220100000 -0500" channel="WWON.ny48">
+    <title lang="en">Shatkin FIRST Down</title>
+  </programme>
+  <programme start="20261220100000 -0500" stop="20261220110000 -0500" channel="WWON.ny48">
+    <title lang="en">Off the Cuff with Craig Mitchell</title>
+  </programme>
+  <programme start="20261220110000 -0500" stop="20261220120000 -0500" channel="WWON.ny48">
+    <title lang="en">Sidewalks Entertainment</title>
+  </programme>
+  <programme start="20261220120000 -0500" stop="20261220130000 -0500" channel="WWON.ny48">
+    <title lang="en">The Neil Haley Show</title>
+  </programme>
+  <programme start="20261220130000 -0500" stop="20261220140000 -0500" channel="WWON.ny48">
+    <title lang="en">Passionate Living</title>
+  </programme>
+  <programme start="20261220140000 -0500" stop="20261220150000 -0500" channel="WWON.ny48">
+    <title lang="en">History Highway</title>
+  </programme>
+  <programme start="20261220150000 -0500" stop="20261220153000 -0500" channel="WWON.ny48">
+    <title lang="en">Upstaged</title>
+  </programme>
+  <programme start="20261220153000 -0500" stop="20261220160000 -0500" channel="WWON.ny48">
+    <title lang="en">The House on the Hill</title>
+  </programme>
+  <programme start="20261220160000 -0500" stop="20261220170000 -0500" channel="WWON.ny48">
+    <title lang="en">Baby Blues Art Presents</title>
+  </programme>
+  <programme start="20261220170000 -0500" stop="20261220180000 -0500" channel="WWON.ny48">
+    <title lang="en">Woodsongs TV Show</title>
+  </programme>
+  <programme start="20261220180000 -0500" stop="20261220200000 -0500" channel="WWON.ny48">
+    <title lang="en">Demented Features</title>
+  </programme>
+  <programme start="20261220200000 -0500" stop="20261220220000 -0500" channel="WWON.ny48">
+    <title lang="en">The Mummy &amp; The Monkey</title>
+  </programme>
+  <programme start="20261220220000 -0500" stop="20261220233000 -0500" channel="WWON.ny48">
+    <title lang="en">After Hours Cinema</title>
+  </programme>
+  <programme start="20261220233000 -0500" stop="20261221020000 -0500" channel="WWON.ny48">
+    <title lang="en">Cinema Insomnia with Mr. Lobo</title>
   </programme>
 </tv>
