@@ -19,97 +19,6 @@
     <display-name>NY 48 (WWON-TV)</display-name>
     <display-name>WWON-TV</display-name>
   </channel>
-  <programme start="20261124050000 -0600" stop="20261124070000 -0600" channel="swaagtv">
-    <title>Will to Love (2015)</title>
-    <desc>The CEO of a company has to find a wife within 90 days to inherit his grandfather's company and estate.</desc>
-  </programme>
-  <programme start="20261124070000 -0600" stop="20261124073000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261124073000 -0600" stop="20261124080000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261124080000 -0600" stop="20261124083000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261124083000 -0600" stop="20261124090000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261124090000 -0600" stop="20261124110000 -0600" channel="swaagtv">
-    <title>A Royal Surprise (2022)</title>
-    <desc>A woman accepts an invitation to visit her boyfriend's family in South Africa and learns that he's both extremely wealthy and the prince of his village. This revelation shakes her trust in him, and he must do whatever he can to win her back.</desc>
-  </programme>
-  <programme start="20261124110000 -0600" stop="20261124113000 -0600" channel="swaagtv">
-    <title>What's Really Goin' On</title>
-    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
-  </programme>
-  <programme start="20261124113000 -0600" stop="20261124140000 -0600" channel="swaagtv">
-    <title>Frat House (2013)</title>
-    <desc>Price steals the identity of a cop and hides out at his cousin's fraternity. Price tries to pose as a frat brother while dodging the brothers' flirtations.</desc>
-  </programme>
-  <programme start="20261124140000 -0600" stop="20261124160000 -0600" channel="swaagtv">
-    <title>Another Christmas (2022)</title>
-    <desc>Kelly Brooks has given up on finding love during the holiday season until her childhood friend returns home for Christmas to win her heart.</desc>
-  </programme>
-  <programme start="20261124160000 -0600" stop="20261124180000 -0600" channel="swaagtv">
-    <title>Christmas in Carolina (2020)</title>
-    <desc>Career-driven investment banker Elle has given up on love until she meets Wesley, who invites her to his hometown in South Carolina, where she rediscovers the spirit of Christmas.</desc>
-  </programme>
-  <programme start="20261124180000 -0600" stop="20261124183000 -0600" channel="swaagtv">
-    <title>Real Health</title>
-  </programme>
-  <programme start="20261124183000 -0600" stop="20261124190000 -0600" channel="swaagtv">
-    <title>Mind Matters</title>
-    <desc>Music Therapy</desc>
-  </programme>
-  <programme start="20261124190000 -0600" stop="20261124193000 -0600" channel="swaagtv">
-    <title>Black American Experience</title>
-    <desc>First Black Women In Space - Part 3</desc>
-  </programme>
-  <programme start="20261124193000 -0600" stop="20261124200000 -0600" channel="swaagtv">
-    <title>The Olive</title>
-    <desc>Now Open Grieving widower Anayo is left to raise his three children after his wife passes away; he soon discovers that his wife led a double life, filled with secrets.</desc>
-  </programme>
-  <programme start="20261124200000 -0600" stop="20261124223000 -0600" channel="swaagtv">
-    <title>Lady Luck (2016)</title>
-    <desc>Three strangers come together to support each other.</desc>
-  </programme>
-  <programme start="20261124223000 -0600" stop="20261124233000 -0600" channel="swaagtv">
-    <title>Jacob's Cross</title>
-    <desc>Lerato and Andile struggle to share Jacob's flat and attention; Prospero challenges Jacob's family loyalty.</desc>
-  </programme>
-  <programme start="20261124233000 -0600" stop="20261125000000 -0600" channel="swaagtv">
-    <title>Kasi Car Culture</title>
-    <desc>Why Do People Love Spinning? Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
-  </programme>
-  <programme start="20261125000000 -0600" stop="20261125003000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261125003000 -0600" stop="20261125010000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261125010000 -0600" stop="20261125013000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261125013000 -0600" stop="20261125020000 -0600" channel="swaagtv">
-    <title>Paid Programming</title>
-    <desc>Paid programming.</desc>
-  </programme>
-  <programme start="20261125020000 -0600" stop="20261125030000 -0600" channel="swaagtv">
-    <title>Jacob's Cross</title>
-    <desc>Lerato and Andile struggle to share Jacob's flat and attention; Prospero challenges Jacob's family loyalty.</desc>
-  </programme>
-  <programme start="20261125030000 -0600" stop="20261125050000 -0600" channel="swaagtv">
-    <title>A Royal Surprise (2022)</title>
-    <desc>A woman accepts an invitation to visit her boyfriend's family in South Africa and learns that he's both extremely wealthy and the prince of his village. This revelation shakes her trust in him, and he must do whatever he can to win her back.</desc>
-  </programme>
   <programme start="20261125050000 -0600" stop="20261125070000 -0600" channel="swaagtv">
     <title>Another Christmas (2022)</title>
     <desc>Kelly Brooks has given up on finding love during the holiday season until her childhood friend returns home for Christmas to win her heart.</desc>
@@ -1325,49 +1234,261 @@
     <title>DreamCars</title>
     <desc>German Limousines The Mercedes S-Class, the BMW 7-series, or the Audi A8; Limousines 'Made in Germany' are famous for their perfection and prestige and are considered as a status symbol.</desc>
   </programme>
-  <programme start="20261124020000 -0600" stop="20261124032000 -0600" channel="nost">
-    <title>The Little Shop of Horrors</title>
-    <desc>(1960, NR) Starring Jonathan Haze, Jackie Joseph and Mel Welles. A clumsy young man nurtures a plant and discovers that it's carnivorous, forcing him to kill to feed it.</desc>
+  <programme start="20261208050000 -0600" stop="20261208070000 -0600" channel="swaagtv">
+    <title>When it Comes Around (2018)</title>
+    <desc>A young, successful sports executive falls in love with a new agent at his office. The beautiful woman manipulates him and uses him as a pawn for her advancement.</desc>
   </programme>
-  <programme start="20261124032000 -0600" stop="20261124051000 -0600" channel="nost">
-    <title>Molly and Lawless John</title>
-    <desc>(1972, PG) Starring Sam Elliott and Vera Miles. In New Mexico, a sheriff's unhappy mid-aged wife aids a condemned prisoner escape her husband's jail and elopes with the young and attractive outlaw to Mexico, pursued by the sheriff's posse.</desc>
+  <programme start="20261208070000 -0600" stop="20261208073000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261124051000 -0600" stop="20261124070000 -0600" channel="nost">
-    <title>Mr. Arkadin</title>
-    <desc>(1955, NR, ★★★★☆) A mysterious millionaire hires a man to investigate his own forgotten past, uncovering a dangerous trail of secrets, deception and murder. Orson Welles, Robert Arden, Paola Mori, Akim Tamiroff.</desc>
+  <programme start="20261208073000 -0600" stop="20261208080000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261124070000 -0600" stop="20261124084500 -0600" channel="nost">
-    <title>The Awful Truth</title>
-    <desc>(1937, NR) Starring Cary Grant and Irene Dunn. A married couple file an amicable divorce, but find it harder to let go of each other than they initially thought.</desc>
+  <programme start="20261208080000 -0600" stop="20261208083000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261124084500 -0600" stop="20261124110000 -0600" channel="nost">
-    <title>Logan's Run</title>
-    <desc>(1976, PG, ★★★★☆) In a futuristic society where life ends at 30, a government enforcer begins to question the system when he’s ordered to hunt down those who refuse to die. Michael York and Jenny Agutter star in this visually striking sci-fi adventure exploring freedom, control, and the cost of eternal youth.</desc>
+  <programme start="20261208083000 -0600" stop="20261208090000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
   </programme>
-  <programme start="20261124110000 -0600" stop="20261124130000 -0600" channel="nost">
-    <title>Snow White and the Three Stooges</title>
-    <desc>(1961, TV-G, ★★★☆☆) When an evil queen plots to seize the throne, a kind-hearted princess finds unlikely allies in three bumbling woodsmen determined to protect her. The Three Stooges bring their signature slapstick to this fairy-tale adventure, blending classic comedy with storybook charm.</desc>
+  <programme start="20261208090000 -0600" stop="20261208110000 -0600" channel="swaagtv">
+    <title>Strong Hold (2024)</title>
+    <desc>Tay and Phil's newfound love faces an unexpected and earth-shattering challenge when they discover that their parents share a long-held secret from the past.</desc>
   </programme>
-  <programme start="20261124130000 -0600" stop="20261124150000 -0600" channel="nost">
-    <title>Mahogany</title>
-    <desc>(1975, PG, ★★★☆☆) An ambitious fashion designer rises from Chicago to international fame, but success tests her relationships and forces her to choose what matters most. Diana Ross, Billy Dee Williams and Anthony Perkins star in this stylish romantic drama.</desc>
+  <programme start="20261208110000 -0600" stop="20261208113000 -0600" channel="swaagtv">
+    <title>What's Really Goin' On</title>
+    <desc>Presenting the most interesting newsmakers, celebrities, business owners, educators, clergy, authors, civil rights leaders, and just everyday people presenting their Black Excellence and giving their take on issues affecting Chicago communities.</desc>
   </programme>
-  <programme start="20261124150000 -0600" stop="20261124170000 -0600" channel="nost">
-    <title>Batman: The Movie</title>
-    <desc>(1966, TV-PG, ★★★☆☆) The Dynamic Duo face off against a rogues’ gallery of villains—including the Joker, Penguin, Riddler, and Catwoman—in a colorful, campy battle to save the world. Adam West and Burt Ward star in this fun, gadget-filled big-screen adventure based on the hit TV series.</desc>
+  <programme start="20261208113000 -0600" stop="20261208140000 -0600" channel="swaagtv">
+    <title>Forbidden Fruits (2006)</title>
+    <desc>A college student faces the wrath of a violent cousin who disapproves of his interracial romance.</desc>
   </programme>
-  <programme start="20261124170000 -0600" stop="20261124190000 -0600" channel="nost">
-    <title>Convoy</title>
-    <desc>(1978, PG, ★★★☆☆) A rebellious trucker leads a growing convoy across the Southwest while evading a relentless sheriff. Kris Kristofferson, Ali MacGraw and Ernest Borgnine star in Sam Peckinpah’s action-packed road adventure.</desc>
+  <programme start="20261208140000 -0600" stop="20261208160000 -0600" channel="swaagtv">
+    <title>Gingersnap Christmas (2024)</title>
+    <desc>Alesha Delacroix, grieving her fiancé, reluctantly helps her grandma's charity, meeting Garrett, a charming Brit, who reignites her heart.</desc>
   </programme>
-  <programme start="20261124190000 -0600" stop="20261124211000 -0600" channel="nost">
-    <title>Stalag 17</title>
-    <desc>(1953, NR, ★★★★★) American prisoners in a German POW camp suspect that one of their own is secretly informing on them, turning suspicion toward a cynical and resourceful sergeant. William Holden, Don Taylor and Otto Preminger star in Billy Wilder’s acclaimed wartime classic.</desc>
+  <programme start="20261208160000 -0600" stop="20261208180000 -0600" channel="swaagtv">
+    <title>One Day of Freedom (2016)</title>
+    <desc>The best day of Benjamin Black's life quickly turns into his worst nightmare.</desc>
   </programme>
-  <programme start="20261124211000 -0600" stop="20261128080000 -0600" channel="nost">
-    <title>Cat Ballou</title>
-    <desc>(1965, PG) Jane Fonda stars as a young teacher turned outlaw who is out to avenge her father's death. Also starring Lee Marvin (who won an Oscar for this role) and Michael Callan. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
+  <programme start="20261208180000 -0600" stop="20261208183000 -0600" channel="swaagtv">
+    <title>Real Health</title>
+    <desc>Curing Addictions Explores holistic health solutions that lead to a physically, emotionally and mentally healthier body, mind and soul.</desc>
+  </programme>
+  <programme start="20261208183000 -0600" stop="20261208190000 -0600" channel="swaagtv">
+    <title>Mind Matters</title>
+    <desc>Schizophrenia</desc>
+  </programme>
+  <programme start="20261208190000 -0600" stop="20261208193000 -0600" channel="swaagtv">
+    <title>Black American Experience</title>
+    <desc>Black American Experience, Harlem Renaissance - Part 2</desc>
+  </programme>
+  <programme start="20261208193000 -0600" stop="20261208200000 -0600" channel="swaagtv">
+    <title>The Olive</title>
+    <desc>Family Is Everything Grieving widower Anayo is left to raise his three children after his wife passes away; he soon discovers that his wife led a double life, filled with secrets.</desc>
+  </programme>
+  <programme start="20261208200000 -0600" stop="20261208223000 -0600" channel="swaagtv">
+    <title>The Gift of Christmas (2020)</title>
+    <desc>A Kentucky family comes together for a Christmas Eve church concert.</desc>
+  </programme>
+  <programme start="20261208223000 -0600" stop="20261208233000 -0600" channel="swaagtv">
+    <title>Jacob's Cross</title>
+    <desc>Episode 6 As Bola cements his control in Lagos, Folake and Jacob realize they must fight for the Abayomi inheritance that is rightfully theirs.</desc>
+  </programme>
+  <programme start="20261208233000 -0600" stop="20261209000000 -0600" channel="swaagtv">
+    <title>Kasi Car Culture</title>
+    <desc>Unforgettable Experience Get ready for an adrenaline-pumping adventure with flips, stunts, fireworks and delicious food and drinks; dance the night away with awesome DJ performances!</desc>
+  </programme>
+  <programme start="20261209000000 -0600" stop="20261209003000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261209003000 -0600" stop="20261209010000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261209010000 -0600" stop="20261209013000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261209013000 -0600" stop="20261209020000 -0600" channel="swaagtv">
+    <title>Paid Programming</title>
+    <desc>Paid programming.</desc>
+  </programme>
+  <programme start="20261209020000 -0600" stop="20261209030000 -0600" channel="swaagtv">
+    <title>Jacob's Cross</title>
+    <desc>Episode 6 As Bola cements his control in Lagos, Folake and Jacob realize they must fight for the Abayomi inheritance that is rightfully theirs.</desc>
+  </programme>
+  <programme start="20261209030000 -0600" stop="20261209050000 -0600" channel="swaagtv">
+    <title>Strong Hold (2024)</title>
+    <desc>Tay and Phil's newfound love faces an unexpected and earth-shattering challenge when they discover that their parents share a long-held secret from the past.</desc>
+  </programme>
+  <programme start="20261125011000 -0600" stop="20261125025000 -0600" channel="nost">
+    <title>The Big Trees</title>
+    <desc>(1952, TV-G, ★★★☆☆) A greedy lumber baron clashes with homesteaders—and his own conscience—over a towering grove of redwoods in post–Gold Rush California. Kirk Douglas stars in this rugged frontier drama about ambition, redemption, and the fight for the land.</desc>
+  </programme>
+  <programme start="20261125025000 -0600" stop="20261125050000 -0600" channel="nost">
+    <title>The Outlaw</title>
+    <desc>(1943, NR, ★★★☆☆) A young gunfighter becomes entangled with Doc Holliday, Pat Garrett and a dangerous rivalry in this stylized Western. Jack Buetel, Jane Russell, Walter Huston, Thomas Mitchell.</desc>
+  </programme>
+  <programme start="20261125050000 -0600" stop="20261125062500 -0600" channel="nost">
+    <title>The Cat and the Canary</title>
+    <desc>(1939, Not Rated) Starring Bob Hope and Paulette Goddard. When an eccentric family meets in their uncle's remote, decaying mansion on the tenth anniversary of his death for the reading of his will, murder and madness follow.</desc>
+  </programme>
+  <programme start="20261125062500 -0600" stop="20261125080500 -0600" channel="nost">
+    <title>Borderline</title>
+    <desc>(1950, TV-PG) Starring Fred MacMurray, Claire Trevor and Raymond Burr. Two undercover agents infiltrate a drug-smuggling ring in Mexico, but neither is aware of the other's identity.</desc>
+  </programme>
+  <programme start="20261125080500 -0600" stop="20261125091500 -0600" channel="nost">
+    <title>Hopalong Cassidy Enters</title>
+    <desc>(1935, No Rating) Starring William Boyd and James Ellison. An evil ranch foreman tries to provoke a range war by playing two cattlemen against each other while helping a gang to rustle the cattle.</desc>
+  </programme>
+  <programme start="20261125091500 -0600" stop="20261125110000 -0600" channel="nost">
+    <title>One Million Years B.C.</title>
+    <desc>(1966, TV-PG) Starring Raquel Welch and John Richardson. Prehistoric man Tumak is banished from his savage tribe and meets pretty Loana, who belongs to a gentler coastal tribe, but he must fight caveman Payto to win her favors.</desc>
+  </programme>
+  <programme start="20261125110000 -0600" stop="20261125130000 -0600" channel="nost">
+    <title>The Facts of Life</title>
+    <desc>(1960, NR, ★★★★☆) Two married friends discover an unexpected attraction while vacationing together, forcing them to confront the complications of romance and responsibility. Bob Hope, Lucille Ball, Ruth Hussey, Don DeFore.</desc>
+  </programme>
+  <programme start="20261125130000 -0600" stop="20261125151000 -0600" channel="nost">
+    <title>More American Graffiti</title>
+    <desc>(1979, PG, ★★★☆☆) The friends from American Graffiti face new challenges during the turbulent 1960s, from Vietnam and college protests to changing relationships and racing dreams. Ron Howard, Paul Le Mat, Candy Clark and Charles Martin Smith return for this nostalgic sequel.</desc>
+  </programme>
+  <programme start="20261125151000 -0600" stop="20261125171500 -0600" channel="nost">
+    <title>Nurse Edith Cavell</title>
+    <desc>(1939, Not Rated, ★★★★☆) An English nurse in German-occupied Brussels risks her life to help Allied soldiers escape during World War I. Anna Neagle stars in this inspiring true story of courage, sacrifice and resistance.</desc>
+  </programme>
+  <programme start="20261125171500 -0600" stop="20261125190000 -0600" channel="nost">
+    <title>The Magic Christian</title>
+    <desc>(1969, PG-M) Starring Peter Sellers and Ringo Starr. The world's richest man and his adopted hobo son set out to test the limits of human vanity and greed through a series of "money games".</desc>
+  </programme>
+  <programme start="20261125190000 -0600" stop="20261125203000 -0600" channel="nost">
+    <title>Jack and the Beanstalk</title>
+    <desc>(1952, Not Rated) Starring Bud Abbott and Lou Costello. Abbott &amp; Costello's version of the famous fairy tale, about a young boy who trades the family cow for magic beans.</desc>
+  </programme>
+  <programme start="20261125203000 -0600" stop="20261125230000 -0600" channel="nost">
+    <title>The Grapes of Wrath</title>
+    <desc>(1940, Not Rated, ★★★★★) A struggling Oklahoma family heads west to California during the Great Depression in search of work and a better life. Henry Fonda and Jane Darwell star in John Ford’s powerful adaptation of John Steinbeck’s classic novel.</desc>
+  </programme>
+  <programme start="20261125230000 -0600" stop="20261126010500 -0600" channel="nost">
+    <title>A Star Is Born</title>
+    <desc>(1937, NR, ★★★★☆) An aspiring actress comes to Hollywood and finds fame with the help of a troubled movie star whose own career is beginning to fade. Janet Gaynor and Fredric March star in this acclaimed drama about love, ambition and the price of success. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
+  </programme>
+  <programme start="20261126010500 -0600" stop="20261126025000 -0600" channel="nost">
+    <title>Pancho Villa</title>
+    <desc>(1972, PG, ★★★☆☆) A flamboyant mercenary becomes caught up in the Mexican Revolution, joining forces with Pancho Villa amid battles, betrayal and political intrigue. Telly Savalas, Clint Walker, Chuck Connors, Anne Francis.</desc>
+  </programme>
+  <programme start="20261126025000 -0600" stop="20261126044000 -0600" channel="nost">
+    <title>It Happened to Jane</title>
+    <desc>(1959, TV-G, ★★★☆☆) After a shipping mix-up threatens her small business, a determined single mother takes on the railroad—and the system—in a battle for justice. Doris Day brings charm and grit to this lighthearted comedy, with Jack Lemmon adding plenty of laughs along the way.</desc>
+  </programme>
+  <programme start="20261126044000 -0600" stop="20261126070500 -0600" channel="nost">
+    <title>The Sundowners</title>
+    <desc>(1960, NR) Starring Deborah Kerr, Robert Mitchum and Peter Ustinov. In Australia's Outback during the early twentieth century, the impoverished Carmody family lives a nomadic life out of their wagon, but the mom and son want to settle, while the dad is against it.</desc>
+  </programme>
+  <programme start="20261126070500 -0600" stop="20261126090500 -0600" channel="nost">
+    <title>The Reluctant Astronaut</title>
+    <desc>(1967, G, ★★★★☆) A timid carnival worker who is afraid of heights is mistakenly hired by NASA and soon finds himself caught up in an unexpected space adventure. Don Knotts stars in this lighthearted family comedy filled with slapstick humor, lovable mishaps and out-of-this-world fun.</desc>
+  </programme>
+  <programme start="20261126090500 -0600" stop="20261126110000 -0600" channel="nost">
+    <title>Adam's Rib</title>
+    <desc>(1949, TV-PG) Husband and wife attorneys are forced to take opposite sides of a courtroom when they battle it out in an intense case involving a blonde bombshell who is being accused of murdering her philandering husband's young mistress.</desc>
+  </programme>
+  <programme start="20261126110000 -0600" stop="20261126125000 -0600" channel="nost">
+    <title>Mayflower: The Pilgrims' Adventure</title>
+    <desc>(1979, TV-PG) Starring Anthony Hopkins, Richard Crenna and Jenny Agutter. In 1620, the Assembly of the Pilgrims decides to emigrate to the young America because of the persecution they suffer by the English crown. This movie tells the adventurous journey of the Pilgrims to an unknown land and future.</desc>
+  </programme>
+  <programme start="20261126125000 -0600" stop="20261126165000 -0600" channel="nost">
+    <title>Lawrence of Arabia</title>
+    <desc>(1962, PG, ★★★★★) A brilliant but unconventional British officer unites Arab tribes against the Ottoman Empire during World War I. Peter O’Toole, Alec Guinness and Omar Sharif star in David Lean’s sweeping cinematic epic.</desc>
+  </programme>
+  <programme start="20261126165000 -0600" stop="20261126190000 -0600" channel="nost">
+    <title>Some Like It Hot</title>
+    <desc>(1959, NR, ★★★★★) After witnessing a mob hit, two musicians disguise themselves as women and join an all-female band headed to Florida, where romance and comic complications quickly follow. Marilyn Monroe, Tony Curtis and Jack Lemmon star in Billy Wilder’s fast-paced classic, widely celebrated for its sharp dialogue, unforgettable performances and timeless humor.</desc>
+  </programme>
+  <programme start="20261126190000 -0600" stop="20261126210000 -0600" channel="nost">
+    <title>The Homecoming: A Christmas Story</title>
+    <desc>(1971, PG) Starring Patricia Neal, Richard Thomas and Edgar Bergen. On Christmas Eve 1933, the Waltons prepare for the holiday, but they are becoming increasingly worried because John Walton, who was forced to take work in another part of the state, has not yet returned home.</desc>
+  </programme>
+  <programme start="20261126210000 -0600" stop="20261126230000 -0600" channel="nost">
+    <title>Guess Who's Coming to Dinner</title>
+    <desc>(1967, NR, ★★★★☆) Starring Spencer Tracy, Sidney Poitier and Katharine Hepburn. A young woman brings her fiancé home to meet her liberal parents, forcing both families to confront love, prejudice and changing social expectations over one unforgettable dinner.</desc>
+  </programme>
+  <programme start="20261126230000 -0600" stop="20261127003000 -0600" channel="nost">
+    <title>Union Station</title>
+    <desc>(1950, NR) Starring William Holden, Nancy Olson and Barry Fitzgerald. A sharp-eyed woman spots a man with a gun on a train and her alert to the railroad police helps them in their search for a ruthless gang who have kidnapped a blind heiress. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
+  </programme>
+  <programme start="20261127003000 -0600" stop="20261127022500 -0600" channel="nost">
+    <title>Salome, Where She Danced</title>
+    <desc>(1945, TV-PG) Starring Yvonne De Carlo, Rod Cameron and David Bruce. A famous Viennese ballerina flees Europe during the Austro-Prussian War and falls in love with an American bandit who looks like her deceased royal lover.</desc>
+  </programme>
+  <programme start="20261127022500 -0600" stop="20261127040500 -0600" channel="nost">
+    <title>Rescue from Gilligan's Island</title>
+    <desc>(1978, TV-PG) The castaways must try to readjust to life in civilization after they are rescued from the island.</desc>
+  </programme>
+  <programme start="20261127040500 -0600" stop="20261127054500 -0600" channel="nost">
+    <title>Seven Alone</title>
+    <desc>(1974, G) Starring Dewey Martin, Anne Collings and Aldo Ray. A frontier family crosses the U.S. by wagon train, hoping for a better life in the Oregon Territory.</desc>
+  </programme>
+  <programme start="20261127054500 -0600" stop="20261127080000 -0600" channel="nost">
+    <title>The Glenn Miller Story</title>
+    <desc>(1954, TV-G, ★★★★☆) The life of legendary bandleader Glenn Miller comes to life, tracing his rise from struggling trombonist to swing-era icon whose music defined a generation. James Stewart stars in this uplifting musical biography filled with timeless hits and heartfelt moments.</desc>
+  </programme>
+  <programme start="20261127080000 -0600" stop="20261127110000 -0600" channel="nost">
+    <title>My Fair Lady</title>
+    <desc>(1964, G, ★★★★★) A celebrated phonetics professor wagers that he can transform a spirited Cockney flower seller into a refined society lady, setting off a witty battle of manners, class and identity. Audrey Hepburn and Rex Harrison star in this lavish, Academy Award-winning musical.</desc>
+  </programme>
+  <programme start="20261127110000 -0600" stop="20261127141000 -0600" channel="nost">
+    <title>The Sound of Music</title>
+    <desc>(1965, G, ★★★★★) Starring Julie Andrews, Christopher Plummer and Eleanor Parker. A spirited young governess brings music, joy and love to the von Trapp family, even as the rising threat of war forces them to make a courageous escape.</desc>
+  </programme>
+  <programme start="20261127141000 -0600" stop="20261127190000 -0600" channel="nost">
+    <title>Cleopatra</title>
+    <desc>(1963, G, ★★★★☆) The legendary Queen of Egypt becomes entangled in political intrigue and romance with two of Rome’s most powerful leaders. Elizabeth Taylor, Richard Burton, Rex Harrison, Roddy McDowall.</desc>
+  </programme>
+  <programme start="20261127190000 -0600" stop="20261127211500 -0600" channel="nost">
+    <title>Robin and the 7 Hoods</title>
+    <desc>(1964, TV-G, ★★★☆☆) In Prohibition-era Chicago, a mobster with a conscience takes on corrupt rivals while helping the less fortunate, Robin Hood–style. Frank Sinatra leads the Rat Pack alongside Dean Martin and Sammy Davis Jr. in this musical crime comedy filled with swagger and song.</desc>
+  </programme>
+  <programme start="20261127211500 -0600" stop="20261127230000 -0600" channel="nost">
+    <title>Gidget</title>
+    <desc>(1959, NR, ★★★) Starring Sandra Dee, James Darren and Cliff Robertson. A teenage girl discovers surfing, summer romance and newfound independence during a life-changing vacation at the beach.</desc>
+  </programme>
+  <programme start="20261127230000 -0600" stop="20261128005000 -0600" channel="nost">
+    <title>I Married Wyatt Earp</title>
+    <desc>(1983, TV-PG) Starring Marie Osmond and Bruce Boxleitner. Based on the memoirs of Josephine Marcus Earp, a young opera singer from San Francisco, this docudrama tells the story of how she became the wife of legendary lawman Wyatt Earp. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
+  </programme>
+  <programme start="20261128005000 -0600" stop="20261128031500 -0600" channel="nost">
+    <title>Star Trek: The Motion Picture</title>
+    <desc>(1979, G, ★★★☆☆) Admiral James T. Kirk reunites the crew of the USS Enterprise to confront a mysterious and immensely powerful alien cloud approaching Earth. William Shatner, Leonard Nimoy and DeForest Kelley return in this visually ambitious big-screen adventure.</desc>
+  </programme>
+  <programme start="20261128031500 -0600" stop="20261128050000 -0600" channel="nost">
+    <title>Alias Jesse James</title>
+    <desc>(1959, NR) Starring Bob Hope, Rhonda Fleming and Wendell Corey. Outlaw T.J. "Jesse" James tries to kill insurance agent Milford Farnsworth, who has been mistaken for him in order to collect on a big policy.</desc>
+  </programme>
+  <programme start="20261128050000 -0600" stop="20261128053000 -0600" channel="nost">
+    <title>Dangerous Assignment</title>
+    <desc>S1 E26 - Steve is send back to Paris, this time serving as bodyguard to a young French woman who was witness to a murder, until he can turn her over to the police.</desc>
+  </programme>
+  <programme start="20261128053000 -0600" stop="20261128060000 -0600" channel="nost">
+    <title>Man With a Camera</title>
+    <desc>S2 E3 - Mike suspects the body recently pushed into a well belongs to the man he was hired to prove is still alive.</desc>
+  </programme>
+  <programme start="20261128060000 -0600" stop="20261128063000 -0600" channel="nost">
+    <title>Blondie</title>
+    <desc>S1 E13 - Dagwood is concerned about how much he is getting paid and with Blondie's coaching confronts Mr Dithers about a pay rise.</desc>
+  </programme>
+  <programme start="20261128063000 -0600" stop="20261128070000 -0600" channel="nost">
+    <title>The Lucy Show</title>
+    <desc>S6 E1 - Lucy moonlights as Milton Berle's secretary. She overhears Milton rehearsing a torrid love scene, thinks that the comedian is cheating on his wife and plots a suitable comeuppance.</desc>
+  </programme>
+  <programme start="20261128070000 -0600" stop="20261128080000 -0600" channel="nost">
+    <title>Bonanza</title>
+    <desc>S1 E30 - A woman dies. Her husband is in prison, and the sheriff needs someone to look after the boy until the boy's uncle can come to claim him.</desc>
   </programme>
   <programme start="20261128080000 -0600" stop="20261128094500 -0600" channel="nost">
     <title>The Three Stooges Go Around the World in a Daze</title>
@@ -1377,74 +1498,81 @@
     <title>Cat Ballou</title>
     <desc>(1965, PG) Jane Fonda stars as a young teacher turned outlaw who is out to avenge her father's death. Also starring Lee Marvin (who won an Oscar for this role) and Michael Callan.</desc>
   </programme>
-  <programme start="20261128113500 -0600" stop="20261128174500 -0600" channel="nost">
+  <programme start="20261128113500 -0600" stop="20261128134500 -0600" channel="nost">
     <title>Stalag 17</title>
     <desc>(1953, NR, ★★★★★) American prisoners in a German POW camp suspect that one of their own is secretly informing on them, turning suspicion toward a cynical and resourceful sergeant. William Holden, Don Taylor and Otto Preminger star in Billy Wilder’s acclaimed wartime classic.</desc>
   </programme>
-  <programme start="20261128174500 -0600" stop="20261129073000 -0600" channel="nost">
+  <programme start="20261128134500 -0600" stop="20261128151500 -0600" channel="nost">
+    <title>Jack and the Beanstalk</title>
+    <desc>(1952, Not Rated) Starring Bud Abbott and Lou Costello. Abbott &amp; Costello's version of the famous fairy tale, about a young boy who trades the family cow for magic beans.</desc>
+  </programme>
+  <programme start="20261128151500 -0600" stop="20261128174500 -0600" channel="nost">
+    <title>The Grapes of Wrath</title>
+    <desc>(1940, Not Rated, ★★★★★) A struggling Oklahoma family heads west to California during the Great Depression in search of work and a better life. Henry Fonda and Jane Darwell star in John Ford’s powerful adaptation of John Steinbeck’s classic novel.</desc>
+  </programme>
+  <programme start="20261128174500 -0600" stop="20261128200000 -0600" channel="nost">
     <title>The Birds</title>
-    <desc>(1963, PG-13) Starring Rod Taylor, Tippi Hedren and Jessica Tandy. A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
+    <desc>(1963, PG-13) Starring Rod Taylor, Tippi Hedren and Jessica Tandy. A wealthy San Francisco socialite pursues a potential boyfriend to a small Northern California town that slowly takes a turn for the bizarre when birds of all kinds suddenly begin to attack people.</desc>
   </programme>
-  <programme start="20261129073000 -0600" stop="20261130000000 -0600" channel="nost">
+  <programme start="20261128200000 -0600" stop="20261128220000 -0600" channel="nost">
+    <title>Dr. Paul Bearer's Creature Feature</title>
+    <desc>S1 E21 - The Ghost (1963, NR) A woman and her lover murder her doctor husband, but when strange things start happening, they wonder if they really killed him, or if he has come back from the dead to haunt them.</desc>
+  </programme>
+  <programme start="20261128220000 -0600" stop="20261128230000 -0600" channel="nost">
+    <title>Bonanza</title>
+    <desc>S1 E30 - A woman dies. Her husband is in prison, and the sheriff needs someone to look after the boy until the boy's uncle can come to claim him.</desc>
+  </programme>
+  <programme start="20261128230000 -0600" stop="20261129010000 -0600" channel="nost">
+    <title>Snow White and the Three Stooges</title>
+    <desc>(1961, TV-G, ★★★☆☆) When an evil queen plots to seize the throne, a kind-hearted princess finds unlikely allies in three bumbling woodsmen determined to protect her. The Three Stooges bring their signature slapstick to this fairy-tale adventure, blending classic comedy with storybook charm. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
+  </programme>
+  <programme start="20261129010000 -0600" stop="20261129030000 -0600" channel="nost">
+    <title>Dr. Paul Bearer's Creature Feature</title>
+    <desc>S1 E21 - The Ghost (1963, NR) A woman and her lover murder her doctor husband, but when strange things start happening, they wonder if they really killed him, or if he has come back from the dead to haunt them.</desc>
+  </programme>
+  <programme start="20261129030000 -0600" stop="20261129052000 -0600" channel="nost">
+    <title>The Yearling</title>
+    <desc>(1946, TV-G, ★★★★★) A young boy growing up in the Florida wilderness forms a deep bond with an orphaned fawn—learning powerful lessons about love, loss, and growing up along the way. Gregory Peck stars in this heartfelt, Oscar-winning family classic set against the beauty of the frontier.</desc>
+  </programme>
+  <programme start="20261129052000 -0600" stop="20261129073000 -0600" channel="nost">
+    <title>The Man With the Golden Arm</title>
+    <desc>(1955, TV-14, ★★★★☆) A recovering addict struggles to rebuild his life while resisting the forces pulling him back into dependency. Frank Sinatra and Kim Novak star in Otto Preminger’s powerful and groundbreaking drama.</desc>
+  </programme>
+  <programme start="20261129073000 -0600" stop="20261129080000 -0600" channel="nost">
     <title>Music and the Spoken Word</title>
-    <desc>The world-renowned Tabernacle Choir at Temple Square invites music enthusiasts to enjoy inspirational music and spoken word from the world's longest continuous broadcast in radio and television history. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
+    <desc>The world-renowned Tabernacle Choir at Temple Square invites music enthusiasts to enjoy inspirational music and spoken word from the world's longest continuous broadcast in radio and television history.</desc>
   </programme>
-  <programme start="20261123220000 -0600" stop="20261124040000 -0600" channel="TVC.caribbean">
-    <title>Caribbean Programming</title>
+  <programme start="20261129080000 -0600" stop="20261129094500 -0600" channel="nost">
+    <title>Gidget</title>
+    <desc>(1959, NR, ★★★) Starring Sandra Dee, James Darren and Cliff Robertson. A teenage girl discovers surfing, summer romance and newfound independence during a life-changing vacation at the beach.</desc>
   </programme>
-  <programme start="20261124040000 -0600" stop="20261124050000 -0600" channel="TVC.caribbean">
-    <title>Morning Inspiration</title>
+  <programme start="20261129094500 -0600" stop="20261129120000 -0600" channel="nost">
+    <title>Robin and the 7 Hoods</title>
+    <desc>(1964, TV-G, ★★★☆☆) In Prohibition-era Chicago, a mobster with a conscience takes on corrupt rivals while helping the less fortunate, Robin Hood–style. Frank Sinatra leads the Rat Pack alongside Dean Martin and Sammy Davis Jr. in this musical crime comedy filled with swagger and song.</desc>
   </programme>
-  <programme start="20261124050000 -0600" stop="20261124060000 -0600" channel="TVC.caribbean">
-    <title>Caribbean News World</title>
+  <programme start="20261129120000 -0600" stop="20261129140000 -0600" channel="nost">
+    <title>Guess Who's Coming to Dinner</title>
+    <desc>(1967, NR, ★★★★☆) Starring Spencer Tracy, Sidney Poitier and Katharine Hepburn. A young woman brings her fiancé home to meet her liberal parents, forcing both families to confront love, prejudice and changing social expectations over one unforgettable dinner.</desc>
   </programme>
-  <programme start="20261124060000 -0600" stop="20261124080000 -0600" channel="TVC.caribbean">
-    <title>Island Tea</title>
+  <programme start="20261129140000 -0600" stop="20261129160000 -0600" channel="nost">
+    <title>The Homecoming: A Christmas Story</title>
+    <desc>(1971, PG) Starring Patricia Neal, Richard Thomas and Edgar Bergen. On Christmas Eve 1933, the Waltons prepare for the holiday, but they are becoming increasingly worried because John Walton, who was forced to take work in another part of the state, has not yet returned home.</desc>
   </programme>
-  <programme start="20261124080000 -0600" stop="20261124090000 -0600" channel="TVC.caribbean">
-    <title>Insights</title>
+  <programme start="20261129160000 -0600" stop="20261129183000 -0600" channel="nost">
+    <title>The Sundowners</title>
+    <desc>(1960, NR) Starring Deborah Kerr, Robert Mitchum and Peter Ustinov. In Australia's Outback during the early twentieth century, the impoverished Carmody family lives a nomadic life out of their wagon, but the mom and son want to settle, while the dad is against it.</desc>
   </programme>
-  <programme start="20261124090000 -0600" stop="20261124093000 -0600" channel="TVC.caribbean">
-    <title>St. Maarten Newsdesk</title>
+  <programme start="20261129183000 -0600" stop="20261129190000 -0600" channel="nost">
+    <title>The Lucy Show</title>
+    <desc>S6 E1 - Lucy moonlights as Milton Berle's secretary. She overhears Milton rehearsing a torrid love scene, thinks that the comedian is cheating on his wife and plots a suitable comeuppance.</desc>
   </programme>
-  <programme start="20261124093000 -0600" stop="20261124100000 -0600" channel="TVC.caribbean">
-    <title>ECCB Connects</title>
+  <programme start="20261129190000 -0600" stop="20261129205000 -0600" channel="nost">
+    <title>Miracle on 34th Street</title>
+    <desc>(1947, NR) Starring Edmund Gwenn, Maureen O'Hara and John Payne.  After a divorced New York mother hires a nice old man to play Santa Claus at Macy's, she is startled by his claim to be the genuine article. When his sanity is questioned, a lawyer defends him in court by arguing that he's not mistaken.</desc>
   </programme>
-  <programme start="20261124100000 -0600" stop="20261124110000 -0600" channel="TVC.caribbean">
-    <title>Caribbean News World</title>
-  </programme>
-  <programme start="20261124110000 -0600" stop="20261124130000 -0600" channel="TVC.caribbean">
-    <title>Caribbean Concert</title>
-  </programme>
-  <programme start="20261124130000 -0600" stop="20261124150000 -0600" channel="TVC.caribbean">
-    <title>Sports</title>
-  </programme>
-  <programme start="20261124150000 -0600" stop="20261124153000 -0600" channel="TVC.caribbean">
-    <title>St. Maarten Newsdesk</title>
-  </programme>
-  <programme start="20261124153000 -0600" stop="20261124160000 -0600" channel="TVC.caribbean">
-    <title>ECCB Connects</title>
-  </programme>
-  <programme start="20261124160000 -0600" stop="20261124170000 -0600" channel="TVC.caribbean">
-    <title>Insights</title>
-  </programme>
-  <programme start="20261124170000 -0600" stop="20261124180000 -0600" channel="TVC.caribbean">
-    <title>Caribbean News World</title>
-  </programme>
-  <programme start="20261124180000 -0600" stop="20261124183000 -0600" channel="TVC.caribbean">
-    <title>Newsline 360</title>
-  </programme>
-  <programme start="20261124183000 -0600" stop="20261124190000 -0600" channel="TVC.caribbean">
-    <title>On Location</title>
-  </programme>
-  <programme start="20261124190000 -0600" stop="20261124200000 -0600" channel="TVC.caribbean">
-    <title>Let's Talk With Jess</title>
-  </programme>
-  <programme start="20261124200000 -0600" stop="20261124210000 -0600" channel="TVC.caribbean">
-    <title>CAAG Top 10</title>
-  </programme>
-  <programme start="20261124210000 -0600" stop="20261124220000 -0600" channel="TVC.caribbean">
-    <title>Caribbean News World</title>
+  <programme start="20261129205000 -0600" stop="20261130000000 -0600" channel="nost">
+    <title>Gunfight at the O.K. Corral</title>
+    <desc>(1957, NR, ★★★★☆) Lawman Wyatt Earp joins forces with gambler and gunslinger Doc Holliday as tensions with a ruthless outlaw clan build toward the legendary showdown at the O.K. Corral. Burt Lancaster and Kirk Douglas star in this classic Western. Manage Consent To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions. Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. Statistics Statistics The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. Marketing Marketing The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes. Manage options Manage services Manage {vendor_count} vendors Read more about these purposes Accept Deny View preferences Save preferences View preferences {title} {title} {title} Manage consent</desc>
   </programme>
   <programme start="20261124220000 -0600" stop="20261125040000 -0600" channel="TVC.caribbean">
     <title>Caribbean Programming</title>
@@ -2127,37 +2255,62 @@
   <programme start="20261207210000 -0600" stop="20261207220000 -0600" channel="TVC.caribbean">
     <title>Caribbean News World</title>
   </programme>
-  <programme start="20261123220000 -0600" stop="20261124140000 -0600" channel="ZIZ.tv">
-    <title>Archive Classics</title>
-    <desc>Footage from the ZIZ vault, back to the 1970s</desc>
+  <programme start="20261207220000 -0600" stop="20261208040000 -0600" channel="TVC.caribbean">
+    <title>Caribbean Programming</title>
   </programme>
-  <programme start="20261124140000 -0600" stop="20261124150000 -0600" channel="ZIZ.tv">
-    <title>Afternoon Line-Up</title>
-    <desc>Community programming and features</desc>
+  <programme start="20261208040000 -0600" stop="20261208050000 -0600" channel="TVC.caribbean">
+    <title>Morning Inspiration</title>
   </programme>
-  <programme start="20261124150000 -0600" stop="20261124160000 -0600" channel="ZIZ.tv">
-    <title>Community Spotlight</title>
-    <desc>Stories from across the Federation</desc>
+  <programme start="20261208050000 -0600" stop="20261208060000 -0600" channel="TVC.caribbean">
+    <title>Caribbean News World</title>
   </programme>
-  <programme start="20261124160000 -0600" stop="20261124170000 -0600" channel="ZIZ.tv">
-    <title>Health Wise</title>
-    <desc>The medical and wellness show</desc>
+  <programme start="20261208060000 -0600" stop="20261208080000 -0600" channel="TVC.caribbean">
+    <title>Island Tea</title>
   </programme>
-  <programme start="20261124170000 -0600" stop="20261124180000 -0600" channel="ZIZ.tv">
-    <title>ZIZ Evening News</title>
-    <desc>The day's headlines, live</desc>
+  <programme start="20261208080000 -0600" stop="20261208090000 -0600" channel="TVC.caribbean">
+    <title>Insights</title>
   </programme>
-  <programme start="20261124180000 -0600" stop="20261124190000 -0600" channel="ZIZ.tv">
-    <title>Federation Focus</title>
-    <desc>In-depth interviews and analysis</desc>
+  <programme start="20261208090000 -0600" stop="20261208093000 -0600" channel="TVC.caribbean">
+    <title>St. Maarten Newsdesk</title>
   </programme>
-  <programme start="20261124190000 -0600" stop="20261124200000 -0600" channel="ZIZ.tv">
-    <title>Telecomms Talk &amp; Action Sports</title>
-    <desc>Live local show</desc>
+  <programme start="20261208093000 -0600" stop="20261208100000 -0600" channel="TVC.caribbean">
+    <title>ECCB Connects</title>
   </programme>
-  <programme start="20261124200000 -0600" stop="20261124220000 -0600" channel="ZIZ.tv">
-    <title>Policing With You</title>
-    <desc>Public safety with the Police Force</desc>
+  <programme start="20261208100000 -0600" stop="20261208110000 -0600" channel="TVC.caribbean">
+    <title>Caribbean News World</title>
+  </programme>
+  <programme start="20261208110000 -0600" stop="20261208130000 -0600" channel="TVC.caribbean">
+    <title>Caribbean Concert</title>
+  </programme>
+  <programme start="20261208130000 -0600" stop="20261208150000 -0600" channel="TVC.caribbean">
+    <title>Sports</title>
+  </programme>
+  <programme start="20261208150000 -0600" stop="20261208153000 -0600" channel="TVC.caribbean">
+    <title>St. Maarten Newsdesk</title>
+  </programme>
+  <programme start="20261208153000 -0600" stop="20261208160000 -0600" channel="TVC.caribbean">
+    <title>ECCB Connects</title>
+  </programme>
+  <programme start="20261208160000 -0600" stop="20261208170000 -0600" channel="TVC.caribbean">
+    <title>Insights</title>
+  </programme>
+  <programme start="20261208170000 -0600" stop="20261208180000 -0600" channel="TVC.caribbean">
+    <title>Caribbean News World</title>
+  </programme>
+  <programme start="20261208180000 -0600" stop="20261208183000 -0600" channel="TVC.caribbean">
+    <title>Newsline 360</title>
+  </programme>
+  <programme start="20261208183000 -0600" stop="20261208190000 -0600" channel="TVC.caribbean">
+    <title>On Location</title>
+  </programme>
+  <programme start="20261208190000 -0600" stop="20261208200000 -0600" channel="TVC.caribbean">
+    <title>Let's Talk With Jess</title>
+  </programme>
+  <programme start="20261208200000 -0600" stop="20261208210000 -0600" channel="TVC.caribbean">
+    <title>CAAG Top 10</title>
+  </programme>
+  <programme start="20261208210000 -0600" stop="20261208220000 -0600" channel="TVC.caribbean">
+    <title>Caribbean News World</title>
   </programme>
   <programme start="20261124220000 -0600" stop="20261125140000 -0600" channel="ZIZ.tv">
     <title>Archive Classics</title>
@@ -2539,128 +2692,37 @@
     <title>Policing With You</title>
     <desc>Public safety with the Police Force</desc>
   </programme>
-  <programme start="20261123040000 -0600" stop="20261123040500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
+  <programme start="20261207220000 -0600" stop="20261208140000 -0600" channel="ZIZ.tv">
+    <title>Archive Classics</title>
+    <desc>Footage from the ZIZ vault, back to the 1970s</desc>
   </programme>
-  <programme start="20261123040500 -0600" stop="20261123050000 -0600" channel="WESN.tt">
-    <title>AM Prime</title>
+  <programme start="20261208140000 -0600" stop="20261208150000 -0600" channel="ZIZ.tv">
+    <title>Afternoon Line-Up</title>
+    <desc>Community programming and features</desc>
   </programme>
-  <programme start="20261123050000 -0600" stop="20261123050500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
+  <programme start="20261208150000 -0600" stop="20261208160000 -0600" channel="ZIZ.tv">
+    <title>Community Spotlight</title>
+    <desc>Stories from across the Federation</desc>
   </programme>
-  <programme start="20261123050500 -0600" stop="20261123053000 -0600" channel="WESN.tt">
-    <title>AM Prime</title>
+  <programme start="20261208160000 -0600" stop="20261208170000 -0600" channel="ZIZ.tv">
+    <title>Health Wise</title>
+    <desc>The medical and wellness show</desc>
   </programme>
-  <programme start="20261123053000 -0600" stop="20261123060000 -0600" channel="WESN.tt">
-    <title>France 24</title>
+  <programme start="20261208170000 -0600" stop="20261208180000 -0600" channel="ZIZ.tv">
+    <title>ZIZ Evening News</title>
+    <desc>The day's headlines, live</desc>
   </programme>
-  <programme start="20261123060000 -0600" stop="20261123070000 -0600" channel="WESN.tt">
-    <title>Talking Point</title>
+  <programme start="20261208180000 -0600" stop="20261208190000 -0600" channel="ZIZ.tv">
+    <title>Federation Focus</title>
+    <desc>In-depth interviews and analysis</desc>
   </programme>
-  <programme start="20261123070000 -0600" stop="20261123070500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
+  <programme start="20261208190000 -0600" stop="20261208200000 -0600" channel="ZIZ.tv">
+    <title>Telecomms Talk &amp; Action Sports</title>
+    <desc>Live local show</desc>
   </programme>
-  <programme start="20261123070500 -0600" stop="20261123073000 -0600" channel="WESN.tt">
-    <title>Talking Point</title>
-  </programme>
-  <programme start="20261123073000 -0600" stop="20261123080000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261123080000 -0600" stop="20261123080500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261123080500 -0600" stop="20261123083000 -0600" channel="WESN.tt">
-    <title>10 Questions with Andy Johnson (Repeat)</title>
-  </programme>
-  <programme start="20261123083000 -0600" stop="20261123090000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261123090000 -0600" stop="20261123090500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261123090500 -0600" stop="20261123093000 -0600" channel="WESN.tt">
-    <title>Psyched (Repeat)</title>
-  </programme>
-  <programme start="20261123093000 -0600" stop="20261123100000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261123100000 -0600" stop="20261123100500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261123100500 -0600" stop="20261123110000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261123110000 -0600" stop="20261123110500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261123110500 -0600" stop="20261123120000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261123120000 -0600" stop="20261123120500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261123120500 -0600" stop="20261123123000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261123123000 -0600" stop="20261123140000 -0600" channel="WESN.tt">
-    <title>The Face of Sports</title>
-  </programme>
-  <programme start="20261123140000 -0600" stop="20261123140500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261123140500 -0600" stop="20261123143000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261123143000 -0600" stop="20261123150000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261123150000 -0600" stop="20261123150500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261123150500 -0600" stop="20261123153000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261123153000 -0600" stop="20261123160000 -0600" channel="WESN.tt">
-    <title>Strictly Legal (Repeat)</title>
-  </programme>
-  <programme start="20261123160000 -0600" stop="20261123160500 -0600" channel="WESN.tt">
-    <title>WESN News</title>
-  </programme>
-  <programme start="20261123160500 -0600" stop="20261123173000 -0600" channel="WESN.tt">
-    <title>AM Prime</title>
-  </programme>
-  <programme start="20261123173000 -0600" stop="20261123180000 -0600" channel="WESN.tt">
-    <title>Psyched</title>
-  </programme>
-  <programme start="20261123180000 -0600" stop="20261123183000 -0600" channel="WESN.tt">
-    <title>WE Comedy Jam</title>
-  </programme>
-  <programme start="20261123183000 -0600" stop="20261123190000 -0600" channel="WESN.tt">
-    <title>Long Story Short</title>
-  </programme>
-  <programme start="20261123190000 -0600" stop="20261123203000 -0600" channel="WESN.tt">
-    <title>Talking Point</title>
-  </programme>
-  <programme start="20261123203000 -0600" stop="20261123220000 -0600" channel="WESN.tt">
-    <title>The Face of Sports</title>
-  </programme>
-  <programme start="20261123220000 -0600" stop="20261123233000 -0600" channel="WESN.tt">
-    <title>AM Prime</title>
-  </programme>
-  <programme start="20261123233000 -0600" stop="20261124000000 -0600" channel="WESN.tt">
-    <title>France 24</title>
-  </programme>
-  <programme start="20261124000000 -0600" stop="20261124013000 -0600" channel="WESN.tt">
-    <title>Talking Point</title>
-  </programme>
-  <programme start="20261124013000 -0600" stop="20261124030000 -0600" channel="WESN.tt">
-    <title>The Face of Sports</title>
-  </programme>
-  <programme start="20261124030000 -0600" stop="20261124033000 -0600" channel="WESN.tt">
-    <title>Psyched</title>
-  </programme>
-  <programme start="20261124033000 -0600" stop="20261124040000 -0600" channel="WESN.tt">
-    <title>Religious Program: Joyful Mysteries</title>
+  <programme start="20261208200000 -0600" stop="20261208220000 -0600" channel="ZIZ.tv">
+    <title>Policing With You</title>
+    <desc>Public safety with the Police Force</desc>
   </programme>
   <programme start="20261124040000 -0600" stop="20261124040500 -0600" channel="WESN.tt">
     <title>WESN News</title>
@@ -3895,56 +3957,128 @@
   <programme start="20261208030000 -0600" stop="20261208033000 -0600" channel="WESN.tt">
     <title>Psyched</title>
   </programme>
-  <programme start="20261123235800 -0500" stop="20261124020000 -0500" channel="WWON.ny48">
-    <title lang="en">The Midnight Movie</title>
+  <programme start="20261208033000 -0600" stop="20261208040000 -0600" channel="WESN.tt">
+    <title>Religious Program: Joyful Mysteries</title>
   </programme>
-  <programme start="20261124020000 -0500" stop="20261124060000 -0500" channel="WWON.ny48">
-    <title lang="en">Late Movies &amp; Late Late Movies</title>
+  <programme start="20261208040000 -0600" stop="20261208040500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
   </programme>
-  <programme start="20261124060000 -0500" stop="20261124100000 -0500" channel="WWON.ny48">
-    <title lang="en">The Early Show</title>
+  <programme start="20261208040500 -0600" stop="20261208050000 -0600" channel="WESN.tt">
+    <title>AM Prime</title>
   </programme>
-  <programme start="20261124100000 -0500" stop="20261124110000 -0500" channel="WWON.ny48">
-    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
+  <programme start="20261208050000 -0600" stop="20261208050500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
   </programme>
-  <programme start="20261124110000 -0500" stop="20261124120000 -0500" channel="WWON.ny48">
-    <title lang="en">Yancy Derringer</title>
+  <programme start="20261208050500 -0600" stop="20261208053000 -0600" channel="WESN.tt">
+    <title>AM Prime</title>
   </programme>
-  <programme start="20261124120000 -0500" stop="20261124130000 -0500" channel="WWON.ny48">
-    <title lang="en">Sky King</title>
+  <programme start="20261208053000 -0600" stop="20261208060000 -0600" channel="WESN.tt">
+    <title>France 24</title>
   </programme>
-  <programme start="20261124130000 -0500" stop="20261124140000 -0500" channel="WWON.ny48">
-    <title lang="en">It's About Time</title>
+  <programme start="20261208060000 -0600" stop="20261208070000 -0600" channel="WESN.tt">
+    <title>Talking Point</title>
   </programme>
-  <programme start="20261124140000 -0500" stop="20261124150000 -0500" channel="WWON.ny48">
-    <title lang="en">Follow That Man</title>
+  <programme start="20261208070000 -0600" stop="20261208070500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
   </programme>
-  <programme start="20261124150000 -0500" stop="20261124160000 -0500" channel="WWON.ny48">
-    <title lang="en">Lights Out</title>
+  <programme start="20261208070500 -0600" stop="20261208073000 -0600" channel="WESN.tt">
+    <title>Talking Point</title>
   </programme>
-  <programme start="20261124160000 -0500" stop="20261124170000 -0500" channel="WWON.ny48">
-    <title lang="en">Sherlock Holmes</title>
+  <programme start="20261208073000 -0600" stop="20261208080000 -0600" channel="WESN.tt">
+    <title>France 24</title>
   </programme>
-  <programme start="20261124170000 -0500" stop="20261124180000 -0500" channel="WWON.ny48">
-    <title lang="en">Decoy</title>
+  <programme start="20261208080000 -0600" stop="20261208080500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
   </programme>
-  <programme start="20261124180000 -0500" stop="20261124190000 -0500" channel="WWON.ny48">
-    <title lang="en">The Red Skelton Show</title>
+  <programme start="20261208080500 -0600" stop="20261208083000 -0600" channel="WESN.tt">
+    <title>Strictly Legal (Repeat)</title>
   </programme>
-  <programme start="20261124190000 -0500" stop="20261124193000 -0500" channel="WWON.ny48">
-    <title lang="en">The Chad &amp; Bunny Show</title>
+  <programme start="20261208083000 -0600" stop="20261208090000 -0600" channel="WESN.tt">
+    <title>France 24</title>
   </programme>
-  <programme start="20261124193000 -0500" stop="20261124200000 -0500" channel="WWON.ny48">
-    <title lang="en">Super Mega Trivia Slam</title>
+  <programme start="20261208090000 -0600" stop="20261208090500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
   </programme>
-  <programme start="20261124200000 -0500" stop="20261124230000 -0500" channel="WWON.ny48">
-    <title lang="en">Primetime Movie Showcases</title>
+  <programme start="20261208090500 -0600" stop="20261208093000 -0600" channel="WESN.tt">
+    <title>France 24</title>
   </programme>
-  <programme start="20261124230000 -0500" stop="20261124233000 -0500" channel="WWON.ny48">
-    <title lang="en">Rock "N" Roll Video Show</title>
+  <programme start="20261208093000 -0600" stop="20261208100000 -0600" channel="WESN.tt">
+    <title>What's Up Doc (Season 3)</title>
   </programme>
-  <programme start="20261124233000 -0500" stop="20261124235800 -0500" channel="WWON.ny48">
-    <title lang="en">Bobby's Mic</title>
+  <programme start="20261208100000 -0600" stop="20261208100500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261208100500 -0600" stop="20261208110000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261208110000 -0600" stop="20261208110500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261208110500 -0600" stop="20261208120000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261208120000 -0600" stop="20261208120500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261208120500 -0600" stop="20261208123000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261208123000 -0600" stop="20261208140000 -0600" channel="WESN.tt">
+    <title>The Face of Sports</title>
+  </programme>
+  <programme start="20261208140000 -0600" stop="20261208140500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261208140500 -0600" stop="20261208143000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261208143000 -0600" stop="20261208150000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261208150000 -0600" stop="20261208150500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261208150500 -0600" stop="20261208153000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261208153000 -0600" stop="20261208160000 -0600" channel="WESN.tt">
+    <title>10 Questions with Andy Johnson</title>
+  </programme>
+  <programme start="20261208160000 -0600" stop="20261208160500 -0600" channel="WESN.tt">
+    <title>WESN News</title>
+  </programme>
+  <programme start="20261208160500 -0600" stop="20261208173000 -0600" channel="WESN.tt">
+    <title>AM Prime</title>
+  </programme>
+  <programme start="20261208173000 -0600" stop="20261208180000 -0600" channel="WESN.tt">
+    <title>Strictly Legal</title>
+  </programme>
+  <programme start="20261208180000 -0600" stop="20261208183000 -0600" channel="WESN.tt">
+    <title>What's Up Doc (Season 3)</title>
+  </programme>
+  <programme start="20261208183000 -0600" stop="20261208190000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261208190000 -0600" stop="20261208203000 -0600" channel="WESN.tt">
+    <title>Talking Point</title>
+  </programme>
+  <programme start="20261208203000 -0600" stop="20261208220000 -0600" channel="WESN.tt">
+    <title>The Face of Sports</title>
+  </programme>
+  <programme start="20261208220000 -0600" stop="20261208233000 -0600" channel="WESN.tt">
+    <title>AM Prime</title>
+  </programme>
+  <programme start="20261208233000 -0600" stop="20261209000000 -0600" channel="WESN.tt">
+    <title>France 24</title>
+  </programme>
+  <programme start="20261209000000 -0600" stop="20261209013000 -0600" channel="WESN.tt">
+    <title>Talking Point</title>
+  </programme>
+  <programme start="20261209013000 -0600" stop="20261209030000 -0600" channel="WESN.tt">
+    <title>The Face of Sports</title>
+  </programme>
+  <programme start="20261209030000 -0600" stop="20261209033000 -0600" channel="WESN.tt">
+    <title>Strictly Legal</title>
   </programme>
   <programme start="20261124235800 -0500" stop="20261125020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
@@ -5330,6 +5464,51 @@
     <title lang="en">After Hours With T.C Restani</title>
   </programme>
   <programme start="20261223235800 -0500" stop="20261224020000 -0500" channel="WWON.ny48">
+    <title lang="en">The Midnight Movie</title>
+  </programme>
+  <programme start="20261224020000 -0500" stop="20261224060000 -0500" channel="WWON.ny48">
+    <title lang="en">Late Movies &amp; Late Late Movies</title>
+  </programme>
+  <programme start="20261224060000 -0500" stop="20261224100000 -0500" channel="WWON.ny48">
+    <title lang="en">The Early Show</title>
+  </programme>
+  <programme start="20261224100000 -0500" stop="20261224110000 -0500" channel="WWON.ny48">
+    <title lang="en">Hawkeye &amp; The Last Of The Mohicans</title>
+  </programme>
+  <programme start="20261224110000 -0500" stop="20261224120000 -0500" channel="WWON.ny48">
+    <title lang="en">Yancy Derringer</title>
+  </programme>
+  <programme start="20261224120000 -0500" stop="20261224130000 -0500" channel="WWON.ny48">
+    <title lang="en">Sky King</title>
+  </programme>
+  <programme start="20261224130000 -0500" stop="20261224140000 -0500" channel="WWON.ny48">
+    <title lang="en">It's About Time</title>
+  </programme>
+  <programme start="20261224140000 -0500" stop="20261224150000 -0500" channel="WWON.ny48">
+    <title lang="en">Follow That Man</title>
+  </programme>
+  <programme start="20261224150000 -0500" stop="20261224160000 -0500" channel="WWON.ny48">
+    <title lang="en">Lights Out</title>
+  </programme>
+  <programme start="20261224160000 -0500" stop="20261224170000 -0500" channel="WWON.ny48">
+    <title lang="en">Sherlock Holmes</title>
+  </programme>
+  <programme start="20261224170000 -0500" stop="20261224180000 -0500" channel="WWON.ny48">
+    <title lang="en">Decoy</title>
+  </programme>
+  <programme start="20261224180000 -0500" stop="20261224190000 -0500" channel="WWON.ny48">
+    <title lang="en">The Red Skelton Show</title>
+  </programme>
+  <programme start="20261224190000 -0500" stop="20261224193000 -0500" channel="WWON.ny48">
+    <title lang="en">The Chad &amp; Bunny Show</title>
+  </programme>
+  <programme start="20261224193000 -0500" stop="20261224200000 -0500" channel="WWON.ny48">
+    <title lang="en">Super Mega Trivia Slam</title>
+  </programme>
+  <programme start="20261224200000 -0500" stop="20261224235800 -0500" channel="WWON.ny48">
+    <title lang="en">Primetime Movie Showcases</title>
+  </programme>
+  <programme start="20261224235800 -0500" stop="20261225020000 -0500" channel="WWON.ny48">
     <title lang="en">The Midnight Movie</title>
   </programme>
 </tv>
